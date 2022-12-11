@@ -1,24 +1,28 @@
 import rpyc
 
 
-def importIP(inputfile) #reads file and returns all ip from list
+def importIP(inputfile): #reads file and returns all ip from list
     # opening the file in read mode
-    my_file = open(inputfile "r")
+    my_file = open(inputfile, "r")
   
     # reading the file
     data = my_file.read()
       
-    # replacing end of line('/n') with ' ' and
-    # splitting the text it further when '.' is seen.
-    data_into_list = data.replace('\n', ' ').split(".")
+    # 
+    data_into_list = data.split("\n")
+    for data in data_into_list:
+        data.replace("\n", "")
+        print(data)
+        if(data == ""):
+            data_into_list.remove(data)
       
     # returning the data
-        return(data_into_list)
+    return(set(data_into_list))
 
-
-class nodeClient:
-    def __init__(address, port=18861):
-        self.c = rpyc.connect("localhost", 18861)
-        self.cmd = c.root
+class ClientService(rpyc.Service):
+    def __init__(self, address):
+        self.ip = address
+    def exposed_showIP(self):
+        return self.ip
 
 

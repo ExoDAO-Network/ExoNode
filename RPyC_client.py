@@ -12,7 +12,6 @@ def importIP(inputfile): #reads file and returns all ip from list
     data_into_list = data.split("\n")
     for data in data_into_list:
         data.replace("\n", "")
-        print(data)
         if(data == ""):
             data_into_list.remove(data)
       

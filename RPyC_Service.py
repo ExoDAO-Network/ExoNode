@@ -1,11 +1,12 @@
 import rpyc
 import socket
+import sys
 
 class SearchService(rpyc.Service):
     ALIASES = ["SearchNode"]
     
     def __init__(self):
-        self.IP_set = {"127.0.0.0", "0.0.0.0"} #exposed set of all ip in the network
+        self.IP_set = {"127.0.0.9", "100.100.0.0"} #exposed set of all ip in the network
         self.potential_IP_set=set([])
         
     def on_connect(self, conn):
@@ -30,7 +31,7 @@ class SearchService(rpyc.Service):
 
     def exposed_difference_IPset(self, clientSet): #Return a set that contains the items that only exist on the server and not in client:
         diff_server = self.IP_set.difference(clientSet)
-        print("success")
+        print(diff_server)
         diff_client = clientSet.copy()
         self.potential_IP_set.add(diff_client.difference(self.IP_set)) #store the IP that need to be checked
         return diff_server
@@ -51,12 +52,13 @@ class SearchService(rpyc.Service):
         return IP_list
 ######### CLASS DEFINITION OVER #################
 
-
 from rpyc.utils.server import ThreadedServer
 def StartServer(port=18861):
     t = ThreadedServer(SearchService(), port, protocol_config={'allow_public_attrs': True,})
     t.start()
     return t
 
-t = ThreadedServer(SearchService(), port=18861, protocol_config={'allow_public_attrs': True,})
+
+print("Server started with hostname= ", sys.argv[1])
+t = ThreadedServer(SearchService(),hostname=sys.argv[1], port=18861, protocol_config={'allow_public_attrs': True,})
 t.start()

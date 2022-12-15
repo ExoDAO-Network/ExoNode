@@ -43,7 +43,7 @@ class SearchService(rpyc.Service):
 
     #------- Search Related Stuff ----------
     def exposed_search_query(self,query, args=""):
-        results=42
+        results=sys.argv[2]
         return results
 
     def exposed_centroid_query(self,query, args =""): # this method returns all nodes with relavant centroids

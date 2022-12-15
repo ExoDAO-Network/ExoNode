@@ -9,7 +9,7 @@ pot_IPset =set([])
 
 cList=[]
 elist=[]
-
+results=[]
 port=18861
 for ip in IPset:
     serviceX=RC.ClientService(ip)
@@ -33,14 +33,29 @@ for Cl in  cList:
 print(pot_IPset)
 while True:
     print("Ready for search! To quit press ctrl+c")
-    print("Enter Search query:")
-    query = input()
-    print("Enter search args (optional):")
-    args = input()
-    relevantIP=set([])
-    print("Chcking neighbor Centroids...")
-    for Cl in  cList:
-        relevantIP = relevantIP.union(Cl.root.centroid_query(query, args)) #create the set of relevant IP to search 
-    for ip in relevantIP:
-        print(ip)
+    
+    print("what do you want to do? 1= centroid search, 2= full index search")
+    select = input()
+    if select == "1":
+        print("Enter Search query:")
+        query = input()
+        print("Enter search args (optional):")
+        args = input()
+        relevantIP=set([])
+        print("Chcking neighbor Centroids...")
+        for Cl in  cList:
+            relevantIP = relevantIP.union(Cl.root.centroid_query(query, args)) #create the set of relevant IP to search 
+        for ip in relevantIP:
+            print(ip)
+    elif select == "2":
+        print("Enter Search query:")
+        query = input()
+        print("Enter search args (optional):")
+        args = input()
+        relevantIP=set([])
+        print("Chcking neighbor Indices...")
+        for Cl in  cList:
+            results.append(Cl.root.search_query(query, args)) #create the set of relevant IP to search 
+        print("The results are: ", results)
+
 

@@ -1,6 +1,7 @@
 import rpyc
 import socket
 import sys
+from fuzzywuzzy import fuzz
 
 class SearchService(rpyc.Service):
     ALIASES = ["SearchNode"]
@@ -43,12 +44,21 @@ class SearchService(rpyc.Service):
 
     #------- Search Related Stuff ----------
     def exposed_search_query(self,query, args=""):
+        
+        # this method returns the results of this service
+        #INSERT CODE 
+        #code that searches using the search engine in the defined index
         results=sys.argv[2]
         return results
 
-    def exposed_centroid_query(self,query, args =""): # this method returns all nodes with relavant centroids
+    def exposed_centroid_query(self,query, args =""): 
+        # this method returns all nodes with relavant centroids
+        #INSERT CODE
         #code that searches all centroids in the server file system
-        IP_list = self.IP_set
+        if (fuzz.ratio(query,sys.argv[2])>50):
+            IP_list = self.IP_set
+        else:
+            IP_list = set([])
         return IP_list
 ######### CLASS DEFINITION OVER #################
 

@@ -10,11 +10,19 @@ from kivy.uix.widget import Widget
 from kivy.graphics import Rectangle, Color
 import rpyc
 import RPyC_client as RC
+import webbrowser
 
 
     
 
-
+class WrappedLabel(Label):
+    # Based on Tshirtman's answer
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        self.bind(
+            width=lambda *x:
+            self.setter('text_size')(self, (self.width, None)),
+            texture_size=lambda *x: self.setter('height')(self, self.texture_size[1]))
 
 
 class SwarmSearchApp(App):
@@ -33,13 +41,9 @@ class SwarmSearchApp(App):
         def print_out(input_text):
             output_label.text+=input_text+"\n"
             
-        def reset_result(instance):
-            output_label.text=""
-            results = []
         btn_reset = Button(text='Clear outputs!', size_hint_y=None,
                               width=100, height=30)
-                              
-        btn_reset.bind(on_press=reset_result)
+                             
         MainGrid = GridLayout(rows=3, size_hint_y=2)
         
         ServerGrid = GridLayout(rows=2, cols =2, size_hint_y=2)
@@ -62,10 +66,17 @@ class SwarmSearchApp(App):
         
         searchgrid.add_widget(btn_search)
         MainGrid.add_widget(searchgrid)
-        resultGrid = GridLayout(rows=3, cols =2, size_hint_y=2)
+        resultGrid = GridLayout(cols =2, size_hint_y=2)
         
         MainGrid.add_widget(resultGrid)
 
+        def reset_result(instance):
+            output_label.text=""
+            results = [] 
+            while len(resultGrid.children)>0: 
+                resultGrid.remove_widget(resultGrid.children[len(resultGrid.children)-1])
+        btn_reset.bind(on_press=reset_result)
+        
         root_widget.add_widget(btn_reset)
         root_widget.add_widget(output_label)
         root_widget.add_widget(MainGrid)
@@ -105,30 +116,43 @@ class SwarmSearchApp(App):
         
         
         print("added toggle")
-        
+        def follow_link(instance):
+            url=instance.text
+            webpage = "https://duckduckgo.com/?q="+str(url)+"&t=epiphany&ia=web"
+            webbrowser.open_new_tab(webpage)
+            
         def execute(instance):
             output_label.text += querybar.text+"\n"
             if btn1.state == 'down':
-                print_out("Enter Search query:")
                 query = querybar.text
-                print_out("Enter search args (optional):")
                 args = "input()"
                 relevantIP=set([])
-                print_out("Chcking neighbor Centroids...")
                 for Cl in  cList:
                     relevantIP = relevantIP.union(Cl.root.centroid_query(query, args)) #create the set of relevant IP to search 
                 for ip in relevantIP:
                     print_out(ip)
             elif btn2.state == 'down':
-                print_out("Enter Search query:")
                 query = querybar.text
-                print_out("Enter search args (optional):")
                 args =" input()"
                 relevantIP=set([])
-                print_out("Chcking neighbor Indices...")
+                findsmth=False
                 for Cl in  cList:
-                    results.append(Cl.root.search_query(query, args)) #create the set of relevant IP to search 
-                print_out("The results are: "+ str(results))
+                    (shortres, longres) = Cl.root.search_query(query, args)
+                    if(shortres != ""):
+                        result= Button(text=str(shortres),size_hint_y=None,
+                                  width=50, height=30)
+                        print(result.text)
+                        result.bind(on_press=follow_link)
+                        reslabel = WrappedLabel(text=str(longres),
+                        bold=True,
+                        font_size="12   sp")
+                        resultGrid.add_widget(reslabel)
+                        resultGrid.add_widget(result)
+                        findsmth =  True
+                if(not findsmth):
+                    print_out("NO RESULTS!")
+                    #results.append(Cl.root.search_query(query, args)) #create the set of relevant IP to search 
+                
             querybar.test= 'your search query'
 
         btn_search.bind(on_press=execute)

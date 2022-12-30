@@ -48,7 +48,10 @@ class SearchService(rpyc.Service):
         # this method returns the results of this service
         #INSERT CODE 
         #code that searches using the search engine in the defined index
-        results=sys.argv[2]
+        if (fuzz.ratio(query,sys.argv[2])>50):
+            results=(sys.argv[2], "a very long text that nobody will ever read, because it is anyways what they are searching")
+        else:
+            results=("","no results")        
         return results
 
     def exposed_centroid_query(self,query, args =""): 

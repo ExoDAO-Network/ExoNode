@@ -151,6 +151,8 @@ class SwarmSearchApp(App):
                         findsmth =  True
                 if(not findsmth):
                     print_out("NO RESULTS!")
+                else:
+                    resultGrid.add_widget(Label(text=''))
                     #results.append(Cl.root.search_query(query, args)) #create the set of relevant IP to search 
                 
             querybar.test= 'your search query'

@@ -55,7 +55,10 @@ while True:
             print("="*80)
             print("Result: %s" % index)
             print("="*80)
-            print("Area: %s" % result["area"])
+            area = result["area"]
+            if len(area) > 80:
+                area = area[:80] + "\n" + area[80:]
+            print("Area: %s" % area)
             print("Date: %s" % result["datum"])
             print("Score: %s" % result["score"])
             print("Hits: %s" % result["hits"])

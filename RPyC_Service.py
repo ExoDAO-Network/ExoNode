@@ -2,6 +2,10 @@ import rpyc
 import socket
 import sys
 from fuzzywuzzy import fuzz
+import sys
+import string
+from IB import *
+
 
 class SearchService(rpyc.Service):
     ALIASES = ["SearchNode"]
@@ -46,7 +50,42 @@ class SearchService(rpyc.Service):
     def exposed_search_query(self,query, args=""):
         
         # this method returns the results of this service
-        #INSERT CODE 
+        junk="/tmp/JUNK"
+        pdb = IDB(junk)
+        squery = SQUERY(query)
+        query = QUERY()
+        query.SetSQUERY(squery)
+        elements = pdb.GetTotalRecords()
+        if elements > 0:
+            rset = pdb.VSearchSmart(query)
+            if not (rset == None):
+                total = rset.GetTotalEntries()
+            else:
+                total = 0
+            print "Searching for: ", query
+            print "Got = ", total, " Records"
+    # Print the results....
+            results = []
+            for i in range(1, total+1):
+                result = rset.GetEntry(i)
+                area = pdb.Context(result, "____", "____")
+                datum = result.GetDate()
+                score = result.GetScore()
+                score  = rset.GetScaledScore(score, 100)
+                hits   = result.GetHitTable()
+                result_dict = {
+                    "result": result,
+                    "area": area,
+                    "datum": datum.RFCdate(),
+                    "score": score,
+                    "hits": pdb.Present(result, ELEMENT_Brief)
+                }
+                results.append(result_dict) 
+        else:
+            print 'Empty Index!'
+
+        pdb = None
+        return results
         #code that searches using the search engine in the defined index
         if (fuzz.ratio(query,sys.argv[2])>50):
             results=(sys.argv[2], "a very long text that nobody will ever read, because it is anyways what they are searching")

@@ -52,3 +52,13 @@ while True:
         index = 1
         for result in resultz:
             print("\n")
+            print("="*80)
+            print("Result: %s" % index)
+            print("="*80)
+            print("Area: %s" % result["area"])
+            print("Date: %s" % result["datum"])
+            print("Score: %s" % result["score"])
+            print("Hits: %s" % result["hits"])
+            print("="*80)
+            print("\n")
+            index += 1

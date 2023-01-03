@@ -1,4 +1,3 @@
-
 import rpyc
 import RPyC_client as RC
 #import RPyC_Service as RS
@@ -21,10 +20,10 @@ for ip in IPset:
     except:
         print("Could not connect to ", ip, "! Will remove IP from List!\n")
         elist.append(ip)
-        
+
 for err_ip in elist:
     IPset.discard(err_ip)
-    
+
 for Cl in  cList:
     thisSet= Cl.root.difference_IPset(frozenset(IPset))
     pot_IPset= pot_IPset.union(thisSet)
@@ -32,30 +31,24 @@ for Cl in  cList:
     #that are stored on neighbor nodes
 print(pot_IPset)
 while True:
+    results = []
     print("Ready for search! To quit press ctrl+c")
-    
-    print("what do you want to do? 1= centroid search, 2= full index search")
-    select = input()
-    if select == "1":
-        print("Enter Search query:")
-        query = input()
-        print("Enter search args (optional):")
-        args = input()
-        relevantIP=set([])
-        print("Chcking neighbor Centroids...")
-        for Cl in  cList:
-            relevantIP = relevantIP.union(Cl.root.centroid_query(query, args)) #create the set of relevant IP to search 
-        for ip in relevantIP:
-            print(ip)
-    elif select == "2":
-        print("Enter Search query:")
-        query = input()
-        print("Enter search args (optional):")
-        args = input()
-        relevantIP=set([])
-        print("Chcking neighbor Indices...")
-        for Cl in  cList:
-            results.append(Cl.root.search_query(query, args)) #create the set of relevant IP to search 
-        print("The results are: ", results)
-
-
+    relevantIP=set([])
+    print("Enter Search query:")
+    query = input()
+    relevantIP=set([])
+    print("Checking neighbor Indices...")
+    for Cl in  cList:
+        results.append(Cl.root.search_query(query)) #create the set of relevant IP to search
+    tmp = 1
+    for resultz in results:
+        print("\n")
+        print("*"*80)
+        print("Printing Results for Node "+ str(tmp))
+        print("*"*80)
+        print("\n")
+        
+        tmp += 1
+        index = 1
+        for result in resultz:
+            print("\n")

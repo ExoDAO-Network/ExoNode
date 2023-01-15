@@ -18,8 +18,14 @@ for url in feed_urls:
         print(entry.keys())
         #entry_element = ET.SubElement(root, "entry")
         entry_element = ET.SubElement(feed_element, "entry")
-        ET.SubElement(entry_element, "title").text = entry.title
-        ET.SubElement(entry_element, "link").text = entry.link
+        try:
+            ET.SubElement(entry_element, "title").text = entry.title
+        except:
+            print("no title")
+        try:
+            ET.SubElement(entry_element, "link").text = entry.link
+        except:
+            print("no link")
         try:
             ET.SubElement(entry_element, "description").text = entry.description
         except:

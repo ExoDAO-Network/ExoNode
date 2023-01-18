@@ -71,24 +71,33 @@ class SwarmSearchApp(App):
                 resultGrid.remove_widget(resultGrid.children[len(resultGrid.children)-1])
                 
                 
-        def ip_toggler(ip, instance, value):
-            print(ip)
-            print('the switch', instance, 'is', value)
+        def ip_toggler(ip,cList, cipList, sList, sipList, instance, value):
+            if(value == True):
+                index = cipList.index(ip)
+                sList.append(cList[index])
+                sipList.append(ip)
+            else:
+                index = sipList.index(ip)
+                sList.pop(index)
+                sipList.pop(index)
             
-        def scan_and_connect(IPset, cList, elist):
+        def scan_and_connect(IPset, cList, cipList, sList, sipList, elist):
             for ip in IPset:
                 serviceX=RC.ClientService(ip)
-                print_out("will connect to"+str(ip))
                 try:
                     c = rpyc.connect(ip, port, service= serviceX, config={'allow_public_attrs': True}) #create clients in all neighboring services
                     print(c)
-                    print_out("connected to service")
-                    ip_switch = Switch(active=false, on_active=partial(ip_toggler, str(ip)))
+                    
+                    ip_switch = Switch(active=False)
+                    ip_switch.bind(active=partial(ip_toggler, str(ip), cList, cipList, sList, sipList))
                     ip_label = Label(size=(30,100))
                     ip_label.text = str(ip)
                     ServerGrid.add_widget(ip_label)
                     ServerGrid.add_widget(ip_switch)
                     cList.append(c)
+                    
+                    cipList.append(ip)
+                    print_out("Connected to"+str(ip))
                 except:
                     print_out("Could not connect to "+str(ip)+ "! Try to refresh later!\n")
                     elist.append(ip)
@@ -109,28 +118,32 @@ class SwarmSearchApp(App):
         IPset = RC.importIP("ip.txt")
         pot_IPset =set([])
         cList=[]
+        cipList=[]
+        sList =[]
+        sipList=[]
         elist=[]
         results=[]
         port=18861
         print("starting RPyC")
-        scan_and_connect(IPset,cList, elist)
+        scan_and_connect(IPset,cList, cipList, sList, sipList, elist)
         
         def refresh_IP(instance):
             for ip in elist:
                 serviceX=RC.ClientService(ip)
-                print_out("will connect to"+str(ip))
                 try:
                     c = rpyc.connect(ip, port, service= serviceX, config={'allow_public_attrs': True}) #create clients in all neighboring services
-                    print_out("connected to service")
-                    ip_switch = Switch(active=True)
+                    ip_switch = Switch(active=False)
+                    ip_switch.bind(active=partial(ip_toggler, str(ip), cList, cipList, sList, sipList))
                     ip_label = Label()
                     ip_label.text = str(ip)
                     ServerGrid.add_widget(ip_label)
                     #ip_switch.bind(active =)
                     ServerGrid.add_widget(ip_switch)
                     cList.append(c)
+                    cipList.append(ip)
                     IPset.add(ip)
                     elist.remove(ip)
+                    print_out("Connected to"+str(ip))
                 except:
                     print_out("Could not connect to "+str(ip)+ "! Try to refresh later!\n")
             print("refreshed servers")
@@ -161,7 +174,7 @@ class SwarmSearchApp(App):
                 query = querybar.text
                 args = "input()"
                 relevantIP=set([])
-                for Cl in  cList:
+                for Cl in  sList:
                     relevantIP = relevantIP.union(Cl.root.centroid_query(query, args)) #create the set of relevant IP to search 
                 for ip in relevantIP:
                     print_out(ip)	
@@ -171,7 +184,7 @@ class SwarmSearchApp(App):
                 relevantIP=set([])
                 findsmth=False
                 print(type(query))
-                for Cl in  cList:
+                for Cl in  sList:
                     query_result = Cl.root.search_query(query)
                     for qresult in query_result:
                         qresult = {key: qresult[key] for key in qresult}

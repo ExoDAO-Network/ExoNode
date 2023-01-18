@@ -5,92 +5,668 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>The Biology Corner</title>
-	<atom:link href="https://www.biologycorner.com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.biologycorner.com</link>
-	<description></description>
-	<lastBuildDate>Sun, 15 Jan 2023 15:26:18 +0000</lastBuildDate>
+	<title>VentureBeat</title>
+	<atom:link href="https://venturebeat.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://venturebeat.com/</link>
+	<description>Transformative tech coverage that matters</description>
+	<lastBuildDate>Fri, 06 Jan 2023 19:18:25 -0800</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+<copyright>Copyright 2023, VentureBeat</copyright><image>
+		<title>VentureBeat</title>
+		<url>https://venturebeat.com/wp-content/themes/vb-news/brand/img/logos/VB_Extended_Logo_40H.png</url>
+		<link>https://venturebeat.com</link>
+		<width>144</width>
+		<height>23</height>
+		<description>Venturebeat.com</description>
+		</image>
+	
 	<item>
-		<title>Color the Muscles of the Head and Neck</title>
-		<link>https://www.biologycorner.com/2023/01/15/color-the-muscles-of-the-head-and-neck/</link>
-					<comments>https://www.biologycorner.com/2023/01/15/color-the-muscles-of-the-head-and-neck/#respond</comments>
-		
-		<dc:creator><![CDATA[Shannan Muskopf]]></dc:creator>
-		<pubDate>Sun, 15 Jan 2023 15:26:17 +0000</pubDate>
-				<category><![CDATA[Anatomy]]></category>
-		<category><![CDATA[Worksheets]]></category>
-		<category><![CDATA[activity]]></category>
-		<category><![CDATA[head]]></category>
-		<category><![CDATA[learn]]></category>
-		<category><![CDATA[muscles]]></category>
-		<guid isPermaLink="false">https://www.biologycorner.com/?p=10306</guid>
+		<title>Our data centers need a hard reset</title>
+		<link>https://venturebeat.com/data-infrastructure/our-data-centers-need-a-hard-reset/</link>
+		<pubDate>Sun, 15 Jan 2023 18:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[David Brown, Dassault Systèmes]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Data Infrastructure]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[Big Data and Analytics]]></category>
+		<category><![CDATA[category-/Health]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[data centers and energy consumption]]></category>
+		<category><![CDATA[Data Management]]></category>
+		<category><![CDATA[Data Storage and Cloud]]></category>
+		<category><![CDATA[digital twins]]></category>
 
-					<description><![CDATA[<img width="800" height="450" src="https://www.biologycorner.com/wp-content/uploads/head-muscles-color-featured.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" style="float: left; margin-right: 5px;" link_thumbnail="" /><p>Students practice naming the muscles of the head with this simple coloring worksheet. Image shows the major superficial muscles with numbers. If you download the Google Doc, it will also include the answer key. There are two versions in this file. One has the numbers and names given and students just color it. There is a more difficult version included where students must identify the muscles and fill in the numbers. I also have a coloring activity I do with students where we go over the names and they label a diagram and color as we go. In this version,</p>
-<p>The post <a href="https://www.biologycorner.com/2023/01/15/color-the-muscles-of-the-head-and-neck/">Color the Muscles of the Head and Neck</a> first appeared on <a href="https://www.biologycorner.com">The Biology Corner</a>.</p>]]></description>
-		
-					<wfw:commentRss>https://www.biologycorner.com/2023/01/15/color-the-muscles-of-the-head-and-neck/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Light Independent Reaction and Calvin Cycle</title>
-		<link>https://www.biologycorner.com/2023/01/08/light-independent-reaction-and-calvin-cycle/</link>
-					<comments>https://www.biologycorner.com/2023/01/08/light-independent-reaction-and-calvin-cycle/#respond</comments>
-		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sun, 08 Jan 2023 14:52:48 +0000</pubDate>
-				<category><![CDATA[Cell Biology]]></category>
-		<category><![CDATA[Worksheets]]></category>
-		<category><![CDATA[calvin]]></category>
-		<category><![CDATA[dependent]]></category>
-		<category><![CDATA[light]]></category>
-		<category><![CDATA[photosynthesis]]></category>
-		<category><![CDATA[photosystem]]></category>
-		<guid isPermaLink="false">https://www.biologycorner.com/?p=10296</guid>
+		<guid isPermaLink="false">https://venturebeat.com/?p=2836056</guid>
+		<description><![CDATA[We must ensure that our data centers are able to keep up as we accumulate many more hundreds of zettabytes of data.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Server racks in server room cloud data center. Datacenter hardware cluster. Backup, hosting, mainframe, mining, farm and computer rack with storage information. 3D rendering. 3D illustration" srcset="https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=2309&amp;strip=all 2309w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1301445128.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>We must ensure that our data centers are able to keep up as we accumulate many more hundreds of zettabytes of data.<a href="https://venturebeat.com/data-infrastructure/our-data-centers-need-a-hard-reset/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/data-infrastructure/our-data-centers-need-a-hard-reset/">Our data centers need a hard reset</source>	</item>
+	
+	
+	<item>
+		<title>Don’t forget open source software (OSS) when assessing cloud app security</title>
+		<link>https://venturebeat.com/programming-development/dont-forget-open-source-software-oss-when-assessing-cloud-app-security/</link>
+		<pubDate>Sun, 15 Jan 2023 17:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[Aakash Shah, oak9]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[Programming & Development]]></category>
+		<category><![CDATA[category-/Computers & Electronics/Software]]></category>
+		<category><![CDATA[cloud applications]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Development Languages]]></category>
+		<category><![CDATA[Open source]]></category>
+		<category><![CDATA[open source software]]></category>
+		<category><![CDATA[oss]]></category>
+		<category><![CDATA[Product Development]]></category>
+		<category><![CDATA[terraform]]></category>
 
-					<description><![CDATA[<img width="800" height="450" src="https://www.biologycorner.com/wp-content/uploads/light-reaction-featured.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" style="float: left; margin-right: 5px;" link_thumbnail="" /><p>In my advanced biology classes, students take a closer look at photosynthesis. You can view a simpler version of this photosynthesis activity here. This worksheet helps to reinforce concepts presented in the class lecture. The graphic is also embedded within the slides so that you can pause and have students practice labeling before continuing to the Calvin Cycle. The first graphic on this worksheet is the basic overview of the light dependent reaction and the Calvin cycle.. It focuses on the general reactants and products of each reaction. In the second graphic, students take a closer look at the light</p>
-<p>The post <a href="https://www.biologycorner.com/2023/01/08/light-independent-reaction-and-calvin-cycle/">Light Independent Reaction and Calvin Cycle</a> first appeared on <a href="https://www.biologycorner.com">The Biology Corner</a>.</p>]]></description>
-		
-					<wfw:commentRss>https://www.biologycorner.com/2023/01/08/light-independent-reaction-and-calvin-cycle/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>How Did the Cardinal Get His Red Feathers (CER)</title>
-		<link>https://www.biologycorner.com/2022/12/23/how-did-the-cardinal-get-his-red-feathers-cer/</link>
-					<comments>https://www.biologycorner.com/2022/12/23/how-did-the-cardinal-get-his-red-feathers-cer/#respond</comments>
-		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Fri, 23 Dec 2022 15:47:22 +0000</pubDate>
-				<category><![CDATA[Evolution]]></category>
-		<category><![CDATA[Genetics]]></category>
-		<category><![CDATA[Worksheets]]></category>
-		<category><![CDATA[bird]]></category>
-		<category><![CDATA[carotenoids]]></category>
-		<category><![CDATA[color]]></category>
-		<category><![CDATA[enzymes]]></category>
-		<category><![CDATA[genes]]></category>
-		<category><![CDATA[genetics]]></category>
-		<guid isPermaLink="false">https://www.biologycorner.com/?p=10292</guid>
+		<guid isPermaLink="false">https://venturebeat.com/?p=2839101</guid>
+		<description><![CDATA[Open source software (OSS) packages are vital to application development, so they demand closer attention to reduce cybersecurity risk.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="3D technology illustration Fingerprint scanner with cloud integrated with a printed circuit board. release binary code" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=2121&amp;strip=all 2121w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1371738261.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Open source software (OSS) packages are vital to application development, so they demand closer attention to reduce cybersecurity risk.<a href="https://venturebeat.com/programming-development/dont-forget-open-source-software-oss-when-assessing-cloud-app-security/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/programming-development/dont-forget-open-source-software-oss-when-assessing-cloud-app-security/">Don’t forget open source software (OSS) when assessing cloud app security</source>	</item>
+	
+	
+	<item>
+		<title>HBO&#8217;s The Last of Us is where film imitates games &#8212; but not too much</title>
+		<link>https://venturebeat.com/games/hbos-the-last-of-us-is-where-film-imitates-games-but-not-too-much/</link>
+		<pubDate>Sun, 15 Jan 2023 16:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[category-/Arts & Entertainment/TV & Video/TV Shows & Programs]]></category>
+		<category><![CDATA[category-/Games]]></category>
+		<category><![CDATA[HBO]]></category>
+		<category><![CDATA[Naughty Dog]]></category>
+		<category><![CDATA[Neil Druckmann]]></category>
+		<category><![CDATA[The Last of Us]]></category>
 
-					<description><![CDATA[<img width="800" height="450" src="https://www.biologycorner.com/wp-content/uploads/red-bird-coloration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" style="float: left; margin-right: 5px;" link_thumbnail="" /><p>Have you ever seen a beautiful red cardinal in your backyard? This bird is so striking that seven states list it as their state bird. Red coloration is not that common in nature, seen mainly in flowers and birds and some fur colors. The red coloration is the result of carotenoids that have been converted to ketocarotenoids by enzymes. The mechanism is complex and involves several intermediaries. This short explanation is based on a study from Nature with a simplified graphic to illustrate how enzymes are involved. There are several genes that work together to express red coloration. These genes</p>
-<p>The post <a href="https://www.biologycorner.com/2022/12/23/how-did-the-cardinal-get-his-red-feathers-cer/">How Did the Cardinal Get His Red Feathers (CER)</a> first appeared on <a href="https://www.biologycorner.com">The Biology Corner</a>.</p>]]></description>
-		
-					<wfw:commentRss>https://www.biologycorner.com/2022/12/23/how-did-the-cardinal-get-his-red-feathers-cer/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851251</guid>
+		<description><![CDATA[It's good to remember The Last of Us on HBO is an adaptation of a video game, and not a copy of it.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="317" src="https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?fit=578%2C317&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="The Last of Us show is coming in 2023." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?w=1266&amp;strip=all 1266w, https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/09/last.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>It's good to remember The Last of Us on HBO is an adaptation of a video game, and not a copy of it.<a href="https://venturebeat.com/games/hbos-the-last-of-us-is-where-film-imitates-games-but-not-too-much/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/hbos-the-last-of-us-is-where-film-imitates-games-but-not-too-much/">HBO&#8217;s The Last of Us is where film imitates games &#8212; but not too much</source>	</item>
+	
+	
+	<item>
+		<title>What’s holding Web3 back from prime time</title>
+		<link>https://venturebeat.com/security/whats-holding-web3-back-from-prime-time/</link>
+		<pubDate>Sun, 15 Jan 2023 16:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ronghui Gu, CertiK]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Data Security and Privacy]]></category>
+		<category><![CDATA[decentralized]]></category>
+		<category><![CDATA[Network Security and Privacy]]></category>
+		<category><![CDATA[Web3]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2839636</guid>
+		<description><![CDATA[Why security is critical, and decentralized, user-driven services that won’t go dark when you need them most are the promise of Web3.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="289" src="https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?fit=578%2C289&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Blockchain Technology Concepts. Businessman Levitating a Digital and Futuristic Graphic to Connecting People and Web3 economics." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=2447&amp;strip=all 2447w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=350&amp;strip=all 350w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1351959217-BlackSalmon.jpg?w=700&amp;strip=all 700w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Why security is critical, and decentralized, user-driven services that won’t go dark when you need them most are the promise of Web3.<a href="https://venturebeat.com/security/whats-holding-web3-back-from-prime-time/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/security/whats-holding-web3-back-from-prime-time/">What’s holding Web3 back from prime time</source>	</item>
+	
+	
+	<item>
+		<title>How startups can help you win the talent war with tailored employee benefits</title>
+		<link>https://venturebeat.com/enterprise-analytics/how-startups-can-help-you-win-the-talent-war-with-tailored-employee-benefits/</link>
+		<pubDate>Sat, 14 Jan 2023 19:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[John Lin, F-Prime Capital]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[Enterprise Analytics]]></category>
+		<category><![CDATA[category-/Business & Industrial/Business Operations]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2837689</guid>
+		<description><![CDATA[Startups are giving employers more tools for attracting and retaining employees through tailored employee benefits.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="299" src="https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?fit=578%2C299&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Businessman shaking hands with colleague after meeting in office" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=2110&amp;strip=all 2110w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Startups are giving employers more tools for attracting and retaining employees through tailored employee benefits.<a href="https://venturebeat.com/enterprise-analytics/how-startups-can-help-you-win-the-talent-war-with-tailored-employee-benefits/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/enterprise-analytics/how-startups-can-help-you-win-the-talent-war-with-tailored-employee-benefits/">How startups can help you win the talent war with tailored employee benefits</source>		<dc:creator><![CDATA[Sarah Lamont, F-Prime Capital]]></dc:creator>\n	</item>
+	
+	
+	<item>
+		<title>How machine learning can help alleviate the U.S. labor shortage</title>
+		<link>https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/</link>
+		<pubDate>Sat, 14 Jan 2023 18:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[Gergo Vari, Lensa]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Automation]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Business Process Automation]]></category>
+		<category><![CDATA[category-/Business & Industrial/Business Operations]]></category>
+		<category><![CDATA[category-/Jobs & Education]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2839358</guid>
+		<description><![CDATA[Advances in machine learning can identify causalities and correlations to help recruiters and job seekers find successful matches.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="386" src="https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?fit=578%2C386&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=700&amp;strip=all 700w, https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=578&amp;strip=all 578w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Advances in machine learning can identify causalities and correlations to help recruiters and job seekers find successful matches.<a href="https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/">How machine learning can help alleviate the U.S. labor shortage</source>	</item>
+	
+	
+	<item>
+		<title>The emergence and staying power of the metaverse</title>
+		<link>https://venturebeat.com/virtual/the-emergence-and-staying-power-of-the-metaverse/</link>
+		<pubDate>Sat, 14 Jan 2023 17:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[Frank Boulben, Verizon Consumer Group]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[Virtual Comms & Collab]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[AR]]></category>
+		<category><![CDATA[category-/Online Communities/Virtual Worlds]]></category>
+		<category><![CDATA[gamification]]></category>
+		<category><![CDATA[Metaverse]]></category>
+		<category><![CDATA[Virtual Employee Experience]]></category>
+		<category><![CDATA[Virtual Reality Collaboration]]></category>
+		<category><![CDATA[VR]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2840023</guid>
+		<description><![CDATA[From gaming and travel to commerce to accessibility, here are some of the ways the metaverse will become a significant part of our lives.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="297" src="https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?fit=578%2C297&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="conceptual and futuristic 3d woman with virtual reality goggles and illuminated METAVERSE sign. futuristic concept of video games, NFT, VR and crypto. 3d rendering" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=2120&amp;strip=all 2120w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1356420393.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>From gaming and travel to commerce to accessibility, here are some of the ways the metaverse will become a significant part of our lives.<a href="https://venturebeat.com/virtual/the-emergence-and-staying-power-of-the-metaverse/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/virtual/the-emergence-and-staying-power-of-the-metaverse/">The emergence and staying power of the metaverse</source>	</item>
+	
+	
+	<item>
+		<title>How sustainability and hybrid work has become a part of computer design &#124; Alex Cho</title>
+		<link>https://venturebeat.com/games/how-sustainability-and-hybrid-work-has-become-a-part-of-computer-design-alex-cho/</link>
+		<pubDate>Sat, 14 Jan 2023 16:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Gaming Hardware]]></category>
+		<category><![CDATA[Alex Cho]]></category>
+		<category><![CDATA[category-/Computers & Electronics]]></category>
+		<category><![CDATA[CES 2023]]></category>
+		<category><![CDATA[HP]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850046</guid>
+		<description><![CDATA[<p>Alex Cho, president of HP Personal Systems, showed off a bunch of gear from a HyperX keyboard with zany animal characters to HP&#8217;s latest Omen gaming PCs while at the CES 2023 tech trade show. Those new products from HP underscored the big trends of modern computer design, with an emphasis on sustainability and the&#160;[&#8230;]
+</p>]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="HP is going hybrid and sustainable at CES 2023." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2023/01/HP-@-CES-2023-Image-1.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Alex Cho, president of HP Personal Systems, showed off a bunch of gear from a HyperX keyboard with zany animal characters to HP&#8217;s latest Omen gaming PCs while at the CES 2023 tech trade show. Those new products from HP underscored the big trends of modern computer design, with an emphasis on sustainability and the hybrid world of work and per&hellip;<a href="https://venturebeat.com/games/how-sustainability-and-hybrid-work-has-become-a-part-of-computer-design-alex-cho/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/how-sustainability-and-hybrid-work-has-become-a-part-of-computer-design-alex-cho/">How sustainability and hybrid work has become a part of computer design &#124; Alex Cho</source>	</item>
+	
+	
+	<item>
+		<title>Creating a seamless access experience with the digital double</title>
+		<link>https://venturebeat.com/virtual/creating-a-seamless-access-experience-with-the-digital-double/</link>
+		<pubDate>Sat, 14 Jan 2023 16:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[Asanka Abeysinghe, WSO2]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[Virtual Comms & Collab]]></category>
+		<category><![CDATA[category-/Online Communities]]></category>
+		<category><![CDATA[cIAM]]></category>
+		<category><![CDATA[digital twins]]></category>
+		<category><![CDATA[experience economy]]></category>
+		<category><![CDATA[IAM]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[Virtual Reality Collaboration]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2840758</guid>
+		<description><![CDATA[A digital double is a proper representation of physical and digital assets. How it fuses identity and personality, and why that's important.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="289" src="https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?fit=578%2C289&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Concept image of man looking at his own digital twin mirrored through the frame of a mobile phone.  His twin is an avatar looking like a hologram." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=2309&amp;strip=all 2309w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=350&amp;strip=all 350w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1346335982-mikkelwilliam.jpg?w=700&amp;strip=all 700w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>A digital double is a proper representation of physical and digital assets. How it fuses identity and personality, and why that's important.<a href="https://venturebeat.com/virtual/creating-a-seamless-access-experience-with-the-digital-double/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/virtual/creating-a-seamless-access-experience-with-the-digital-double/">Creating a seamless access experience with the digital double</source>	</item>
+	
+	
+	<item>
+		<title>Top 5 stories of the week: ChatGPT, CES and cybersecurity advice from AWS</title>
+		<link>https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/</link>
+		<pubDate>Sat, 14 Jan 2023 14:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicole Cunningham]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Data Infrastructure]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[category-/Computers & Electronics]]></category>
+		<category><![CDATA[category-/News]]></category>
+		<category><![CDATA[category-/Science/Engineering & Technology]]></category>
+		<category><![CDATA[CES 2023]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Scale AI]]></category>
+		<category><![CDATA[tech layoffs]]></category>
+		<category><![CDATA[Weekly5]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851217</guid>
+		<description><![CDATA[A roundup of the top 5 stories this week, including AI at CES and coming soon to Microsoft Office, and security advice from AWS.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2023/01/VB_weekly-5_tony-hand-P3uJUQ62uXE-unsplash-e1673647845482.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="the number 5 against a green background" loading="lazy" /><hr/>A roundup of the top 5 stories this week, including AI at CES and coming soon to Microsoft Office, and security advice from AWS.<a href="https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/">Top 5 stories of the week: ChatGPT, CES and cybersecurity advice from AWS</source>	</item>
+	
+	
+	<item>
+		<title>Should Ubisoft just bury Skull and Bones for good? &#124; Kaser Focus</title>
+		<link>https://venturebeat.com/games/should-ubisoft-just-bury-skull-and-bones-for-good-kaser-focus/</link>
+		<pubDate>Sat, 14 Jan 2023 00:26:52 +0000</pubDate>
+		<dc:creator><![CDATA[Rachel Kaser]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Latest Games & Reviews]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[Game Culture]]></category>
+		<category><![CDATA[Kaser Focus]]></category>
+		<category><![CDATA[Skull & Bones]]></category>
+		<category><![CDATA[Ubisoft]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851215</guid>
+		<description><![CDATA[GamesBeat's Rachel Kaser questions what Ubisoft's oft-delayed Skull and Bones will bring to the world after its lengthy gestation.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=3840&amp;strip=all 3840w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2018/06/Skull-and-Bones-convoy.jpg?w=3000&amp;strip=all 3000w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>GamesBeat's Rachel Kaser questions what Ubisoft's oft-delayed Skull and Bones will bring to the world after its lengthy gestation.<a href="https://venturebeat.com/games/should-ubisoft-just-bury-skull-and-bones-for-good-kaser-focus/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/should-ubisoft-just-bury-skull-and-bones-for-good-kaser-focus/">Should Ubisoft just bury Skull and Bones for good? &#124; Kaser Focus</source>	</item>
+	
+	
+	<item>
+		<title>Data.ai: Mobile gaming had unexpected highs and lows in 2022</title>
+		<link>https://venturebeat.com/games/data-ai-mobile-gaming-had-unexpected-highs-and-lows-in-2022/</link>
+		<pubDate>Fri, 13 Jan 2023 22:50:54 +0000</pubDate>
+		<dc:creator><![CDATA[Rachel Kaser]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Latest Games & Reviews]]></category>
+		<category><![CDATA[App Annie]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[category-/Internet & Telecom]]></category>
+		<category><![CDATA[Data.ai]]></category>
+		<category><![CDATA[Diablo: Immortal]]></category>
+		<category><![CDATA[Lexi Sydow]]></category>
+		<category><![CDATA[Mobile Games]]></category>
+		<category><![CDATA[Mobile gaming]]></category>
+		<category><![CDATA[mobile spending]]></category>
+		<category><![CDATA[Stumble Guys]]></category>
+		<category><![CDATA[Wordle]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850536</guid>
+		<description><![CDATA[Mobile gaming in 2022 has diminished in spending, but not in time spent, according to a new report by data.ai.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="320" src="https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?fit=578%2C320&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=3719&amp;strip=all 3719w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2023/01/Data.ai-2022-report-breakout-downloads.jpg?w=3000&amp;strip=all 3000w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Mobile gaming in 2022 has diminished in spending, but not in time spent, according to a new report by data.ai.<a href="https://venturebeat.com/games/data-ai-mobile-gaming-had-unexpected-highs-and-lows-in-2022/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/data-ai-mobile-gaming-had-unexpected-highs-and-lows-in-2022/">Data.ai: Mobile gaming had unexpected highs and lows in 2022</source>	</item>
+	
+	
+	<item>
+		<title>Fueling female hiring in tech</title>
+		<link>https://venturebeat.com/enterprise-analytics/fueling-female-hiring-in-tech/</link>
+		<pubDate>Fri, 13 Jan 2023 21:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[Petrena Ferguson, Ribbon]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[Enterprise Analytics]]></category>
+		<category><![CDATA[category-/Business & Industrial/Business Operations]]></category>
+		<category><![CDATA[category-/Jobs & Education/Jobs]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2839434</guid>
+		<description><![CDATA[Tech companies must make measurable commitments to inclusivity to create workplaces that are more representative of the world we live in.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=2121&amp;strip=all 2121w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Tech companies must make measurable commitments to inclusivity to create workplaces that are more representative of the world we live in.<a href="https://venturebeat.com/enterprise-analytics/fueling-female-hiring-in-tech/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/enterprise-analytics/fueling-female-hiring-in-tech/">Fueling female hiring in tech</source>	</item>
+	
+	
+	<item>
+		<title>10 recently-funded tech startups to watch in 2023</title>
+		<link>https://venturebeat.com/enterprise-analytics/10-recently-funded-tech-startups-to-watch-in-2023/</link>
+		<pubDate>Fri, 13 Jan 2023 20:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[Kolawole Samuel Adebayo]]></dc:creator>
+				<category><![CDATA[Enterprise Analytics]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[Business Intelligence]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[data analytics]]></category>
+		<category><![CDATA[Data Management]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Metaverse]]></category>
+		<category><![CDATA[Predictive Analytics]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[Statistical Analysis]]></category>
+		<category><![CDATA[VCs]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850736</guid>
+		<description><![CDATA[From data analytics tools to fintech platforms to metaverse technologies, here are 10 startups to watch in 2023.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="294" src="https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1390013998-e1656427645552.jpg?fit=578%2C294&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" /><hr/>From data analytics tools to fintech platforms to metaverse technologies, here are 10 startups to watch in 2023.<a href="https://venturebeat.com/enterprise-analytics/10-recently-funded-tech-startups-to-watch-in-2023/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/enterprise-analytics/10-recently-funded-tech-startups-to-watch-in-2023/">10 recently-funded tech startups to watch in 2023</source>	</item>
+	
+	
+	<item>
+		<title>Why agility and portability have become key drivers of multicloud investments</title>
+		<link>https://venturebeat.com/data-infrastructure/why-agility-and-portability-have-become-key-drivers-of-multicloud-investments/</link>
+		<pubDate>Fri, 13 Jan 2023 19:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[Mark Fernandes, Sierra Ventures]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Data Infrastructure]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[category-/Computers & Electronics/Enterprise Technology]]></category>
+		<category><![CDATA[containers]]></category>
+		<category><![CDATA[Data Management]]></category>
+		<category><![CDATA[Data Storage and Cloud]]></category>
+		<category><![CDATA[devops]]></category>
+		<category><![CDATA[edge computing]]></category>
+		<category><![CDATA[infrastructure as code]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<category><![CDATA[multicloud]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2831943</guid>
+		<description><![CDATA[Why multicloud agility and portability are key to minimizing business risk and also lowering costs and optimizing performance.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="341" src="https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?fit=578%2C341&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Data, distributed cloud concept image" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Why multicloud agility and portability are key to minimizing business risk and also lowering costs and optimizing performance.<a href="https://venturebeat.com/data-infrastructure/why-agility-and-portability-have-become-key-drivers-of-multicloud-investments/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/data-infrastructure/why-agility-and-portability-have-become-key-drivers-of-multicloud-investments/">Why agility and portability have become key drivers of multicloud investments</source>	</item>
+	
+	
+	<item>
+		<title>OpenAI, Georgetown, Stanford study finds LLMs can boost public opinion manipulation</title>
+		<link>https://venturebeat.com/ai/openai-georgetown-stanford-study-finds-llms-can-boost-public-opinion-manipulation/</link>
+		<pubDate>Fri, 13 Jan 2023 18:13:13 +0000</pubDate>
+		<dc:creator><![CDATA[Ben Dickson]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[category-/News]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851186</guid>
+		<description><![CDATA[A new study by scientists at Stanford University, Georgetown University, and OpenAI show impact LLMs can have on manipulating public opinion.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Artificial Intelligence digital concept illustrate of modern internet technology and innovative processes" loading="lazy" /><hr/>A new study by scientists at Stanford University, Georgetown University, and OpenAI show impact LLMs can have on manipulating public opinion.<a href="https://venturebeat.com/ai/openai-georgetown-stanford-study-finds-llms-can-boost-public-opinion-manipulation/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/openai-georgetown-stanford-study-finds-llms-can-boost-public-opinion-manipulation/">OpenAI, Georgetown, Stanford study finds LLMs can boost public opinion manipulation</source>	</item>
+	
+	
+	<item>
+		<title>Adopting AutoML: Let&#8217;s do a reality check</title>
+		<link>https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/</link>
+		<pubDate>Fri, 13 Jan 2023 18:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[Alakh Sharma, Talentica Software]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[DataDecisionMakers]]></category>
+		<category><![CDATA[Programming & Development]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[AutoML]]></category>
+		<category><![CDATA[category-/Computers & Electronics]]></category>
+		<category><![CDATA[category-/Science]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[neural networks]]></category>
+		<category><![CDATA[Product Development]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2839542</guid>
+		<description><![CDATA[AutoML can't define and automatically solve statements. But, it can solve pre-defined statements with relevant data and features. ]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2022/03/ai_business-e1648498198314.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="How AI will drive business" loading="lazy" /><hr/>AutoML can't define and automatically solve statements. But, it can solve pre-defined statements with relevant data and features. <a href="https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/">Adopting AutoML: Let&#8217;s do a reality check</source>	</item>
+	
+	
+	<item>
+		<title>GamesBeat Summit 2023 is coming May 22-23 in Santa Monica &#124; The DeanBeat</title>
+		<link>https://venturebeat.com/games/gamesbeat-summit-2023-is-coming-may-22-23-in-santa-monica-the-deanbeat/</link>
+		<pubDate>Fri, 13 Jan 2023 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Gaming Business]]></category>
+		<category><![CDATA[category-/Arts & Entertainment]]></category>
+		<category><![CDATA[category-/Games/Online Games/Massively Multiplayer Games]]></category>
+		<category><![CDATA[category-/Online Communities/Virtual Worlds]]></category>
+		<category><![CDATA[GamesBeat Summit 2023]]></category>
+		<category><![CDATA[The DeanBeat]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851022</guid>
+		<description><![CDATA[We are now integrating the metaverse event into our larger GamesBeat Summit 2023 event on May 22-23 in Santa Monica, CA.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="379" src="https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?fit=578%2C379&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="GamesBeat Summit 2023 is coming on May 22-23 in Los Angeles." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2023/01/gamesbeat-summit-2023.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>We are now integrating the metaverse event into our larger GamesBeat Summit 2023 event on May 22-23 in Santa Monica, CA.<a href="https://venturebeat.com/games/gamesbeat-summit-2023-is-coming-may-22-23-in-santa-monica-the-deanbeat/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/gamesbeat-summit-2023-is-coming-may-22-23-in-santa-monica-the-deanbeat/">GamesBeat Summit 2023 is coming May 22-23 in Santa Monica &#124; The DeanBeat</source>	</item>
+	
+	
+	<item>
+		<title>For AI adoption, &#8216;culture eats strategy for breakfast&#8217;</title>
+		<link>https://venturebeat.com/ai/for-ai-adoption-culture-eats-strategy-for-breakfast/</link>
+		<pubDate>Fri, 13 Jan 2023 17:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sri Krishna]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[AI adoption]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[company culture]]></category>
+		<category><![CDATA[corporate culture]]></category>
+		<category><![CDATA[culture]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850752</guid>
+		<description><![CDATA[Company culture is a primary obstacle to AI adoption. Advice from experts on how to change culture to welcome AI into your business.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=3284&amp;strip=all 3284w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2016/01/team.jpg?w=3000&amp;strip=all 3000w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Company culture is a primary obstacle to AI adoption. Advice from experts on how to change culture to welcome AI into your business.<a href="https://venturebeat.com/ai/for-ai-adoption-culture-eats-strategy-for-breakfast/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/for-ai-adoption-culture-eats-strategy-for-breakfast/">For AI adoption, &#8216;culture eats strategy for breakfast&#8217;</source>	</item>
+	
+	
+	<item>
+		<title>Immutable&#8217;s outlook for blockchain games in 2023 &#124; Robbie Ferguson</title>
+		<link>https://venturebeat.com/games/immutables-outlook-for-blockchain-games-in-2023-robbie-ferguson/</link>
+		<pubDate>Fri, 13 Jan 2023 16:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Gaming Business]]></category>
+		<category><![CDATA[blockchain games]]></category>
+		<category><![CDATA[category-/Games/Card Games]]></category>
+		<category><![CDATA[Gods Unchained]]></category>
+		<category><![CDATA[Guild of Guardians]]></category>
+		<category><![CDATA[Immutable]]></category>
+		<category><![CDATA[ImmutableX]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[Robbie Ferguson]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2847757</guid>
+		<description><![CDATA[<p>Of the many companies in blockchain gaming, Immutable has emerged as one of the leaders, or at least survivors, in the emerging market. And it has an elevated role among blockchain platforms and so it can see more of the future. ImmutableX generated $87 million in non-fungible token (NFT) trading volume, 250% higher than last&#160;[&#8230;]
+</p>]]></description>
+				<content:encoded><![CDATA[<img width="578" height="326" src="https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?fit=578%2C326&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Immutable&#039;s Guild of the Guardians." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/01/immutable-guild.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Of the many companies in blockchain gaming, Immutable has emerged as one of the leaders, or at least survivors, in the emerging market. And it has an elevated role among blockchain platforms and so it can see more of the future. ImmutableX generated $87 million in non-fungible token (NFT) trading volume, 250% higher than last year. And Immutable&hellip;<a href="https://venturebeat.com/games/immutables-outlook-for-blockchain-games-in-2023-robbie-ferguson/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/immutables-outlook-for-blockchain-games-in-2023-robbie-ferguson/">Immutable&#8217;s outlook for blockchain games in 2023 &#124; Robbie Ferguson</source>	</item>
+	
+	
+	<item>
+		<title>Top AI startup news of the week: InstaDeep, DeepL, Pachyderm and more</title>
+		<link>https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/</link>
+		<pubDate>Fri, 13 Jan 2023 16:25:11 +0000</pubDate>
+		<dc:creator><![CDATA[Sharon Goldman]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[Conversational AI]]></category>
+		<category><![CDATA[InstaDeep]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851141</guid>
+		<description><![CDATA[There were key AI startup acquisitions this week, as well as new funding in a variety of sectors. Here are six companies that made headlines.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="315" src="https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?fit=578%2C315&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Business people working together to put together a puzzle." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=2117&amp;strip=all 2117w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>There were key AI startup acquisitions this week, as well as new funding in a variety of sectors. Here are six companies that made headlines.<a href="https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/top-ai-startup-news-of-the-week-instadeep-deepl-pachyderm-and-more/">Top AI startup news of the week: InstaDeep, DeepL, Pachyderm and more</source>	</item>
+	
+	
+	<item>
+		<title>Why the US government&#8217;s TikTok ban is impractical for the private sector</title>
+		<link>https://venturebeat.com/security/tiktok-ban/</link>
+		<pubDate>Fri, 13 Jan 2023 15:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[Tim Keary]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[BYOD]]></category>
+		<category><![CDATA[category-/Law & Government/Government]]></category>
+		<category><![CDATA[category-/Law & Government/Public Safety]]></category>
+		<category><![CDATA[Data Security and Privacy]]></category>
+		<category><![CDATA[Software Security]]></category>
+		<category><![CDATA[TikTok]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850935</guid>
+		<description><![CDATA[While the U.S. government looks to ban TikTok, private enterprises are likely to struggle to restrict the app due to BYOD policies.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="347" src="https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?fit=578%2C347&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="TikTok logo displayed on a smartphone." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?w=1336&amp;strip=all 1336w, https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2020/08/TikTok.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>While the U.S. government looks to ban TikTok, private enterprises are likely to struggle to restrict the app due to BYOD policies.<a href="https://venturebeat.com/security/tiktok-ban/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/security/tiktok-ban/">Why the US government&#8217;s TikTok ban is impractical for the private sector</source>	</item>
+	
+	
+	<item>
+		<title>God of War Ragnarök is frontrunner in 2023 DICE Award nominees</title>
+		<link>https://venturebeat.com/games/god-of-war-ragnarok-is-frontrunner-in-2023-dice-award-nominees/</link>
+		<pubDate>Fri, 13 Jan 2023 15:34:49 +0000</pubDate>
+		<dc:creator><![CDATA[Rachel Kaser]]></dc:creator>
+				<category><![CDATA[Game Development]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Latest Games & Reviews]]></category>
+		<category><![CDATA[Academy of Interactive Arts & Sciences]]></category>
+		<category><![CDATA[category-/Arts & Entertainment]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[DICE Awards]]></category>
+		<category><![CDATA[Elden Ring]]></category>
+		<category><![CDATA[Gaming Events]]></category>
+		<category><![CDATA[God of War: Ragnarok]]></category>
+		<category><![CDATA[Horizon Forbidden West]]></category>
+		<category><![CDATA[Stray]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851007</guid>
+		<description><![CDATA[The AIAS announced the nominees for its 26th annual DICE Awards, and God of War Ragnarok sweeps the categories with 12 nominations.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="God of War: Ragnarok" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=1632&amp;strip=all 1632w, https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2022/07/God-of-War-Ragnarok-Fenrir.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>The AIAS announced the nominees for its 26th annual DICE Awards, and God of War Ragnarok sweeps the categories with 12 nominations.<a href="https://venturebeat.com/games/god-of-war-ragnarok-is-frontrunner-in-2023-dice-award-nominees/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/god-of-war-ragnarok-is-frontrunner-in-2023-dice-award-nominees/">God of War Ragnarök is frontrunner in 2023 DICE Award nominees</source>	</item>
+	
+	
+	<item>
+		<title>Google&#8217;s Muse model could be the next big thing for generative AI</title>
+		<link>https://venturebeat.com/ai/googles-muse-model-could-be-the-next-big-thing-for-generative-ai/</link>
+		<pubDate>Fri, 13 Jan 2023 14:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ben Dickson]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[category-/Science/Computer Science]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[large language models]]></category>
+		<category><![CDATA[Muse]]></category>
+		<category><![CDATA[text-to-image]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850999</guid>
+		<description><![CDATA[2022 was a great year for generative AI. 2023 got a big start as Google introduced its latest text-to-image model, Muse, earlier this month.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="413" src="https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?fit=578%2C413&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Google Muse" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?w=1264&amp;strip=all 1264w, https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2023/01/muse_corgi_example.jpeg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>2022 was a great year for generative AI. 2023 got a big start as Google introduced its latest text-to-image model, Muse, earlier this month.<a href="https://venturebeat.com/ai/googles-muse-model-could-be-the-next-big-thing-for-generative-ai/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/googles-muse-model-could-be-the-next-big-thing-for-generative-ai/">Google&#8217;s Muse model could be the next big thing for generative AI</source>	</item>
+	
+	
+	<item>
+		<title>Konvoy Q4 report: game venture funding fell 83% YoY</title>
+		<link>https://venturebeat.com/games/konvoy-q4-report-83-yoy-decline-in-venture-funding/</link>
+		<pubDate>Fri, 13 Jan 2023 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jordan Fragen]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Gaming Business]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Konvoy]]></category>
+		<category><![CDATA[Konvoy Ventures]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[Q4 2022]]></category>
+		<category><![CDATA[VC funding]]></category>
+		<category><![CDATA[Web3]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850500</guid>
+		<description><![CDATA[Konvoy Ventures released its Q4 report which shows a sharp decline in VC funding for gaming companies compared to Q3 and 2021.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Konvoy Ventures released its Q4 report on the state of venture funding in the gaming industry" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?w=1280&amp;strip=all 1280w, https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2023/01/Cover-Page-Gaming-Industry-Report-2022-Q4.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Konvoy Ventures released its Q4 report which shows a sharp decline in VC funding for gaming companies compared to Q3 and 2021.<a href="https://venturebeat.com/games/konvoy-q4-report-83-yoy-decline-in-venture-funding/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/konvoy-q4-report-83-yoy-decline-in-venture-funding/">Konvoy Q4 report: game venture funding fell 83% YoY</source>	</item>
+	
+	
+	<item>
+		<title>Got It AI creates truth checker for ChatGPT &#8216;hallucinations&#8217;</title>
+		<link>https://venturebeat.com/ai/got-it-ai-creates-truth-checker-for-chatgpt-hallucinations/</link>
+		<pubDate>Fri, 13 Jan 2023 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[category-/Computers & Electronics]]></category>
+		<category><![CDATA[category-/Science/Computer Science]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Got It AI]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851093</guid>
+		<description><![CDATA[Got It AI said it has developed AI to identify and address ChatGPT "hallucinations" for enterprise applications.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="345" src="https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?fit=578%2C345&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Got It AI has created a Truth Checker for ChatGPT." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2023/01/GotItAITruthChecker.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Got It AI said it has developed AI to identify and address ChatGPT "hallucinations" for enterprise applications.<a href="https://venturebeat.com/ai/got-it-ai-creates-truth-checker-for-chatgpt-hallucinations/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/got-it-ai-creates-truth-checker-for-chatgpt-hallucinations/">Got It AI creates truth checker for ChatGPT &#8216;hallucinations&#8217;</source>	</item>
+	
+	
+	<item>
+		<title>Tiny Colony will debut as Web3 tower defense game on ImmutableX</title>
+		<link>https://venturebeat.com/games/tiny-colony-will-debut-as-web3-tower-defense-game-on-immutablex/</link>
+		<pubDate>Fri, 13 Jan 2023 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games/Strategy Games]]></category>
+		<category><![CDATA[Tiny Colony]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851038</guid>
+		<description><![CDATA[Tiny Colony is launching soon on the ImmutableX blockchain platform today as a game where you build a colony with pixelated ants.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="322" src="https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?fit=578%2C322&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Tiny Colony will debut on ImmutableX." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2023/01/tiny-colony.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Tiny Colony is launching soon on the ImmutableX blockchain platform today as a game where you build a colony with pixelated ants.<a href="https://venturebeat.com/games/tiny-colony-will-debut-as-web3-tower-defense-game-on-immutablex/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/tiny-colony-will-debut-as-web3-tower-defense-game-on-immutablex/">Tiny Colony will debut as Web3 tower defense game on ImmutableX</source>	</item>
+	
+	
+	<item>
+		<title>Google Cloud debuts new retail AI tools ahead of NRF 2023</title>
+		<link>https://venturebeat.com/ai/google-cloud-debuts-new-retail-ai-tools-ahead-of-nrf-2023/</link>
+		<pubDate>Fri, 13 Jan 2023 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sharon Goldman]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[ecommerce]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[NRF 2023]]></category>
+		<category><![CDATA[retail AI]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2851026</guid>
+		<description><![CDATA[Google Cloud introduced new and updated AI technologies to help retailers with shelf-checking, ecommerce, search and recommendations.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="289" src="https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?fit=578%2C289&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Google Cloud logo" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=1024&amp;strip=all 1024w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=350&amp;strip=all 350w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=700&amp;strip=all 700w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Google Cloud introduced new and updated AI technologies to help retailers with shelf-checking, ecommerce, search and recommendations.<a href="https://venturebeat.com/ai/google-cloud-debuts-new-retail-ai-tools-ahead-of-nrf-2023/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/google-cloud-debuts-new-retail-ai-tools-ahead-of-nrf-2023/">Google Cloud debuts new retail AI tools ahead of NRF 2023</source>	</item>
+	
+	
+	<item>
+		<title>Streamer DrLupo raised over $13M for St. Jude in 2022</title>
+		<link>https://venturebeat.com/games/streamer-drlupo-raised-over-13m-for-st-jude-in-2022/</link>
+		<pubDate>Thu, 12 Jan 2023 23:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Rachel Kaser]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Latest Games & Reviews]]></category>
+		<category><![CDATA[Benjamin “DrLupo” Lupo]]></category>
+		<category><![CDATA[category-/News]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[Content Creators]]></category>
+		<category><![CDATA[DrLupo]]></category>
+		<category><![CDATA[Game Culture]]></category>
+		<category><![CDATA[livestreaming]]></category>
+		<category><![CDATA[St. Jude Children’s Research Hospital.]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850960</guid>
+		<description><![CDATA[Streamers hit a new charity milestone in 2022 as DrLupo surpasses the $13 million mark for St. Jude during his Build Against Cancer event.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="DrLupo hosts the 24 hour Build Against Cancer live stream from the campus of St. Jude Children’s Research Hospital on Saturday, December 17, 2022." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=10800&amp;strip=all 10800w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=750&amp;strip=all 750w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2023/01/221217_DrLupo_124.jpg?w=3000&amp;strip=all 3000w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Streamers hit a new charity milestone in 2022 as DrLupo surpasses the $13 million mark for St. Jude during his Build Against Cancer event.<a href="https://venturebeat.com/games/streamer-drlupo-raised-over-13m-for-st-jude-in-2022/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/games/streamer-drlupo-raised-over-13m-for-st-jude-in-2022/">Streamer DrLupo raised over $13M for St. Jude in 2022</source>	</item>
+	
+	
+	<item>
+		<title>Data science vs. artificial intelligence (AI): Key comparisons</title>
+		<link>https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/</link>
+		<pubDate>Thu, 12 Jan 2023 22:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[Abiola Ayodele]]></dc:creator>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Data Infrastructure]]></category>
+		<category><![CDATA[AI, ML and Deep Learning]]></category>
+		<category><![CDATA[category-/Computers & Electronics/Enterprise Technology/Data Management]]></category>
+		<category><![CDATA[category-/Science/Computer Science]]></category>
+		<category><![CDATA[Data Management]]></category>
+		<category><![CDATA[Data Science]]></category>
+		<category><![CDATA[NLP]]></category>
+		<category><![CDATA[seo cluster]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2850533</guid>
+		<description><![CDATA[Understanding how data science and artificial intelligence are related and work together, and what distinguishes them.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2020/08/data-1-e1668621183469.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="data science" loading="lazy" /><hr/>Understanding how data science and artificial intelligence are related and work together, and what distinguishes them.<a href="https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/" target="_blank">Read More</a>]]></content:encoded>
+		<source url="https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/">Data science vs. artificial intelligence (AI): Key comparisons</source>	</item>
 	</channel>
 </rss>

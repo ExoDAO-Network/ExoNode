@@ -1,11 +1,14 @@
+
 from kivy.app import App
 from kivy.uix.button import Button
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.gridlayout import GridLayout
+from kivy.core.window import Window
 from kivy.uix.label import Label
 from kivy.uix.switch import Switch
 from kivy.uix.togglebutton import ToggleButton
 from kivy.uix.textinput import TextInput
+from kivy.uix.scrollview import ScrollView
 from kivy.uix.widget import Widget
 from kivy.graphics import Rectangle, Color
 import rpyc
@@ -28,27 +31,25 @@ class WrappedLabel(Label):
 class SwarmSearchApp(App):
     def build(self):
     
-        ##start RPyC infrastrcture
-        IPset = RC.importIP("ip.txt")
-        pot_IPset =set([])
-        cList=[]
-        elist=[]
-        results=[]
-        port=18861
+        
         root_widget = BoxLayout(orientation='vertical')
             
-        output_label = Label(size_hint_y=1)
+        MainGrid = GridLayout( cols =1)
+        
+        ShellViewer = ScrollView(size_hint=(1, 3), size=(Window.width, 100))
+        output_label = Label(size_hint_y=3, height = 100)
         def print_out(input_text):
             output_label.text+=input_text+"\n"
             
         btn_reset = Button(text='Clear outputs!', size_hint_y=None,
-                              width=100, height=30)
-                             
-        MainGrid = GridLayout(rows=3, size_hint_y=2)
+                              width=100, height=10)
+        MainGrid.add_widget(btn_reset)
+        ShellViewer.add_widget(output_label)
+        MainGrid.add_widget(ShellViewer)
         
-        ServerGrid = GridLayout(rows=2, cols =2, size_hint_y=2)
+        ServerGrid = GridLayout(rows=2, cols =2, height=50, size_hint_y=2)
+        MainGrid.add_widget(ServerGrid)           
         
-        MainGrid.add_widget(ServerGrid)
         
         querybar=TextInput(text='your search query',
               font_size=12  ,
@@ -57,10 +58,6 @@ class SwarmSearchApp(App):
         searchgrid  = GridLayout(cols =2, size_hint_y=2)    
               
         searchgrid.add_widget(querybar)
-        
-
-        
-            
         btn_search = Button(text='Search!', size_hint_y=None,
                               width=100, height=30)
         
@@ -75,31 +72,58 @@ class SwarmSearchApp(App):
             results = [] 
             while len(resultGrid.children)>0: 
                 resultGrid.remove_widget(resultGrid.children[len(resultGrid.children)-1])
+        def scan_and_connect(IPset, cList, elist):
+            for ip in IPset:
+                serviceX=RC.ClientService(ip)
+                print_out("will connect to"+str(ip))
+                try:
+                    c = rpyc.connect(ip, port, service= serviceX, config={'allow_public_attrs': True}) #create clients in all neighboring services
+                    print_out("connected to service")
+                    ip_switch = Switch(active=True)
+                    ip_label = Label()
+                    ip_label.text = str(ip)
+                    ServerGrid.add_widget(ip_label)
+                    ServerGrid.add_widget(ip_switch)
+                    cList.append(c)
+                except:
+                    print_out("Could not connect to "+str(ip)+ "! Try to refresh later!\n")
+                    elist.append(ip)
+        
+            print("added servers")
+            for err_ip in elist:
+                IPset.discard(err_ip)
+        def refresh_IP(elist, IPset, cList):
+            for ip in elist:
+                serviceX=RC.ClientService(ip)
+                print_out("will connect to"+str(ip))
+                try:
+                    c = rpyc.connect(ip, port, service= serviceX, config={'allow_public_attrs': True}) #create clients in all neighboring services
+                    print_out("connected to service")
+                    ip_switch = Switch(active=True)
+                    ip_label = Label()
+                    ip_label.text = str(ip)
+                    ServerGrid.add_widget(ip_label)
+                    ServerGrid.add_widget(ip_switch)
+                    cList.append(c)
+                    IPset.add(ip)
+                    elist.remove(ip)
+                except:
+                    print_out("Could not connect to "+str(ip)+ "! Try to refresh later!\n")
+            print("refreshed servers")
+            
         btn_reset.bind(on_press=reset_result)
         
-        root_widget.add_widget(btn_reset)
-        root_widget.add_widget(output_label)
         root_widget.add_widget(MainGrid)
-        print("starting RPyC")
-        for ip in IPset:
-            serviceX=RC.ClientService(ip)
-            print_out("will connect to"+str(ip))
-            try:
-                c = rpyc.connect(ip, port, service= serviceX, config={'allow_public_attrs': True}) #create clients in all neighboring services
-                print_out("connected to service")
-                ip_switch = Switch(active=True)
-                ip_label = Label()
-                ip_label.text = str(ip)
-                ServerGrid.add_widget(ip_label)
-                ServerGrid.add_widget(ip_switch)
-                cList.append(c)
-            except:
-                print_out("Could not connect to "+str(ip)+ "! Will remove IP from List!\n")
-                elist.append(ip)
         
-        print("added servers")
-        for err_ip in elist:
-            IPset.discard(err_ip)
+        ##start RPyC infrastrcture
+        IPset = RC.importIP("ip.txt")
+        pot_IPset =set([])
+        cList=[]
+        elist=[]
+        results=[]
+        port=18861
+        print("starting RPyC")
+        scan_and_connect(IPset,cList, elist)
             
         for Cl in  cList:
             thisSet= Cl.root.difference_IPset(frozenset(IPset))
@@ -130,7 +154,7 @@ class SwarmSearchApp(App):
                 for Cl in  cList:
                     relevantIP = relevantIP.union(Cl.root.centroid_query(query, args)) #create the set of relevant IP to search 
                 for ip in relevantIP:
-                    print_out(ip)
+                    print_out(ip)	
             elif btn2.state == 'down':
                 query = querybar.text
                 args =" input()"

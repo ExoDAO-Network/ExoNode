@@ -8,816 +8,258 @@
 	
 	xmlns:georss="http://www.georss.org/georss"
 	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
+	xmlns:media="http://search.yahoo.com/mrss/"
+		>
 
 <channel>
-	<title>Micro B Life</title>
-	<atom:link href="https://www.microblife.in/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.microblife.in</link>
-	<description>Ask Your Question</description>
-	<lastBuildDate>Fri, 06 Jan 2023 05:43:35 +0000</lastBuildDate>
+	<title>Blog &#8211; Hackaday</title>
+	<atom:link href="https://hackaday.com/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hackaday.com</link>
+	<description>Fresh hacks every day</description>
+	<lastBuildDate>Sun, 15 Jan 2023 02:22:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
-<site xmlns="com-wordpress:feed-additions:1">198529190</site>	<item>
-		<title>What Are Some Examples Of Absolute Advantage?</title>
-		<link>https://www.microblife.in/what-are-some-examples-of-absolute-advantage/</link>
-					<comments>https://www.microblife.in/what-are-some-examples-of-absolute-advantage/#respond</comments>
+<site xmlns="com-wordpress:feed-additions:1">156670177</site>	<item>
+		<title>Giving an Old Typewriter a Mind of Its Own with GPT-3</title>
+		<link>https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/</link>
+					<comments>https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/#comments</comments>
 		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Fri, 06 Jan 2023 05:34:43 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<category><![CDATA[Absolute Advantage]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142469</guid>
+		<dc:creator><![CDATA[Dan Maloney]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 18:00:24 +0000</pubDate>
+				<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[GPT-3]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[typewriter]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571145</guid>
 
-					<description><![CDATA[<p>A clear example of a nation with an absolute advantage is Saudi Arabia, a country with abundant oil supplies that provide it with an absolute ... </p>
-<p class="read-more-container"><a title="What Are Some Examples Of Absolute Advantage?" class="read-more button" href="https://www.microblife.in/what-are-some-examples-of-absolute-advantage/#more-142469" aria-label="More on What Are Some Examples Of Absolute Advantage?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-are-some-examples-of-absolute-advantage/">What Are Some Examples Of Absolute Advantage?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>A clear example of a nation with an <a href="https://www.microblife.in/what-is-absolute-advantage/" data-type="post" data-id="142463">absolute advantage</a> is Saudi Arabia, a country with abundant oil supplies that provide it with an absolute advantage over other nations. Other examples include Colombia and its climate—ideally suited to growing coffee—and Zambia, possessing some of the world&#8217;s richest copper mines.</p>
-
-
-
-<p>In economics, <a href="https://www.microblife.in/what-is-absolute-advantage/" data-type="URL" data-id="https://www.microblife.in/what-is-absolute-advantage/">absolute advantage</a> refers to a country&#8217;s ability to produce a certain good or service more efficiently than other countries. This can be due to a variety of factors, such as access to natural resources, technological advancements, or a skilled labor force.</p>
-
-
-
-<p>A country with an <a href="https://www.microblife.in/what-is-absolute-advantage/" data-type="URL" data-id="https://www.microblife.in/what-is-absolute-advantage/">absolute advantage</a> has a competitive edge in the global market, as it can produce goods or services at a lower cost than other countries, leading to higher profits and a stronger economy.</p>
-
-
-
-<p>One clear example of a nation with an a<a href="https://www.microblife.in/what-is-absolute-advantage/" data-type="URL" data-id="https://www.microblife.in/what-is-absolute-advantage/">bsolute advantage</a> is Saudi Arabia, a country with abundant oil reserves that provide it with a significant advantage over other nations.</p>
-
-
-
-<p>&nbsp;Oil is a vital resource for countries around the world, and Saudi Arabia is one of the largest producers of oil in the world.</p>
-
-
-
-<p>The country&#8217;s vast oil reserves give it an advantage in the global market, as it can produce oil at a lower cost than other countries. This has allowed Saudi Arabia to become a major player in the global energy market and has contributed significantly to the country&#8217;s economic success.</p>
-
-
-
-<p>Another example of a nation with an <a href="https://www.microblife.in/what-is-absolute-advantage/" data-type="URL" data-id="https://www.microblife.in/what-is-absolute-advantage/">absolute advantage</a> is Colombia, a country with a climate that is ideally suited to grow coffee. Coffee is one of the world&#8217;s most popular beverages, and Colombia is one of the largest producers of coffee in the world.</p>
-
-
-
-<p>The country&#8217;s warm and humid climate, as well as its rich soil, make it an ideal place to grow coffee. As a result, Colombia has been able to produce coffee at a lower cost than other countries, giving it a competitive edge in the global market.</p>
-
-
-
-<p>Zambia is another example of a nation with an absolute advantage, due to its rich copper mines. Copper is an important resource for many industries, including construction, electronics, and transportation.</p>
-
-
-
-<p>Zambia is one of the largest producers of copper in the world, thanks to its rich deposits of metal. This has given the country an advantage in the global market, as it can produce copper at a lower cost than other countries.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-are-some-examples-of-absolute-advantage/">What Are Some Examples Of Absolute Advantage?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
+					<description><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png 1272w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571325" data-permalink="https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/screenshot-2023-01-14-at-17-25-38-mdztjpgmzqcfjtij-mp4/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png" data-orig-size="1272,715" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Screenshot 2023-01-14 at 17-25-38 MDZtjPgMzqcfJtIJ.mp4" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=800" /></div>There was an all-too-brief period in history where typewriters went from clunky, purely mechanical beasts to streamlined, portable electromechanical devices. But when the 80s came around and the PC revolution <a href="https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png 1272w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571325" data-permalink="https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/screenshot-2023-01-14-at-17-25-38-mdztjpgmzqcfjtij-mp4/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png" data-orig-size="1272,715" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Screenshot 2023-01-14 at 17-25-38 MDZtjPgMzqcfJtIJ.mp4" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=800" /></div><p>There was an all-too-brief period in history where typewriters went from clunky, purely mechanical beasts to streamlined, portable electromechanical devices. But when the 80s came around and the PC revolution started, the typewriting was on the wall for these machines, and by the 90s everyone had a PC, a printer, and Microsoft Word. And thus the little daisy-wheel typewriters began to populate thrift shops all over the world.</p>
+<p>That&#8217;s fine with us, because it gave [Arvind Sanjeev] a chance to build <a href="https://twitter.com/ArvindSanjeev/status/1603021010898677760" target="_blank">&#8220;Ghostwriter&#8221;</a>, an AI-powered automatic typewriter. The donor machine was a clapped-out Brother electronic typewriter, which needed a bit of TLC to bring it back to working condition. From there, [Arvind] worked out the keyboard matrix and programmed an Arduino to drive the typewriter, both read and write. A Raspberry Pi running the OpenAI Python API for GPT-3 talks to the Arduino over serial, which basically means you can enter a GPT writing prompt with the keyboard and have the machine spit out a dead-tree version of the results.</p>
+<p>To mix things up a bit, [Arvind] added a pair of pots to control the creativity and length of the response, plus an OLED screen which seems only to provide some cute animations, which we don&#8217;t hate. We also don&#8217;t hate the new paint job the typewriter got, but the jury is still out on the &#8220;poetry&#8221; that it typed up. Eye of the beholder, we suppose.</p>
+<p>Whatever you think of GPT&#8217;s capabilities, this is still a neat build and a nice reuse of otherwise dead-end electronics. Need a bit more help building natural language AI into your next project? Our own [Donald Papp] will <a href="https://hackaday.com/2022/05/18/natural-language-ai-in-your-next-project-its-easier-than-you-think/">get you up to speed on that</a>.</p>
+<p><span id="more-571145"></span></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">As promised, here is the full process thread for Ghostwriter &#8211; the <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AI</a> typewriter. A journey from idea to realization:</p>
+<p>The idea: With the exponential growth and emergence of a prolific number of AI products we see every day, I wanted to create a mindful intervention that (1/13) <a href="https://t.co/MCOeAcM26q" target="_blank">pic.twitter.com/MCOeAcM26q</a></p>
+<p>&mdash; Arvind Sanjeev (@ArvindSanjeev) <a href="https://twitter.com/ArvindSanjeev/status/1603021010898677760?ref_src=twsrc%5Etfw" target="_blank">December 14, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>[via <a href="https://www.itsnicethat.com/news/arvind-sanjeev-ghostwriter-product-design-110123" target="_blank">It&#8217;s Nice That</a>]</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.microblife.in/what-are-some-examples-of-absolute-advantage/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">142469</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">571145</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png" medium="image">
+			<media:title type="html">Screenshot 2023-01-14 at 17-25-38 MDZtjPgMzqcfJtIJ.mp4</media:title>
+		</media:content>
+	</item>
 		<item>
-		<title>How Is Absolute Advantage Calculated?</title>
-		<link>https://www.microblife.in/how-is-absolute-advantage-calculated/</link>
-					<comments>https://www.microblife.in/how-is-absolute-advantage-calculated/#respond</comments>
+		<title>Inside the Atari 2600</title>
+		<link>https://hackaday.com/2023/01/15/inside-the-atari-2600/</link>
+					<comments>https://hackaday.com/2023/01/15/inside-the-atari-2600/#comments</comments>
 		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Fri, 06 Jan 2023 05:30:41 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<category><![CDATA[Absolute Advantage]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142467</guid>
+		<dc:creator><![CDATA[Al Williams]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 15:00:48 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[Retrocomputing]]></category>
+		<category><![CDATA[atari 2600]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571272</guid>
 
-					<description><![CDATA[<p>To calculate absolute advantage, look at the larger of numbers for each product. One worker in Canada can produce more lumber (40 tons versus 30 ... </p>
-<p class="read-more-container"><a title="How Is Absolute Advantage Calculated?" class="read-more button" href="https://www.microblife.in/how-is-absolute-advantage-calculated/#more-142467" aria-label="More on How Is Absolute Advantage Calculated?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/how-is-absolute-advantage-calculated/">How Is Absolute Advantage Calculated?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>To calculate absolute advantage, look at the larger of numbers for each product. One worker in Canada can produce more lumber (40 tons versus 30 tons), so Canada has the absolute advantage in lumber. One worker in Venezuela can produce 60 barrels of oil compared to a worker in Canada who can produce only 20.</p>
-
-
-
-<p>To calculate absolute advantage, we can compare the amount of a particular product that each country is able to produce with the same amount of resources (such as labor, capital, and raw materials). For example, if we compare the production of lumber in Canada and Venezuela, we might find the following data:</p>
-
-
-
-<figure class="wp-block-table"><table><tbody><tr><td><strong>Product</strong></td><td><strong>Canada</strong></td><td><strong>Venezuela</strong></td></tr><tr><td>Lumber</td><td>40 tons</td><td>30 tons</td></tr><tr><td>Oil</td><td>20 barrels</td><td>60 barrels</td></tr></tbody></table></figure>
-
-
-
-<p>In this case, one worker in Canada can produce 40 tons of lumber, while a worker in Venezuela can produce only 30 tons. This means that Canada has an absolute advantage in the production of lumber.</p>
-
-
-
-<p>On the other hand, one worker in Venezuela can produce 60 barrels of oil, while a worker in Canada can produce only 20 barrels. This means that Venezuela has an absolute advantage in the production of oil.</p>
-
-
-
-<p>It&#8217;s important to note that having an absolute advantage in a particular product does not necessarily mean that a country should specialize in producing that product.</p>
-
-
-
-<p>There are other factors to consider, such as the demand for the product in different countries and the opportunity cost of producing it.</p>
-
-
-
-<p>For example, even though Canada has an absolute advantage in the production of lumber, it may still make sense for the country to import oil from Venezuela if the cost of producing oil domestically is higher than the cost of importing it from another country.</p>
-
-
-
-<p>In addition to absolute advantage, there is also the concept of comparative advantage, which refers to a country&#8217;s ability to produce a particular good or service at a lower opportunity cost than another country.</p>
-
-
-
-<p>In other words, a country with a comparative advantage in a particular product can produce it more efficiently than another country, even if it does not have an absolute advantage.</p>
-
-
-
-<p>For example, let&#8217;s say that Canada and Venezuela both produce lumber and oil, but Canada has a higher opportunity cost of producing oil (because it must give up more lumber to produce a barrel of oil) than Venezuela.</p>
-
-
-
-<p>In this case, Canada would have a comparative advantage in the production of lumber, while Venezuela would have a comparative advantage in the production of oil.</p>
-
-
-
-<p>It&#8217;s important to understand both absolute and comparative advantage when it comes to international trade, as they can help countries make informed decisions about what goods and services to produce and import.</p>
-
-
-
-<p>By specializing in the production of goods and services in which they have a comparative advantage, countries can increase their efficiency and competitiveness in the global market.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/how-is-absolute-advantage-calculated/">How Is Absolute Advantage Calculated?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
+					<description><![CDATA[<div><img width="800" height="528" src="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/2600.png 800w, https://hackaday.com/wp-content/uploads/2023/01/2600.png?resize=250,165 250w, https://hackaday.com/wp-content/uploads/2023/01/2600.png?resize=400,264 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571278" data-permalink="https://hackaday.com/2023/01/15/inside-the-atari-2600/2600-3/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png" data-orig-size="800,528" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2600" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=800" /></div>The Atari 2600 was an extremely popular yet very simple game console back in the 1970s. They sold, apparently, over 30 million of them, and, of course, these things broke. <a href="https://hackaday.com/2023/01/15/inside-the-atari-2600/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="528" src="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/2600.png 800w, https://hackaday.com/wp-content/uploads/2023/01/2600.png?resize=250,165 250w, https://hackaday.com/wp-content/uploads/2023/01/2600.png?resize=400,264 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571278" data-permalink="https://hackaday.com/2023/01/15/inside-the-atari-2600/2600-3/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png" data-orig-size="800,528" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2600" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=800" /></div><p>The Atari 2600 was an extremely popular yet very simple game console back in the 1970s. They sold, apparently, over 30 million of them, and, of course, these things broke. We&#8217;d get calls from friends and &#8212; remember, back then normal people weren&#8217;t computer savvy &#8212; nine times out of ten, we&#8217;d ask them to swap the controllers to show them it was a bad controller, and problem solved. But if you did have to open one up, it was surprising how little there was inside, as [Steve] notes in <a href="https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/" target="_blank">his recent teardown</a>.</p>
+<p>The bulk of the circuit board was switches, the power supply, and a TV modulator if you remember those. The circuit board was a tiny thing with a shrunk-down 6502, a 6532 RIOT chip, and a custom chip called a TIA. If you are familiar with those chips, you might wonder if the TIA had any memory in it. It didn&#8217;t. Nearly all the ROM and RAM for the game lived in the cartridge itself. Sure, the RIOT has 128 bytes of memory, but that&#8217;s not much.</p>
+<p><span id="more-571272"></span></p>
+<p>The TIA generates timing signals using an odd configuration that [Steve] discusses. The limited memory explains some things you may or may not have noticed. Most games have a symmetrical background where the left is a mirror copy of the right. The TIA architecture explains why. You could modify things, but you had to do it between scan lines which left a scant 76 clock cycles to do whatever you needed.</p>
+<p>There are a lot of tricks for squeezing the most out of the limited architecture that [Steve] highlights. He also provides links for writing your own games and running them on real hardware or an <a href="https://hackaday.com/2019/04/22/get-coding-with-this-atari-2600-development-suite/">emulator</a>. Since the box was popular and had a &#8212; sort of &#8212; 6502 inside, you&#8217;d think someone would have turned it into a full computer. <a href="https://hackaday.com/2020/02/29/converting-an-atari-2600-into-a-home-computer-did-that-ever-work/">Someone did</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.microblife.in/how-is-absolute-advantage-calculated/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>https://hackaday.com/2023/01/15/inside-the-atari-2600/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">142467</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">571272</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/2600.png" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/2600.png" medium="image">
+			<media:title type="html">2600</media:title>
+		</media:content>
+	</item>
 		<item>
-		<title>How Is Absolute Advantage Different From Comparative Advantage?</title>
-		<link>https://www.microblife.in/how-is-absolute-advantage-different-from-comparative-advantage/</link>
-					<comments>https://www.microblife.in/how-is-absolute-advantage-different-from-comparative-advantage/#respond</comments>
+		<title>A Flex Sensor For A Glove Controller Using An LDR</title>
+		<link>https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/</link>
+					<comments>https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/#comments</comments>
 		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Fri, 06 Jan 2023 05:26:18 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<category><![CDATA[Absolute Advantage]]></category>
-		<category><![CDATA[Comparative Advantage]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142465</guid>
+		<dc:creator><![CDATA[Jenny List]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 12:00:15 +0000</pubDate>
+				<category><![CDATA[Peripherals Hacks]]></category>
+		<category><![CDATA[flex sensor]]></category>
+		<category><![CDATA[glove controller]]></category>
+		<category><![CDATA[ldr]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571159</guid>
 
-					<description><![CDATA[<p>Absolute Advantage: The ability of an actor to produce more of a good or service than a competitor. Comparative Advantage: The ability of an actor ... </p>
-<p class="read-more-container"><a title="How Is Absolute Advantage Different From Comparative Advantage?" class="read-more button" href="https://www.microblife.in/how-is-absolute-advantage-different-from-comparative-advantage/#more-142465" aria-label="More on How Is Absolute Advantage Different From Comparative Advantage?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/how-is-absolute-advantage-different-from-comparative-advantage/">How Is Absolute Advantage Different From Comparative Advantage?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Absolute Advantage: The ability of an actor to produce more of a good or service than a competitor. Comparative Advantage: The ability of an actor to produce a good or service for a lower opportunity cost than a competitor.</p>
-
-
-
-<p>When it comes to international trade and economic competition, two key concepts that often come up are absolute advantage and comparative advantage. </p>
-
-
-
-<p>Understanding these two concepts is essential for businesses and individuals looking to enter global markets, as they can help determine which products and services are most profitable to produce and sell.</p>
-
-
-
-<p>Absolute advantage refers to the ability of an actor, such as a business or country, to produce more of a good or service than a competitor. This can be due to various factors, such as access to resources, technological advancements, and more efficient production processes. </p>
-
-
-
-<p>For example, if one country has access to abundant and cheap labor, it may be able to produce goods more efficiently and at a lower cost than a country with higher labor costs.</p>
-
-
-
-<p>On the other hand, comparative advantage refers to the ability of an actor to produce a good or service for a lower opportunity cost than a competitor. This means that the actor is able to produce the good or service at a lower cost in terms of the resources and opportunities that are sacrificed in the process.</p>
-
-
-
-<p>For example, if one country has a particularly strong agricultural sector, it may be able to produce goods such as wheat and corn at a lower cost than other countries. </p>
-
-
-
-<p>However, if that same country also has a strong manufacturing sector, it may be more efficient for them to focus on manufacturing goods and import agricultural products from countries with a comparative advantage in agriculture.</p>
-
-
-
-<p>Both absolute and comparative advantage plays a significant role in international trade and can impact the competitiveness of businesses and countries in the global market. Let&#8217;s take a closer look at each concept in more detail and see how they compare in a table.</p>
-
-
-
-<h2>Absolute Advantage</h2>
-
-
-
-<ul>
-<li>Refers to the ability to produce more of a good or service than a competitor</li>
-
-
-
-<li>This can be due to various factors, such as access to resources, technological advancements, and more efficient production processes</li>
-
-
-
-<li>Can give businesses or countries a competitive edge in the global market</li>
-</ul>
-
-
-
-<h2>Comparative Advantage</h2>
-
-
-
-<ul>
-<li>Refers to the ability to produce a good or service for a lower opportunity cost than a competitor</li>
-
-
-
-<li>Takes into account the resources and opportunities that are sacrificed in the production process</li>
-
-
-
-<li>Can help businesses or countries determine which products and services are most profitable to produce and sell</li>
-</ul>
-
-
-
-<h2>Comparison Table: Absolute Advantage Vs Comparative Advantage</h2>
-
-
-
-<figure class="wp-block-table"><table><tbody><tr><td><strong>Absolute Advantage</strong></td><td><strong>Comparative Advantage</strong></td></tr><tr><td>Measures production quantity</td><td>Measures production cost</td></tr><tr><td>This can be due to various factors</td><td>Takes into account opportunity cost</td></tr><tr><td>Can give businesses or countries a competitive edge</td><td>Can help businesses or countries determine which products and services are most profitable to produce and sell</td></tr><tr><td>Focuses on a single good or service</td><td>Takes into account the production of multiple goods or services</td></tr><tr><td>Can be affected by external factors such as natural disasters or changes in technology</td><td>Is less vulnerable to external factors as it is based on relative costs within a specific context</td></tr></tbody></table></figure>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/how-is-absolute-advantage-different-from-comparative-advantage/">How Is Absolute Advantage Different From Comparative Advantage?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
+					<description><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571307" data-permalink="https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/glove-sensor-featured/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="glove-sensor-featured" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=800" /></div>When most of us think of glove controllers, the first which comes to mind is Nintendo&#8217;s PowerGlove, which promised much more than it delivered. But the idea persists, and from <a href="https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571307" data-permalink="https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/glove-sensor-featured/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="glove-sensor-featured" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=800" /></div><p>When most of us think of glove controllers, the first which comes to mind is Nintendo&#8217;s PowerGlove, which promised much more than it delivered. But the idea persists, and from time to time we see them here at Hackaday. [<span class="identity-card" data-id="313666">Gord Payne</span>] has one with an elegant sensor solution, <a href="https://hackaday.io/project/189165-optical-glove-controller-using-ldr" target="_blank">it detects finger movement using a light dependent resistor</a>.</p>
+<p>The cleverest designs are those which are the simplest, and this one eschews complex mechanisms and exotic parts for a simple piece of flexible tube. At one end is an LED and at the other the LDR, and when attached to a glove it provides a finger sensor without the fuss. The amount of light reaching the LDR from the LED decreases as the pipe is bent, and with a simple divider circuit a voltage can be read by an Arduino. You can see it in action in the video below the break, where the glove flexing controls a servo.</p>
+<p>Perhaps this might revitalize a bit of interest in glove controllers, something we probably don&#8217;t see too many of. <a href="https://hackaday.com/2017/10/14/nintendo-power-glove-achieves-its-promise-as-vive-controller/">Those Nintendo PowerGloves do still crop up from time to time though</a>.</p>
+<p><span id="more-571159"></span></p>
+<p><iframe loading="lazy" class="youtube-player" width="800" height="480" src="https://www.youtube.com/embed/4xF8yQJNIXQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.microblife.in/how-is-absolute-advantage-different-from-comparative-advantage/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">142465</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">571159</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg" medium="image">
+			<media:title type="html">glove-sensor-featured</media:title>
+		</media:content>
+	</item>
 		<item>
-		<title>What Is Absolute Advantage?</title>
-		<link>https://www.microblife.in/what-is-absolute-advantage/</link>
-					<comments>https://www.microblife.in/what-is-absolute-advantage/#respond</comments>
+		<title>Microsoft Returns to the Altair</title>
+		<link>https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/</link>
+					<comments>https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/#comments</comments>
 		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Fri, 06 Jan 2023 05:13:22 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<category><![CDATA[Absolute Advantage]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142463</guid>
-
-					<description><![CDATA[<p>What Is Absolute Advantage? Absolute advantage refers to a country&#8217;s ability to produce a particular good or service more efficiently than any other country. This ... </p>
-<p class="read-more-container"><a title="What Is Absolute Advantage?" class="read-more button" href="https://www.microblife.in/what-is-absolute-advantage/#more-142463" aria-label="More on What Is Absolute Advantage?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-is-absolute-advantage/">What Is Absolute Advantage?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<h2>What Is Absolute Advantage?</h2>
-
-
-
-<p>Absolute advantage refers to a country&#8217;s ability to produce a particular good or service more efficiently than any other country. This means that the country can produce the good or service using fewer resources (such as labor, capital, and raw materials) than any other country.</p>
-
-
-
-<p>Absolute advantage is an important concept in international trade theory, which helps explain why countries trade with each other. When a country has an absolute advantage in the production of a good or service, it can produce that good or service at a lower cost than any other country.</p>
-
-
-
-<p>This gives the country a competitive advantage in the international market, as it can sell the good or service at a lower price and still make a profit.</p>
-
-
-
-<p>For example, if Country A can produce 1000 units of a particular good using 100 units of labor, while Country B can only produce 1000 units of the same good using 200 units of labor, Country A has an absolute advantage in the production of the good because it can produce the same amount of the good using fewer resources.</p>
-
-
-
-<h2>Understanding Absolute Advantage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
-
-
-
-<p>Absolute advantage is often used to compare the efficiency of production between countries. It is based on the premise that countries have different resources, technologies, and production processes, which can affect their ability to produce goods and services.</p>
-
-
-
-<p>For example, a country with a large supply of labor may have an absolute advantage in the production of labor-intensive goods, while a country with a large supply of capital may have an absolute advantage in the production of capital-intensive goods.</p>
-
-
-
-<p>Absolute advantage is not the only factor that determines international trade patterns. Another important concept is comparative advantage, which will be discussed in the next section.</p>
-
-
-
-<h2>Comparative Advantage</h2>
-
-
-
-<p>Comparative advantage refers to a country&#8217;s ability to produce a good or service at a lower opportunity cost than any other country. Opportunity cost is the value of the next best alternative that must be given up in order to produce a good or service.</p>
-
-
-
-<p>In other words, a country has a comparative advantage in a good or service if it can produce that good or service at a lower cost (in terms of the opportunity cost of other goods or services) than any other country.</p>
-
-
-
-<p>For example, consider two countries, Country A and Country B, that each produce two goods: apples and oranges. Country A can produce 1000 apples per year using 100 units of labor, or 1000 oranges per year using 200 units of labor.</p>
-
-
-
-<p>Country B can produce 1000 apples per year using 150 units of labor, or 1000 oranges per year using 50 units of labor. Based on these production costs, Country A has an absolute advantage in the production of apples, while Country B has an absolute advantage in the production of oranges.</p>
-
-
-
-<p>However, Country B has a comparative advantage in the production of both apples and oranges because it can produce each good at a lower opportunity cost (in terms of the other good) than Country A.</p>
-
-
-
-<h2>Theory Assumptions</h2>
-
-
-
-<p>The theory of absolute and comparative advantage is based on several assumptions, including:</p>
-
-
-
-<p>Countries are able to trade freely with each other. This means that there are no barriers to trade, such as tariffs or quotas, that prevent countries from exchanging goods and services.</p>
-
-
-
-<p>Countries have different resources, such as labor, capital, and raw materials. These resources are not evenly distributed across countries and can affect a country&#8217;s ability to produce certain goods and services.</p>
-
-
-
-<p>Countries have different technologies and production processes. These differences can also affect a country&#8217;s ability to produce goods and services efficiently.</p>
-
-
-
-<h2>Pros And Cons</h2>
-
-
-
-<p><strong>There are several benefits to international trade based on absolute and comparative advantage:</strong></p>
-
-
-
-<p>It allows countries to specialize in the production of goods and services in which they have a comparative advantage, leading to increased efficiency and lower costs.</p>
-
-
-
-<p>Specialization can help countries take advantage of their unique resources, technologies, and production processes, allowing them to produce goods and services more efficiently than they could if they tried to produce everything themselves.</p>
-
-
-
-<p>This increased efficiency can lead to lower prices for consumers, as countries can produce goods and services at a lower cost and pass the savings on to their customers.</p>
-
-
-
-<p>It promotes the exchange of ideas and technology between countries. Trade can expose countries to new technologies, business practices, and ways of thinking, which can stimulate innovation and economic growth.</p>
-
-
-
-<p>It can lead to increased competition and innovation. When countries trade with each other, they are exposed to competition from other countries, which can drive companies to improve their products and services in order to stay competitive. This can lead to increased innovation and higher quality products for consumers.</p>
-
-
-
-<p><strong>However, there are also potential drawbacks to international trade based on absolute and comparative advantage:</strong></p>
-
-
-
-<p>It can lead to a loss of domestic jobs as companies shift production to countries with a lower cost of production. If a country has a comparative advantage in the production of a particular good or service, domestic companies may choose to outsource production to that country in order to take advantage of lower costs. This can lead to job losses in the domestic country as companies reduce their workforce.</p>
-
-
-
-<p>It can lead to environmental damage in countries with lower environmental regulations. Some countries may have lower environmental regulations than others, which can make it cheaper to produce goods and services there.</p>
-
-
-
-<p>However, this can lead to environmental damage in those countries, as companies may not be held to the same standards as they would be in countries with stricter regulations.</p>
-
-
-
-<p>It can contribute to income inequality within countries. International trade can lead to increased prosperity for some, but it can also widen the gap between the rich and the poor within a country. T</p>
-
-
-
-<p>his is because the benefits of trade are not always evenly distributed. For example, highly skilled workers may benefit from increased demand for their services, while low skilled workers may be displaced by cheaper labor in other countries.</p>
-
-
-
-<h2>Example</h2>
-
-
-
-<p>To further illustrate the concept of absolute and comparative advantage, consider the example of two countries, Country A and Country B, that each produce two goods: cars and shoes.</p>
-
-
-
-<p>Country A can produce 1000 cars per year using 100 units of labor, or 1000 pairs of shoes per year using 200 units of labor. Country B can produce 1000 cars per year using 150 units of labor, or 1000 pairs of shoes per year using 50 units of labor.</p>
-
-
-
-<p>Based on these production costs, Country A has an absolute advantage in the production of cars, while Country B has an absolute advantage in the production of shoes. However, Country B has a comparative advantage in the production of both cars and shoes because it can produce each good at a lower opportunity cost (in terms of the other good) than Country A.</p>
-
-
-
-<p>In this scenario, it would make sense for Country A to specialize in the production of cars and trade with Country B for shoes. This would allow both countries to take advantage of their comparative advantages and increase their efficiency, leading to lower costs and increased prosperity.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-is-absolute-advantage/">What Is Absolute Advantage?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
+		<dc:creator><![CDATA[Al Williams]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 09:00:09 +0000</pubDate>
+				<category><![CDATA[Retrocomputing]]></category>
+		<category><![CDATA[altair 8800]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571293</guid>
+
+					<description><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/altair.png 800w, https://hackaday.com/wp-content/uploads/2023/01/altair.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/altair.png?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571298" data-permalink="https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/altair-11/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="altair" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=800" /></div>The Altair 8800 arguably launched Microsoft. Now [Dave Glover] from Microsoft offers an emulated and potentially cloud-based Altair emulation with CP/M and Microsoft Basic. You can see a video of <a href="https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/altair.png 800w, https://hackaday.com/wp-content/uploads/2023/01/altair.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/altair.png?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571298" data-permalink="https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/altair-11/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="altair" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=800" /></div><p>The Altair 8800 arguably launched Microsoft. Now [Dave Glover] from Microsoft offers an emulated and potentially cloud-based <a href="https://github.com/gloveboxes/AltairEverywhere/wiki" target="_blank">Altair emulation</a> with CP/M and Microsoft Basic. You can see a video of the project below. One thing that makes it a bit odd compared to other Altair clones we&#8217;ve seen is that the emulator runs in a Docker environment and is fully cloud-enabled. You can interact with it via a PCB front panel, or a terminal running in a web browser.</p>
+<p>The <a href="https://github.com/gloveboxes/AltairEverywhere" target="_blank">core emulator</a> is MIT-licensed and seems like it would run nearly everywhere. We were a little surprised there wasn&#8217;t an instance in the Azure cloud that you could spin up to test drive. Surely a few hundred Altairs running at once wouldn&#8217;t even make a dent in a modern CPU.</p>
+<p><span id="more-571293"></span></p>
+<p>There are plenty of Altair emulators and even replicas with authentic CPUs out there. But we have to admit the Wiki documentation on this one is uncommonly well done. Even if you don&#8217;t want to use this emulator, you might find the collection of data about the Altair useful.</p>
+<p>Don&#8217;t know how to use a computer front panel? Learn on the <a href="https://hackaday.com/2020/10/30/altair-front-panel-tutorials/">Altair</a> or a <a href="https://hackaday.com/2017/08/10/getting-started-with-blinking-lights-on-old-iron/">PDP/8</a>, even if you don&#8217;t have a real one. For simulated hardware, the project that turns an<a href="https://hackaday.com/2017/02/18/arduino-altair-8800-simulator/"> Arduino Due into an Altair</a> works well. If you just want to <a href="https://hackaday.com/2014/12/12/online-altair-8800-clone-lets-you-play-zork/">play Zork</a>, you can do that in your browser, for sure.</p>
+<p><iframe loading="lazy" class="youtube-player" width="800" height="480" src="https://www.youtube.com/embed/2yyBfw3CARc?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.microblife.in/what-is-absolute-advantage/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">142463</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">571293</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/altair.png" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/altair.png" medium="image">
+			<media:title type="html">altair</media:title>
+		</media:content>
+	</item>
 		<item>
-		<title>What is AAR and CAAR?</title>
-		<link>https://www.microblife.in/what-is-aar-and-caar/</link>
-					<comments>https://www.microblife.in/what-is-aar-and-caar/#respond</comments>
+		<title>A Number Maze For Younger Hackers</title>
+		<link>https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/</link>
+					<comments>https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/#comments</comments>
 		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sat, 24 Dec 2022 13:00:03 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142449</guid>
+		<dc:creator><![CDATA[Matthew Carlson]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 06:00:37 +0000</pubDate>
+				<category><![CDATA[handhelds hacks]]></category>
+		<category><![CDATA[Microcontrollers]]></category>
+		<category><![CDATA[7 segment LED display]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[led]]></category>
+		<category><![CDATA[maze]]></category>
+		<category><![CDATA[numbermaze]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571271</guid>
 
-					<description><![CDATA[<p>AAR and CAAR are two measures used in financial analysis to assess the performance of a security or portfolio. Both AAR and CAAR are calculated ... </p>
-<p class="read-more-container"><a title="What is AAR and CAAR?" class="read-more button" href="https://www.microblife.in/what-is-aar-and-caar/#more-142449" aria-label="More on What is AAR and CAAR?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-is-aar-and-caar/">What is AAR and CAAR?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>AAR and CAAR are two measures used in financial analysis to assess the performance of a security or portfolio. Both AAR and CAAR are calculated over a specific period of time and are used to compare the actual return of a security or portfolio to its expected return.</p>
-
-
-
-<p>AAR, or average abnormal return, is the average return of a security or portfolio over a certain period of time that is above or below the expected return. It is calculated by taking the difference between the actual return and the expected return and then dividing that value by the number of periods in the analysis.</p>
-
-
-
-<p>For example, if security had an expected return of 5% per year and an actual return of 8% over a three-year period, its AAR would be (8%-5%)/3 = 1%.</p>
-
-
-
-<p>CAAR, or cumulative abnormal return, is the cumulative sum of AARs over a certain period of time. It measures the overall performance of a security or portfolio above or below its expected return. For example, if security had AARs of 1%, 3%, and 2% over a three-year period, its CAAR would be 1% + 3% + 2% = 6%.</p>
-
-
-
-<p>AAR and CAAR are often used to evaluate the performance of securities or portfolios relative to a benchmark or index and can be helpful in identifying trends and patterns in the data. They can be used to assess the impact of specific events, such as earnings announcements or changes in market conditions, on the performance of a security or portfolio.</p>
-
-
-
-<p>One key difference between AAR and CAAR is that AAR is an average measure, while CAAR is a cumulative measure. AAR reflects the average return of a security or portfolio over a certain period of time, while CAAR reflects the overall performance of a security or portfolio over that same period of time.</p>
-
-
-
-<p>Another difference between AAR and CAAR is the time period being analyzed. AAR is calculated over a specific period of time, such as a year or a quarter, while CAAR is the cumulative sum of AARs over a longer period of time, such as several years</p>
-
-
-
-<p>Both AAR and CAAR are useful tools for financial analysts and investors, as they allow for the evaluation of the performance of a security or portfolio relative to its expected return. They can be used to identify trends and patterns in the data, and to assess the impact of specific events on the performance of a security or portfolio.</p>
-
-
-
-<p>By comparing AAR and CAAR to a benchmark or index, analysts and investors can gain a better understanding of the performance of a security or portfolio over time, and make more informed investment decisions.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-is-aar-and-caar/">What is AAR and CAAR?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
+					<description><![CDATA[<div><img width="800" height="367" src="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg 1440w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=250,115 250w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=400,183 400w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=800,367 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571283" data-permalink="https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/numbermazefront/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg" data-orig-size="1440,660" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="numbermazefront" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=800" /></div>[David Johnson-Davies] has a lofty goal of building a small device to give to younger hackers on a semi-yearly basis. So this last year, he designed and created The Number <a href="https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="367" src="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg 1440w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=250,115 250w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=400,183 400w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=800,367 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571283" data-permalink="https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/numbermazefront/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg" data-orig-size="1440,660" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="numbermazefront" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=800" /></div><p>[David Johnson-Davies] has a lofty goal of building a small device to give to younger hackers on a semi-yearly basis. So this last year, he designed and created <a href="http://www.technoblogy.com/show?45JT" target="_blank">The Number Maze Game</a>, a small handheld logic puzzle maze.</p>
+<p>It&#8217;s based on several 4-digit seven-segment displays controlled by an AVR128DA32. Navigation is just a few push buttons and a buzzer to let you know when you&#8217;ve won. The game is simple: you jump the amount listed on the space you&#8217;re currently on, trying to get to the space labeled &#8220;H.&#8221; [David] lays out how he built it in great detail, discussing the process of designing and assembly. He also expounds on many decisions, such as using a TQFP microcontroller instead of the through-hole ATmega328P due to the I/O pin count.</p>
+<p>The instructions and design process are so detailed we&#8217;re confident most people could easily reproduce it, especially with the <a href="http://www.technoblogy.com/list?482G" target="_blank">code</a> and <a href="https://github.com/technoblogy/number-maze-game" target="_blank">board files</a>. But the value of this project is not in blindly copying it. Instead, we love how something so simple can be wonderfully entertaining and valuable to younger hackers. Programming headers are included so they can add new mazes. We suspect there are many out there who would love to get something so tactile, simple, and modifiable.</p>
+<p>Of course, we&#8217;ve seen <a href="https://hackaday.com/2018/05/09/pic16maze-upgrades-secret-maze-game/">other minimal maze games</a>, so there&#8217;s no lack of inspiration for making some different.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.microblife.in/what-is-aar-and-caar/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">142449</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">571271</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg" medium="image">
+			<media:title type="html">numbermazefront</media:title>
+		</media:content>
+	</item>
 		<item>
-		<title>What is Abnormal Return?</title>
-		<link>https://www.microblife.in/what-is-abnormal-return/</link>
-					<comments>https://www.microblife.in/what-is-abnormal-return/#respond</comments>
+		<title>Conductive Ink Based on a Simple Idea</title>
+		<link>https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/</link>
+					<comments>https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/#comments</comments>
 		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sat, 24 Dec 2022 12:49:08 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142444</guid>
+		<dc:creator><![CDATA[Al Williams]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 03:00:08 +0000</pubDate>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[conductive ink]]></category>
+		<category><![CDATA[conductive polymer]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571263</guid>
 
-					<description><![CDATA[<p>Abnormal return, also known as an excess return or abnormal profit, refers to the excess return of investment above or below the expected return. It ... </p>
-<p class="read-more-container"><a title="What is Abnormal Return?" class="read-more button" href="https://www.microblife.in/what-is-abnormal-return/#more-142444" aria-label="More on What is Abnormal Return?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-is-abnormal-return/">What is Abnormal Return?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Abnormal return, also known as an excess return or abnormal profit, refers to the excess return of investment above or below the expected return. It is a measure of the performance of an investment or portfolio relative to what would have been expected based on the level of risk and overall market conditions.</p>
-
-
-
-<p>In finance, the expected return of an investment is the return that is predicted based on factors such as the level of risk associated with the investment, the overall market conditions, and the historical returns of similar investments. The expected return is often used as a benchmark against which the actual performance of an investment can be measured.</p>
-
-
-
-<p>For example, if an investment is expected to return 10% per year based on the level of risk and the market conditions, and it actually returns 15% per year, the abnormal return would be 5%. This excess return may be due to a variety of factors, such as unexpected changes in market conditions or the performance of the investment exceeding expectations.</p>
-
-
-
-<p>Positive abnormal returns indicate that the investment has performed better than expected, while negative abnormal returns indicate that the investment has performed worse than expected. Abnormal returns can be calculated by subtracting the expected return from the actual return on the investment.</p>
-
-
-
-<p>Abnormal returns are often used in academic studies and by financial analysts to evaluate the performance of an investment or portfolio. They can also be used to assess the performance of investment managers or fund managers, as the abnormal return of a particular investment or portfolio can be compared to the expected return to determine whether the investment manager or fund manager has added value through their investment decisions.</p>
-
-
-
-<h2>What Are the Factors That Can Affect Abnormal Returns?</h2>
-
-
-
-<p>There are a number of factors that can affect abnormal returns, including market conditions, the performance of the investment or portfolio, and changes in the level of risk associated with the investment. For example, if an investment is expected to return 10% per year based on the level of risk and the market conditions, but the market conditions change unexpectedly and the investment returns 15% per year, the abnormal return would be 5%.</p>
-
-
-
-<p>In addition to being used to evaluate the performance of individual investments or portfolios, abnormal returns can also be used to compare the performance of different investments or portfolios. By comparing the abnormal returns of two or more investments or portfolios, it is possible to determine which one has performed better relative to the expected return.</p>
-
-
-
-<h2>What Are The Statistical Techniques That Can Be Used To Test For Abnormal Returns?</h2>
-
-
-
-<p>There are a number of statistical techniques that can be used to test for abnormal returns in finance. These techniques are used to evaluate the performance of an investment or portfolio relative to what would have been expected based on the level of risk and overall market conditions.</p>
-
-
-
-<p>One common technique for testing for abnormal returns is the t-test. The t-test is a statistical test that is used to determine whether the mean of a sample is significantly different from a hypothesized value. In the context of testing for abnormal returns, the t-test can be used to determine whether the mean return of an investment or portfolio is significantly different from the expected return.</p>
-
-
-
-<p>Another technique for testing for abnormal returns is the Fama-MacBeth regression analysis. This technique involves regressing the abnormal returns of an investment or portfolio on a set of explanatory variables, such as the level of risk or the overall market conditions. If the coefficients on the explanatory variables are significantly different from zero, it indicates that the abnormal returns are related to the explanatory variables and are not simply due to random chance.</p>
-
-
-
-<p>The third technique for testing for abnormal returns is the market model regression analysis. This technique involves regressing the returns of an investment or portfolio on the returns of a benchmark index, such as the S&amp;P 500. The residuals from this regression analysis represent the abnormal returns of the investment or portfolio. If the abnormal returns are significantly different from zero, it indicates that the investment or portfolio has achieved abnormal returns.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-is-abnormal-return/">What is Abnormal Return?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
+					<description><![CDATA[<div><img width="800" height="480" src="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/polymer.png 800w, https://hackaday.com/wp-content/uploads/2023/01/polymer.png?resize=250,150 250w, https://hackaday.com/wp-content/uploads/2023/01/polymer.png?resize=400,240 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571267" data-permalink="https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/polymer/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png" data-orig-size="800,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="polymer" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=800" /></div>There&#8217;s an old series of jokes that starts with: &#8220;How do you put an elephant in a refrigerator?&#8221; The answer is to open the door, put the elephant inside, and <a href="https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="480" src="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/polymer.png 800w, https://hackaday.com/wp-content/uploads/2023/01/polymer.png?resize=250,150 250w, https://hackaday.com/wp-content/uploads/2023/01/polymer.png?resize=400,240 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571267" data-permalink="https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/polymer/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png" data-orig-size="800,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="polymer" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=800" /></div><p>There&#8217;s an old series of jokes that starts with: &#8220;How do you put an elephant in a refrigerator?&#8221; The answer is to open the door, put the elephant inside, and close the door. Most people don&#8217;t get that because it is too simple, and simple is the approach Georgia Tech researchers have taken when faced with the problem of using <a href="https://coe.gatech.edu/news/2022/12/going-back-basics-yields-printable-transparent-plastic-thats-highly-conductive" target="_blank">a particular conductive plastic</a>. PEDOT, the plastic in question, is a good conductor, but it is hard to work with. You can add materials to make it easier to work with, but that screws up the conductivity. Their answer is much like the refrigerator joke: add material to PEDOT, paint or print it where you want, and then remove the extra material. Simple.</p>
+<p>The polymer needs side chains to be soluble. This allows you to mix an ink or paint made of the material, but the waxy side chains interfere with the material&#8217;s conductivity. However, after application, it is possible to break off the side chains and flush them out with a common solvent. The process is simple, and leaves a flexible conductive material that&#8217;s stable.</p>
+<p><span id="more-571263"></span></p>
+<p>The work has applications anywhere you need a flexible conductive material. As a side benefit, after processing, the material is also optically clear. You can imagine that wearable technology could easily take advantage of this. While it doesn&#8217;t seem like normal 3D printing techniques would be useful with this, it isn&#8217;t hard to imagine an inkjet-like printer along with some sort of post-processing setup is within reach of the average garage lab.</p>
+<p>While the results are interesting, be sure to temper your expectations. The material has a reported conductivity of 1,000 siemens per centimeter.  Copper, admittedly a good conductor, clocks in at 590,000 S/cm. Graphite, for example, is about as conductive as the new material.</p>
+<p>Good conductive ink would <a href="https://hackaday.com/2022/02/15/print-a-sketch-turns-any-surface-into-a-printed-circuit-board/">change PCB production</a>, at least for small prototype runs. You can make pretty good <a href="https://hackaday.com/2012/02/24/diy-conductive-ink-lets-you-freehand-circuits-on-the-cheap/">conductive ink on your own</a>, of course.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.microblife.in/what-is-abnormal-return/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">142444</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">571263</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/polymer.png" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/polymer.png" medium="image">
+			<media:title type="html">polymer</media:title>
+		</media:content>
+	</item>
 		<item>
-		<title>What does the EMH have to say about abnormal returns?</title>
-		<link>https://www.microblife.in/what-does-the-emh-have-to-say-about-abnormal-returns/</link>
-					<comments>https://www.microblife.in/what-does-the-emh-have-to-say-about-abnormal-returns/#respond</comments>
+		<title>Smart LED Curtain Brings Sprites To Your Windows</title>
+		<link>https://hackaday.com/2023/01/14/smart-led-curtain-brings-sprites-to-your-windows/</link>
+					<comments>https://hackaday.com/2023/01/14/smart-led-curtain-brings-sprites-to-your-windows/#comments</comments>
 		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sat, 24 Dec 2022 12:44:32 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142442</guid>
+		<dc:creator><![CDATA[Dave Walker]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 00:00:53 +0000</pubDate>
+				<category><![CDATA[LED Hacks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[curtain]]></category>
+		<category><![CDATA[display]]></category>
+		<category><![CDATA[led]]></category>
+		<category><![CDATA[neopixel]]></category>
+		<category><![CDATA[sprite]]></category>
+		<category><![CDATA[video wall]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571190</guid>
 
-					<description><![CDATA[<p>The efficient market hypothesis (EMH) is a theory in finance that states that financial markets are efficient, meaning that prices reflect all available information and ... </p>
-<p class="read-more-container"><a title="What does the EMH have to say about abnormal returns?" class="read-more button" href="https://www.microblife.in/what-does-the-emh-have-to-say-about-abnormal-returns/#more-142442" aria-label="More on What does the EMH have to say about abnormal returns?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-does-the-emh-have-to-say-about-abnormal-returns/">What does the EMH have to say about abnormal returns?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>The efficient market hypothesis (EMH) is a theory in finance that states that financial markets are efficient, meaning that prices reflect all available information and any deviations from the expected return are likely to be corrected quickly. The EMH has implications for the ability to earn abnormal returns, or excess returns, in financial markets.</p>
-
-
-
-<p>According to the EMH, it is difficult to earn abnormal returns by simply buying undervalued assets or selling overvalued assets, as the market will tend to adjust to reflect the true value of the asset. </p>
-
-
-
-<p>This is because, in an efficient market, prices are expected to fully reflect all available information, including the intrinsic value of the asset. As a result, it is difficult to identify mispriced assets or opportunities to earn abnormal returns.</p>
-
-
-
-<p>However, the EMH does not necessarily mean that it is impossible to earn abnormal returns in financial markets. While the EMH suggests that it is difficult to earn abnormal returns through simple strategies such as buying undervalued assets or selling overvalued assets, it does not rule out the possibility of earning abnormal returns through more sophisticated strategies.</p>
-
-
-
-<p>For example, some investors may be able to earn abnormal returns by using specialized knowledge or expertise to identify mispriced assets or opportunities that are not reflected in the market. Others may be able to earn abnormal returns by taking on additional risk, such as investing in less liquid or less well-known assets.</p>
-
-
-
-<p>Overall, the EMH suggests that it is difficult to earn abnormal returns in financial markets, but it does not rule out the possibility of earning abnormal returns through more sophisticated strategies or by taking on additional risk. </p>
-
-
-
-<p>While the EMH is a widely accepted theory in finance, it has been the subject of much debate and has been challenged by some researchers who have found evidence of persistent patterns in financial markets that are not consistent with the EMH.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-does-the-emh-have-to-say-about-abnormal-returns/">What does the EMH have to say about abnormal returns?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
+					<description><![CDATA[<div><img width="800" height="419" src="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=800" class="attachment-large size-large wp-post-image" alt="Illuminated smart curtain in front of a window, beside a Christmas tree" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg 862w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=250,131 250w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=400,210 400w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=800,419 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571197" data-permalink="https://hackaday.com/2364481673163673079-1/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg" data-orig-size="862,452" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2364481673163673079 (1)" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=800" /></div>Anybody who has ever seen a video wall (and who hasn&#8217;t?) will be familiar with the idea of making large-scale illuminated images from individual coloured lights. But how many of <a href="https://hackaday.com/2023/01/14/smart-led-curtain-brings-sprites-to-your-windows/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="419" src="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=800" class="attachment-large size-large wp-post-image" alt="Illuminated smart curtain in front of a window, beside a Christmas tree" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg 862w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=250,131 250w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=400,210 400w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=800,419 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571197" data-permalink="https://hackaday.com/2364481673163673079-1/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg" data-orig-size="862,452" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2364481673163673079 (1)" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=800" /></div><figure id="attachment_571202" aria-describedby="caption-attachment-571202" style="width: 179px" class="wp-caption alignright"><img data-attachment-id="571202" data-permalink="https://hackaday.com/6581381673163706689-1/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg" data-orig-size="1080,2116" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="6581381673163706689 (1)" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?w=204" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?w=319" decoding="async" loading="lazy" class="wp-image-571202" src="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?w=204" alt="Mobile interface for LED smart curtain display" width="179" height="350" srcset="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg 1080w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=128,250 128w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=204,400 204w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=319,625 319w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=784,1536 784w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=1045,2048 1045w" sizes="(max-width: 179px) 100vw, 179px" /><figcaption id="caption-attachment-571202" class="wp-caption-text">A mobile interface is a nice touch</figcaption></figure>
+<p>Anybody who has ever seen a video wall (and who hasn&#8217;t?) will be familiar with the idea of making large-scale illuminated images from individual coloured lights. But how many of us have gone the extra mile and fitted such a display in our own homes? [vcch] <a href="https://hackaday.io/project/189076-deluxe-smart-curtain" target="_blank">has done just that with his Deluxe Smart Curtain</a> that can be controlled with a phone or laptop.</p>
+<p>The display itself is made up of a series of Neopixel strips, hung in vertical lines in front of the window.  There is a wide gap between each strip, lending a ghostly translucent look to the images and allowing the primary purpose of the window to remain intact.</p>
+<p>The brains of the system are hosted on a low-cost M5stack atom ESP32 device. The data lines for the LEDs are wired in a zig-zag up and down pattern from left to right, which the driver software maps to the rectangular images. However, the 5V power is applied to the strips in parallel to avoid voltage drops along the chain.</p>
+<p>If you&#8217;d like to build your own smart curtain, Arduino sketch files and PHP for the mobile interface are included on the project page. Be sure to check out the brief video of what the neighbors will enjoy at night after the break.</p>
+<p>If video walls are your kind of thing, then how about <a href="https://hackaday.com/2019/05/17/a-ping-pong-ball-led-video-wall/">this one that uses Ping Pong Balls</a> as diffusers?<span id="more-571190"></span></p>
+<p>&nbsp;</p>
+<div style="width: 640px;" class="wp-video"><video class="wp-video-shortcode" id="video-571190-2" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://cdn.hackaday.io/files/1890768089427584/20230107_231109.mp4?_=2" /><a href="https://cdn.hackaday.io/files/1890768089427584/20230107_231109.mp4" target="_blank">https://cdn.hackaday.io/files/1890768089427584/20230107_231109.mp4</a></video></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.microblife.in/what-does-the-emh-have-to-say-about-abnormal-returns/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>https://hackaday.com/2023/01/14/smart-led-curtain-brings-sprites-to-your-windows/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">142442</post-id>	</item>
-		<item>
-		<title>Why earning an abnormal return is difficult?</title>
-		<link>https://www.microblife.in/why-earning-an-abnormal-return-is-difficult/</link>
-					<comments>https://www.microblife.in/why-earning-an-abnormal-return-is-difficult/#respond</comments>
-		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sat, 24 Dec 2022 12:28:20 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142440</guid>
-
-					<description><![CDATA[<p>Earning an abnormal return, also known as an excess return or abnormal profit, is difficult for a number of reasons. One reason is that the ... </p>
-<p class="read-more-container"><a title="Why earning an abnormal return is difficult?" class="read-more button" href="https://www.microblife.in/why-earning-an-abnormal-return-is-difficult/#more-142440" aria-label="More on Why earning an abnormal return is difficult?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/why-earning-an-abnormal-return-is-difficult/">Why earning an abnormal return is difficult?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Earning an abnormal return, also known as an excess return or abnormal profit, is difficult for a number of reasons.</p>
-
-
-
-<p>One reason is that the market is generally efficient, meaning that prices reflect all available information and any deviations from the expected return are likely to be corrected quickly. This means that it can be difficult to earn abnormal returns by simply buying undervalued assets or selling overvalued assets, as the market will tend to adjust to reflect the true value of the asset.</p>
-
-
-
-<p>Another reason is that competition among investors is fierce, with many investors seeking to earn abnormal returns. This competition can make it difficult to identify mispriced assets or opportunities to earn abnormal returns, as other investors may have already identified and acted on these opportunities.</p>
-
-
-
-<p>A third reason is that earning abnormal returns often requires taking on additional risk. For example, an investor may need to invest in less liquid or less well-known assets in order to earn abnormal returns. These assets may be more volatile and less predictable, which can increase the risk of losing money.</p>
-
-
-
-<p>In addition, earning abnormal returns may require investing in assets or strategies that are not well understood or that are outside of an investor&#8217;s area of expertise. This can increase the risk of making poor investment decisions or of being caught off guard by unexpected events.</p>
-
-
-
-<p>Overall, earning abnormal returns is difficult due to the efficiency of the market, the fierce competition among investors, and the additional risk that may be required to earn abnormal returns. While it is possible to earn abnormal returns in some cases, it is not easy and requires careful analysis, risk management, and a willingness to take on additional risk.</p>
-
-
-
-<h2>Summary</h2>
-
-
-
-<p>Earning an abnormal return, or excess return is difficult due to the efficiency of the market, the fierce competition among investors, and the additional risk that may be required to earn abnormal returns.</p>
-
-
-
-<p>The market tends to be efficient, meaning that prices reflect all available information, and any deviations from the expected return are likely to be corrected quickly. This makes it difficult to earn abnormal returns by simply buying undervalued assets or selling overvalued assets.</p>
-
-
-
-<p>In addition, competition among investors can make it difficult to identify mispriced assets or opportunities to earn abnormal returns, and investing in assets or strategies that are not well understood or that are outside of an investor&#8217;s area of expertise can increase the risk of making poor investment decisions. Overall, earning abnormal returns requires careful analysis, risk management, and a willingness to take on additional risk.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/why-earning-an-abnormal-return-is-difficult/">Why earning an abnormal return is difficult?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.microblife.in/why-earning-an-abnormal-return-is-difficult/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">142440</post-id>	</item>
-		<item>
-		<title>How do you test for abnormal returns?</title>
-		<link>https://www.microblife.in/how-do-you-test-for-abnormal-returns/</link>
-					<comments>https://www.microblife.in/how-do-you-test-for-abnormal-returns/#respond</comments>
-		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sat, 24 Dec 2022 12:24:51 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142438</guid>
-
-					<description><![CDATA[<p>There are a number of statistical techniques that can be used to test for abnormal returns in finance. These techniques are used to evaluate the ... </p>
-<p class="read-more-container"><a title="How do you test for abnormal returns?" class="read-more button" href="https://www.microblife.in/how-do-you-test-for-abnormal-returns/#more-142438" aria-label="More on How do you test for abnormal returns?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/how-do-you-test-for-abnormal-returns/">How do you test for abnormal returns?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>There are a number of statistical techniques that can be used to test for abnormal returns in finance. These techniques are used to evaluate the performance of an investment or portfolio relative to what would have been expected based on the level of risk and overall market conditions.</p>
-
-
-
-<p>One common technique for testing for abnormal returns is the t-test. The t-test is a statistical test that is used to determine whether the mean of a sample is significantly different from a hypothesized value. In the context of testing for abnormal returns, the t-test can be used to determine whether the mean return of an investment or portfolio is significantly different from the expected return.</p>
-
-
-
-<p>To perform a t-test for abnormal returns, the following steps can be followed:</p>
-
-
-
-<ul type="1">
-<li>Calculate the expected return of the investment or portfolio based on the level of risk and overall market conditions.</li>
-</ul>
-
-
-
-<ul>
-<li>Calculate the actual return of the investment or portfolio over a specified time period.</li>
-</ul>
-
-
-
-<ul>
-<li>Calculate the difference between the actual return and the expected return, which is the abnormal return.</li>
-</ul>
-
-
-
-<ul>
-<li>Calculate the standard deviation of the abnormal returns.</li>
-</ul>
-
-
-
-<ul>
-<li>Calculate the t-value by dividing the mean abnormal return by the standard deviation of the abnormal returns, multiplied by the square root of the sample size.</li>
-</ul>
-
-
-
-<ul>
-<li>Determine the p-value by comparing the t-value to a t-distribution with the appropriate degrees of freedom.</li>
-</ul>
-
-
-
-<p>If the p-value is less than a predetermined level (usually 0.05 or 0.01), it indicates that the mean abnormal return is significantly different from zero, and therefore the investment or portfolio has achieved abnormal returns.</p>
-
-
-
-<p>Another technique for testing for abnormal returns is the Fama-MacBeth regression analysis. This technique involves regressing the abnormal returns of an investment or portfolio on a set of explanatory variables, such as the level of risk or the overall market conditions.</p>
-
-
-
-<p>If the coefficients on the explanatory variables are significantly different from zero, it indicates that the abnormal returns are related to the explanatory variables and are not simply due to random chance.</p>
-
-
-
-<p>The third technique for testing for abnormal returns is the market model regression analysis. This technique involves regressing the returns of an investment or portfolio on the returns of a benchmark index, such as the S&amp;P 500.</p>
-
-
-
-<p>The residuals from this regression analysis represent the abnormal returns of the investment or portfolio. If the abnormal returns are significantly different from zero, it indicates that the investment or portfolio has achieved abnormal returns.</p>
-
-
-
-<p>Overall, there are a number of statistical techniques that can be used to test for abnormal returns in finance. These techniques allow investors and analysts to evaluate the performance of an investment or portfolio relative to what would have been expected based on the level of risk and overall market conditions.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/how-do-you-test-for-abnormal-returns/">How do you test for abnormal returns?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.microblife.in/how-do-you-test-for-abnormal-returns/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">142438</post-id>	</item>
-		<item>
-		<title>What is meant by abnormal return?</title>
-		<link>https://www.microblife.in/what-is-meant-by-abnormal-return/</link>
-					<comments>https://www.microblife.in/what-is-meant-by-abnormal-return/#respond</comments>
-		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sat, 24 Dec 2022 12:20:34 +0000</pubDate>
-				<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://www.microblife.in/?p=142436</guid>
-
-					<description><![CDATA[<p>Abnormal return, also known as abnormal profit or excess return, refers to the excess return of investment above or below the expected return. It is ... </p>
-<p class="read-more-container"><a title="What is meant by abnormal return?" class="read-more button" href="https://www.microblife.in/what-is-meant-by-abnormal-return/#more-142436" aria-label="More on What is meant by abnormal return?">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-is-meant-by-abnormal-return/">What is meant by abnormal return?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Abnormal return, also known as abnormal profit or excess return, refers to the excess return of investment above or below the expected return. It is a measure of the performance of an investment or portfolio relative to what would have been expected based on the level of risk and the overall market conditions.</p>
-
-
-
-<p>In finance, the expected return of an investment is the return that is predicted based on factors such as the level of risk associated with the investment, the overall market conditions, and the historical returns of similar investments. The expected return is often used as a benchmark against which the actual performance of an investment can be measured.</p>
-
-
-
-<p>For example, if an investment is expected to return 10% per year based on the level of risk and the market conditions, and it actually returns 15% per year, the abnormal return would be 5%. This excess return may be due to a variety of factors, such as unexpected changes in market conditions or the performance of the investment exceeding expectations.</p>
-
-
-
-<p>Abnormal return is often used in academic studies and by financial analysts to evaluate the performance of an investment or portfolio. It can be calculated by subtracting the expected return from the actual return on the investment. </p>
-
-
-
-<p>Positive abnormal returns indicate that the investment performed better than expected, while negative abnormal returns indicate that the investment performed worse than expected.</p>
-
-
-
-<p>There are a number of factors that can affect abnormal returns, including market conditions, the performance of the investment or portfolio, and changes in the level of risk associated with the investment. </p>
-
-
-
-<p>For example, if an investment is expected to return 10% per year based on the level of risk and the market conditions, but the market conditions change unexpectedly and the investment returns 15% per year, the abnormal return would be 5%.</p>
-
-
-
-<p>In addition to being used to evaluate the performance of individual investments or portfolios, abnormal returns can also be used to assess the performance of investment managers or fund managers. By comparing the abnormal return of a particular investment or portfolio to the expected return, it is possible to determine whether the investment manager or fund manager has added value through their investment decisions.</p>
-
-
-
-<p>Overall, abnormal return is an important measure of the performance of an investment or portfolio, as it allows investors and analysts to determine whether an investment has performed better or worse than expected based on the level of risk and the overall market conditions. It can be a useful tool for evaluating the performance of individual investments or portfolios, as well as for assessing the performance of investment managers and fund managers.</p>
-<p>The post <a rel="nofollow" href="https://www.microblife.in/what-is-meant-by-abnormal-return/">What is meant by abnormal return?</a> appeared first on <a rel="nofollow" href="https://www.microblife.in">Micro B Life</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.microblife.in/what-is-meant-by-abnormal-return/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">142436</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">571190</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg" medium="image">
+			<media:title type="html">2364481673163673079 (1)</media:title>
+		</media:content>
+
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?w=204" medium="image">
+			<media:title type="html">Mobile interface for LED smart curtain display</media:title>
+		</media:content>
+	</item>
 	</channel>
 </rss>

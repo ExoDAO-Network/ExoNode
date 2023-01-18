@@ -1,7 +1,8 @@
 
 import requests
+from urllib.request import urlopen
 
-my_file = open("subscriptions_biology.txt", "r")
+my_file = open("subscriptions_tech.txt", "r")
   
 # reading the file
 data = my_file.read()
@@ -17,6 +18,14 @@ i=0
 for url in data_into_list:
     print(url)
     resp = requests.get(url)
-    with open('rss_feeds/feed'+str(i)+'.xml', 'wb') as foutput:
-       foutput.write(resp.content) 
+    try:
+        with urlopen(url) as r:
+            s = r.read()
+        with open('rss_feeds/feed'+str(i)+'.xml', 'wb') as foutput:
+            foutput.write(s) 
+    except:
+        print("no description")
+    
     i=i+1
+    
+

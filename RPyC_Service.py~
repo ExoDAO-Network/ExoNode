@@ -1,10 +1,9 @@
 import rpyc
 import socket
 import sys
+from fuzzywuzzy import fuzz
+import sys
 import string
-
-sys.path.append('/home/om/Documents/exodao/re-Isearch/swig')
-sys.path.append('/home/om/Documents/exodao/re-Isearch/lib')
 from IB import *
 
 
@@ -98,7 +97,7 @@ class SearchService(rpyc.Service):
         # this method returns all nodes with relavant centroids
         #INSERT CODE
         #code that searches all centroids in the server file system
-        if (True):
+        if (fuzz.ratio(query,sys.argv[2])>50):
             IP_list = self.IP_set
         else:
             IP_list = set([])

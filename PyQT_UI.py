@@ -58,7 +58,7 @@ class SwarmSearchApp(App):
         
         searchgrid.add_widget(btn_search)
         MainGrid.add_widget(searchgrid)
-        resultGrid = GridLayout(cols =2, size_hint_y=2)
+        resultGrid = GridLayout(cols =3, size_hint_y=2)
         
         resultViewer = ScrollView(size_hint=(1, 2), size=(Window.width, 400))
         resultViewer.add_widget(resultGrid)
@@ -193,7 +193,9 @@ class SwarmSearchApp(App):
                         #if(shortres != ""):
                         result= Button(text=str(qresult["feed_title"]),size_hint_y=None, width=50, height=30,on_press=partial(follow_link, str(qresult["link"])))
                         reslabel = Label(text=str(qresult["title"]), text_size= (500,100), halign= 'right',   valign= 'middle')
+                        res2label = Label(text=str(qresult["match"]), text_size= (500,100), halign= 'right',   valign= 'middle')
                         resultGrid.add_widget(reslabel)
+                        resultGrid.add_widget(res2label)
                         resultGrid.add_widget(result)
                     findsmth =  True
                 if(not findsmth):

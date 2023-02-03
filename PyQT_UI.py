@@ -20,7 +20,7 @@ from functools import partial
 class SwarmSearchApp(App):
         
     def build(self):
-    
+        print("debug")
         
         root_widget = BoxLayout(orientation='vertical')
             
@@ -82,7 +82,9 @@ class SwarmSearchApp(App):
                 sipList.pop(index)
             
         def scan_and_connect(IPset, cList, cipList, sList, sipList, elist):
+            print("start scan")
             for ip in IPset:
+                print(ip)
                 serviceX=RC.ClientService(ip)
                 try:
                     c = rpyc.connect(ip, port, service= serviceX, config={'allow_public_attrs': True}) #create clients in all neighboring services

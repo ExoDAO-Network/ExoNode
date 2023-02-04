@@ -6,9 +6,6 @@ import socket
 import sys
 import re
 import string
-
-sys.path.append('/home/om/Documents/exodao/re-Isearch/swig')
-sys.path.append('/home/om/Documents/exodao/re-Isearch/lib')
 from IB import *
 
 # Set up logging

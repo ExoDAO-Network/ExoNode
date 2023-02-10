@@ -45,14 +45,22 @@ description = sys.argv[3]
 onTime =  datetime.datetime.now()
 IpSet = {"127.0.0.9", "100.100.0.0"}
 
+def con_test():
+    return True
+server.register_function(con_test)
 
-
-def get_Node_details():
+def get_Node_details(newIPlist):
+    print("received detail call")
     details =  {"name": name, 
                 "tags": tags,
                 "description": description,
                 "onlineTime": onTime,
-                "storedIP": IpSet}
+                "storedIP": list(IpSet)}
+    
+    print("generated details")
+    newset=set(newIPlist)
+    IpSet.update(newset)
+    print("updated IP")
     return details
 
 server.register_function(get_Node_details)

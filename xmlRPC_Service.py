@@ -89,12 +89,15 @@ IpSet = {"127.0.0.9", "100.100.0.0"}
 
 
 
-def get_Node_details():
+
+def get_Node_details(newIPset):
     details =  {"name": name, 
                 "tags": tags,
                 "description": description,
                 "onlineTime": onTime,
                 "storedIP": IpSet}
+    
+    IPSet.update(newIPset)
     return details
 
 server.register_function(get_Node_details)

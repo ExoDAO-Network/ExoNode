@@ -5,6 +5,7 @@ import os
 import socket
 import sys
 import re
+import base64
 import string
 
 sys.path.append('/home/om/Documents/exodao/re-Isearch/swig')
@@ -16,6 +17,14 @@ logging.basicConfig(level=logging.DEBUG)
 
 server = SimpleXMLRPCServer(('localhost', 18861), logRequests=True)
 
+def stringtobase64(stringinput):
+    sample_string = stringinput
+    sample_string_bytes = sample_string.encode("ascii")
+      
+    base64_bytes = base64.b64encode(sample_string_bytes)
+    base64_string = base64_bytes.decode("ascii")
+    return base64_string
+  
 # Expose a function
 def execute_query(query, args=""):
     # this method returns the results of this service
@@ -64,18 +73,20 @@ def execute_query(query, args=""):
                                 title_prev = title
                                 result_dict = {
                                     "logic": "RSS",
-                                    "feed_title": feed_title,
-                                    "title": title,
-                                    "link": link,
-                                    "published": published,
-                                    "match": area
+                                    "feed_title": stringtobase64(feed_title),
+                                    "title": stringtobase64(title),
+                                    "link": stringtobase64(link),
+                                    "published": stringtobase64(published),
+                                    "match": stringtobase64(area)
                                 }
                                 results.append(result_dict)
         else:
             print 'Empty Index!';
 
         pdb = None
-        return results
+        
+        results_bytes = results.encode("ascii")
+        return results_bytes
 server.register_function(execute_query)
 
 name = sys.argv[1]
@@ -88,6 +99,9 @@ onTime =  datetime.datetime.now(timezone.utc)
 IpSet = {"127.0.0.9", "100.100.0.0"}
 
 
+def con_test():
+    return True
+server.register_function(con_test)
 
 
 def get_Node_details(newIPset):
@@ -97,7 +111,7 @@ def get_Node_details(newIPset):
                 "onlineTime": onTime,
                 "storedIP": IpSet}
     
-    IPSet.update(newIPset)
+    IpSet.update(newIPset)
     return details
 
 server.register_function(get_Node_details)

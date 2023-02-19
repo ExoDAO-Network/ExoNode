@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:media="http://search.yahoo.com/mrss/"
+		>
+
+<channel>
+	<title>Blog &#8211; Hackaday</title>
+	<atom:link href="https://hackaday.com/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hackaday.com</link>
+	<description>Fresh hacks every day</description>
+	<lastBuildDate>Sun, 15 Jan 2023 02:22:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">156670177</site>	<item>
+		<title>Giving an Old Typewriter a Mind of Its Own with GPT-3</title>
+		<link>https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/</link>
+					<comments>https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/#comments</comments>
+		
+		<dc:creator><![CDATA[Dan Maloney]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 18:00:24 +0000</pubDate>
+				<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[GPT-3]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[openai]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[typewriter]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571145</guid>
+
+					<description><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png 1272w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571325" data-permalink="https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/screenshot-2023-01-14-at-17-25-38-mdztjpgmzqcfjtij-mp4/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png" data-orig-size="1272,715" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Screenshot 2023-01-14 at 17-25-38 MDZtjPgMzqcfJtIJ.mp4" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=800" /></div>There was an all-too-brief period in history where typewriters went from clunky, purely mechanical beasts to streamlined, portable electromechanical devices. But when the 80s came around and the PC revolution <a href="https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png 1272w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571325" data-permalink="https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/screenshot-2023-01-14-at-17-25-38-mdztjpgmzqcfjtij-mp4/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png" data-orig-size="1272,715" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Screenshot 2023-01-14 at 17-25-38 MDZtjPgMzqcfJtIJ.mp4" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png?w=800" /></div><p>There was an all-too-brief period in history where typewriters went from clunky, purely mechanical beasts to streamlined, portable electromechanical devices. But when the 80s came around and the PC revolution started, the typewriting was on the wall for these machines, and by the 90s everyone had a PC, a printer, and Microsoft Word. And thus the little daisy-wheel typewriters began to populate thrift shops all over the world.</p>
+<p>That&#8217;s fine with us, because it gave [Arvind Sanjeev] a chance to build <a href="https://twitter.com/ArvindSanjeev/status/1603021010898677760" target="_blank">&#8220;Ghostwriter&#8221;</a>, an AI-powered automatic typewriter. The donor machine was a clapped-out Brother electronic typewriter, which needed a bit of TLC to bring it back to working condition. From there, [Arvind] worked out the keyboard matrix and programmed an Arduino to drive the typewriter, both read and write. A Raspberry Pi running the OpenAI Python API for GPT-3 talks to the Arduino over serial, which basically means you can enter a GPT writing prompt with the keyboard and have the machine spit out a dead-tree version of the results.</p>
+<p>To mix things up a bit, [Arvind] added a pair of pots to control the creativity and length of the response, plus an OLED screen which seems only to provide some cute animations, which we don&#8217;t hate. We also don&#8217;t hate the new paint job the typewriter got, but the jury is still out on the &#8220;poetry&#8221; that it typed up. Eye of the beholder, we suppose.</p>
+<p>Whatever you think of GPT&#8217;s capabilities, this is still a neat build and a nice reuse of otherwise dead-end electronics. Need a bit more help building natural language AI into your next project? Our own [Donald Papp] will <a href="https://hackaday.com/2022/05/18/natural-language-ai-in-your-next-project-its-easier-than-you-think/">get you up to speed on that</a>.</p>
+<p><span id="more-571145"></span></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">As promised, here is the full process thread for Ghostwriter &#8211; the <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank">#AI</a> typewriter. A journey from idea to realization:</p>
+<p>The idea: With the exponential growth and emergence of a prolific number of AI products we see every day, I wanted to create a mindful intervention that (1/13) <a href="https://t.co/MCOeAcM26q" target="_blank">pic.twitter.com/MCOeAcM26q</a></p>
+<p>&mdash; Arvind Sanjeev (@ArvindSanjeev) <a href="https://twitter.com/ArvindSanjeev/status/1603021010898677760?ref_src=twsrc%5Etfw" target="_blank">December 14, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>[via <a href="https://www.itsnicethat.com/news/arvind-sanjeev-ghostwriter-product-design-110123" target="_blank">It&#8217;s Nice That</a>]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2023/01/15/giving-an-old-typewriter-a-mind-of-its-own-with-gpt-3/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">571145</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/Screenshot-2023-01-14-at-17-25-38-MDZtjPgMzqcfJtIJ.mp4.png" medium="image">
+			<media:title type="html">Screenshot 2023-01-14 at 17-25-38 MDZtjPgMzqcfJtIJ.mp4</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Inside the Atari 2600</title>
+		<link>https://hackaday.com/2023/01/15/inside-the-atari-2600/</link>
+					<comments>https://hackaday.com/2023/01/15/inside-the-atari-2600/#comments</comments>
+		
+		<dc:creator><![CDATA[Al Williams]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 15:00:48 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[Retrocomputing]]></category>
+		<category><![CDATA[atari 2600]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571272</guid>
+
+					<description><![CDATA[<div><img width="800" height="528" src="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/2600.png 800w, https://hackaday.com/wp-content/uploads/2023/01/2600.png?resize=250,165 250w, https://hackaday.com/wp-content/uploads/2023/01/2600.png?resize=400,264 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571278" data-permalink="https://hackaday.com/2023/01/15/inside-the-atari-2600/2600-3/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png" data-orig-size="800,528" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2600" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=800" /></div>The Atari 2600 was an extremely popular yet very simple game console back in the 1970s. They sold, apparently, over 30 million of them, and, of course, these things broke. <a href="https://hackaday.com/2023/01/15/inside-the-atari-2600/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="528" src="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/2600.png 800w, https://hackaday.com/wp-content/uploads/2023/01/2600.png?resize=250,165 250w, https://hackaday.com/wp-content/uploads/2023/01/2600.png?resize=400,264 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571278" data-permalink="https://hackaday.com/2023/01/15/inside-the-atari-2600/2600-3/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png" data-orig-size="800,528" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2600" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/2600.png?w=800" /></div><p>The Atari 2600 was an extremely popular yet very simple game console back in the 1970s. They sold, apparently, over 30 million of them, and, of course, these things broke. We&#8217;d get calls from friends and &#8212; remember, back then normal people weren&#8217;t computer savvy &#8212; nine times out of ten, we&#8217;d ask them to swap the controllers to show them it was a bad controller, and problem solved. But if you did have to open one up, it was surprising how little there was inside, as [Steve] notes in <a href="https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/" target="_blank">his recent teardown</a>.</p>
+<p>The bulk of the circuit board was switches, the power supply, and a TV modulator if you remember those. The circuit board was a tiny thing with a shrunk-down 6502, a 6532 RIOT chip, and a custom chip called a TIA. If you are familiar with those chips, you might wonder if the TIA had any memory in it. It didn&#8217;t. Nearly all the ROM and RAM for the game lived in the cartridge itself. Sure, the RIOT has 128 bytes of memory, but that&#8217;s not much.</p>
+<p><span id="more-571272"></span></p>
+<p>The TIA generates timing signals using an odd configuration that [Steve] discusses. The limited memory explains some things you may or may not have noticed. Most games have a symmetrical background where the left is a mirror copy of the right. The TIA architecture explains why. You could modify things, but you had to do it between scan lines which left a scant 76 clock cycles to do whatever you needed.</p>
+<p>There are a lot of tricks for squeezing the most out of the limited architecture that [Steve] highlights. He also provides links for writing your own games and running them on real hardware or an <a href="https://hackaday.com/2019/04/22/get-coding-with-this-atari-2600-development-suite/">emulator</a>. Since the box was popular and had a &#8212; sort of &#8212; 6502 inside, you&#8217;d think someone would have turned it into a full computer. <a href="https://hackaday.com/2020/02/29/converting-an-atari-2600-into-a-home-computer-did-that-ever-work/">Someone did</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2023/01/15/inside-the-atari-2600/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">571272</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/2600.png" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/2600.png" medium="image">
+			<media:title type="html">2600</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>A Flex Sensor For A Glove Controller Using An LDR</title>
+		<link>https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/</link>
+					<comments>https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/#comments</comments>
+		
+		<dc:creator><![CDATA[Jenny List]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 12:00:15 +0000</pubDate>
+				<category><![CDATA[Peripherals Hacks]]></category>
+		<category><![CDATA[flex sensor]]></category>
+		<category><![CDATA[glove controller]]></category>
+		<category><![CDATA[ldr]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571159</guid>
+
+					<description><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571307" data-permalink="https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/glove-sensor-featured/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="glove-sensor-featured" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=800" /></div>When most of us think of glove controllers, the first which comes to mind is Nintendo&#8217;s PowerGlove, which promised much more than it delivered. But the idea persists, and from <a href="https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571307" data-permalink="https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/glove-sensor-featured/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="glove-sensor-featured" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg?w=800" /></div><p>When most of us think of glove controllers, the first which comes to mind is Nintendo&#8217;s PowerGlove, which promised much more than it delivered. But the idea persists, and from time to time we see them here at Hackaday. [<span class="identity-card" data-id="313666">Gord Payne</span>] has one with an elegant sensor solution, <a href="https://hackaday.io/project/189165-optical-glove-controller-using-ldr" target="_blank">it detects finger movement using a light dependent resistor</a>.</p>
+<p>The cleverest designs are those which are the simplest, and this one eschews complex mechanisms and exotic parts for a simple piece of flexible tube. At one end is an LED and at the other the LDR, and when attached to a glove it provides a finger sensor without the fuss. The amount of light reaching the LDR from the LED decreases as the pipe is bent, and with a simple divider circuit a voltage can be read by an Arduino. You can see it in action in the video below the break, where the glove flexing controls a servo.</p>
+<p>Perhaps this might revitalize a bit of interest in glove controllers, something we probably don&#8217;t see too many of. <a href="https://hackaday.com/2017/10/14/nintendo-power-glove-achieves-its-promise-as-vive-controller/">Those Nintendo PowerGloves do still crop up from time to time though</a>.</p>
+<p><span id="more-571159"></span></p>
+<p><iframe loading="lazy" class="youtube-player" width="800" height="480" src="https://www.youtube.com/embed/4xF8yQJNIXQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2023/01/15/a-flex-sensor-for-a-glove-controller-using-an-ldr/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">571159</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/glove-sensor-featured.jpg" medium="image">
+			<media:title type="html">glove-sensor-featured</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Microsoft Returns to the Altair</title>
+		<link>https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/</link>
+					<comments>https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/#comments</comments>
+		
+		<dc:creator><![CDATA[Al Williams]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 09:00:09 +0000</pubDate>
+				<category><![CDATA[Retrocomputing]]></category>
+		<category><![CDATA[altair 8800]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571293</guid>
+
+					<description><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/altair.png 800w, https://hackaday.com/wp-content/uploads/2023/01/altair.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/altair.png?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571298" data-permalink="https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/altair-11/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="altair" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=800" /></div>The Altair 8800 arguably launched Microsoft. Now [Dave Glover] from Microsoft offers an emulated and potentially cloud-based Altair emulation with CP/M and Microsoft Basic. You can see a video of <a href="https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/altair.png 800w, https://hackaday.com/wp-content/uploads/2023/01/altair.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2023/01/altair.png?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571298" data-permalink="https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/altair-11/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="altair" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/altair.png?w=800" /></div><p>The Altair 8800 arguably launched Microsoft. Now [Dave Glover] from Microsoft offers an emulated and potentially cloud-based <a href="https://github.com/gloveboxes/AltairEverywhere/wiki" target="_blank">Altair emulation</a> with CP/M and Microsoft Basic. You can see a video of the project below. One thing that makes it a bit odd compared to other Altair clones we&#8217;ve seen is that the emulator runs in a Docker environment and is fully cloud-enabled. You can interact with it via a PCB front panel, or a terminal running in a web browser.</p>
+<p>The <a href="https://github.com/gloveboxes/AltairEverywhere" target="_blank">core emulator</a> is MIT-licensed and seems like it would run nearly everywhere. We were a little surprised there wasn&#8217;t an instance in the Azure cloud that you could spin up to test drive. Surely a few hundred Altairs running at once wouldn&#8217;t even make a dent in a modern CPU.</p>
+<p><span id="more-571293"></span></p>
+<p>There are plenty of Altair emulators and even replicas with authentic CPUs out there. But we have to admit the Wiki documentation on this one is uncommonly well done. Even if you don&#8217;t want to use this emulator, you might find the collection of data about the Altair useful.</p>
+<p>Don&#8217;t know how to use a computer front panel? Learn on the <a href="https://hackaday.com/2020/10/30/altair-front-panel-tutorials/">Altair</a> or a <a href="https://hackaday.com/2017/08/10/getting-started-with-blinking-lights-on-old-iron/">PDP/8</a>, even if you don&#8217;t have a real one. For simulated hardware, the project that turns an<a href="https://hackaday.com/2017/02/18/arduino-altair-8800-simulator/"> Arduino Due into an Altair</a> works well. If you just want to <a href="https://hackaday.com/2014/12/12/online-altair-8800-clone-lets-you-play-zork/">play Zork</a>, you can do that in your browser, for sure.</p>
+<p><iframe loading="lazy" class="youtube-player" width="800" height="480" src="https://www.youtube.com/embed/2yyBfw3CARc?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2023/01/15/microsoft-returns-to-the-altair/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">571293</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/altair.png" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/altair.png" medium="image">
+			<media:title type="html">altair</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>A Number Maze For Younger Hackers</title>
+		<link>https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/</link>
+					<comments>https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/#comments</comments>
+		
+		<dc:creator><![CDATA[Matthew Carlson]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 06:00:37 +0000</pubDate>
+				<category><![CDATA[handhelds hacks]]></category>
+		<category><![CDATA[Microcontrollers]]></category>
+		<category><![CDATA[7 segment LED display]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[led]]></category>
+		<category><![CDATA[maze]]></category>
+		<category><![CDATA[numbermaze]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571271</guid>
+
+					<description><![CDATA[<div><img width="800" height="367" src="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg 1440w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=250,115 250w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=400,183 400w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=800,367 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571283" data-permalink="https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/numbermazefront/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg" data-orig-size="1440,660" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="numbermazefront" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=800" /></div>[David Johnson-Davies] has a lofty goal of building a small device to give to younger hackers on a semi-yearly basis. So this last year, he designed and created The Number <a href="https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="367" src="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg 1440w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=250,115 250w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=400,183 400w, https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?resize=800,367 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571283" data-permalink="https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/numbermazefront/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg" data-orig-size="1440,660" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="numbermazefront" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg?w=800" /></div><p>[David Johnson-Davies] has a lofty goal of building a small device to give to younger hackers on a semi-yearly basis. So this last year, he designed and created <a href="http://www.technoblogy.com/show?45JT" target="_blank">The Number Maze Game</a>, a small handheld logic puzzle maze.</p>
+<p>It&#8217;s based on several 4-digit seven-segment displays controlled by an AVR128DA32. Navigation is just a few push buttons and a buzzer to let you know when you&#8217;ve won. The game is simple: you jump the amount listed on the space you&#8217;re currently on, trying to get to the space labeled &#8220;H.&#8221; [David] lays out how he built it in great detail, discussing the process of designing and assembly. He also expounds on many decisions, such as using a TQFP microcontroller instead of the through-hole ATmega328P due to the I/O pin count.</p>
+<p>The instructions and design process are so detailed we&#8217;re confident most people could easily reproduce it, especially with the <a href="http://www.technoblogy.com/list?482G" target="_blank">code</a> and <a href="https://github.com/technoblogy/number-maze-game" target="_blank">board files</a>. But the value of this project is not in blindly copying it. Instead, we love how something so simple can be wonderfully entertaining and valuable to younger hackers. Programming headers are included so they can add new mazes. We suspect there are many out there who would love to get something so tactile, simple, and modifiable.</p>
+<p>Of course, we&#8217;ve seen <a href="https://hackaday.com/2018/05/09/pic16maze-upgrades-secret-maze-game/">other minimal maze games</a>, so there&#8217;s no lack of inspiration for making some different.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2023/01/14/a-number-maze-for-younger-hackers/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">571271</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/numbermazefront.jpg" medium="image">
+			<media:title type="html">numbermazefront</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Conductive Ink Based on a Simple Idea</title>
+		<link>https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/</link>
+					<comments>https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/#comments</comments>
+		
+		<dc:creator><![CDATA[Al Williams]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 03:00:08 +0000</pubDate>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[conductive ink]]></category>
+		<category><![CDATA[conductive polymer]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571263</guid>
+
+					<description><![CDATA[<div><img width="800" height="480" src="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/polymer.png 800w, https://hackaday.com/wp-content/uploads/2023/01/polymer.png?resize=250,150 250w, https://hackaday.com/wp-content/uploads/2023/01/polymer.png?resize=400,240 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571267" data-permalink="https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/polymer/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png" data-orig-size="800,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="polymer" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=800" /></div>There&#8217;s an old series of jokes that starts with: &#8220;How do you put an elephant in a refrigerator?&#8221; The answer is to open the door, put the elephant inside, and <a href="https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="480" src="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=800" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/polymer.png 800w, https://hackaday.com/wp-content/uploads/2023/01/polymer.png?resize=250,150 250w, https://hackaday.com/wp-content/uploads/2023/01/polymer.png?resize=400,240 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571267" data-permalink="https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/polymer/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png" data-orig-size="800,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="polymer" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/polymer.png?w=800" /></div><p>There&#8217;s an old series of jokes that starts with: &#8220;How do you put an elephant in a refrigerator?&#8221; The answer is to open the door, put the elephant inside, and close the door. Most people don&#8217;t get that because it is too simple, and simple is the approach Georgia Tech researchers have taken when faced with the problem of using <a href="https://coe.gatech.edu/news/2022/12/going-back-basics-yields-printable-transparent-plastic-thats-highly-conductive" target="_blank">a particular conductive plastic</a>. PEDOT, the plastic in question, is a good conductor, but it is hard to work with. You can add materials to make it easier to work with, but that screws up the conductivity. Their answer is much like the refrigerator joke: add material to PEDOT, paint or print it where you want, and then remove the extra material. Simple.</p>
+<p>The polymer needs side chains to be soluble. This allows you to mix an ink or paint made of the material, but the waxy side chains interfere with the material&#8217;s conductivity. However, after application, it is possible to break off the side chains and flush them out with a common solvent. The process is simple, and leaves a flexible conductive material that&#8217;s stable.</p>
+<p><span id="more-571263"></span></p>
+<p>The work has applications anywhere you need a flexible conductive material. As a side benefit, after processing, the material is also optically clear. You can imagine that wearable technology could easily take advantage of this. While it doesn&#8217;t seem like normal 3D printing techniques would be useful with this, it isn&#8217;t hard to imagine an inkjet-like printer along with some sort of post-processing setup is within reach of the average garage lab.</p>
+<p>While the results are interesting, be sure to temper your expectations. The material has a reported conductivity of 1,000 siemens per centimeter.  Copper, admittedly a good conductor, clocks in at 590,000 S/cm. Graphite, for example, is about as conductive as the new material.</p>
+<p>Good conductive ink would <a href="https://hackaday.com/2022/02/15/print-a-sketch-turns-any-surface-into-a-printed-circuit-board/">change PCB production</a>, at least for small prototype runs. You can make pretty good <a href="https://hackaday.com/2012/02/24/diy-conductive-ink-lets-you-freehand-circuits-on-the-cheap/">conductive ink on your own</a>, of course.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2023/01/14/conductive-ink-based-on-a-simple-idea/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">571263</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/polymer.png" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/polymer.png" medium="image">
+			<media:title type="html">polymer</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Smart LED Curtain Brings Sprites To Your Windows</title>
+		<link>https://hackaday.com/2023/01/14/smart-led-curtain-brings-sprites-to-your-windows/</link>
+					<comments>https://hackaday.com/2023/01/14/smart-led-curtain-brings-sprites-to-your-windows/#comments</comments>
+		
+		<dc:creator><![CDATA[Dave Walker]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 00:00:53 +0000</pubDate>
+				<category><![CDATA[LED Hacks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[curtain]]></category>
+		<category><![CDATA[display]]></category>
+		<category><![CDATA[led]]></category>
+		<category><![CDATA[neopixel]]></category>
+		<category><![CDATA[sprite]]></category>
+		<category><![CDATA[video wall]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=571190</guid>
+
+					<description><![CDATA[<div><img width="800" height="419" src="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=800" class="attachment-large size-large wp-post-image" alt="Illuminated smart curtain in front of a window, beside a Christmas tree" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg 862w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=250,131 250w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=400,210 400w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=800,419 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571197" data-permalink="https://hackaday.com/2364481673163673079-1/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg" data-orig-size="862,452" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2364481673163673079 (1)" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=800" /></div>Anybody who has ever seen a video wall (and who hasn&#8217;t?) will be familiar with the idea of making large-scale illuminated images from individual coloured lights. But how many of <a href="https://hackaday.com/2023/01/14/smart-led-curtain-brings-sprites-to-your-windows/" class="read-more">&#8230;read more</a>]]></description>
+										<content:encoded><![CDATA[<div><img width="800" height="419" src="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=800" class="attachment-large size-large wp-post-image" alt="Illuminated smart curtain in front of a window, beside a Christmas tree" decoding="async" loading="lazy" style="margin: 0 auto; margin-bottom: 15px;" srcset="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg 862w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=250,131 250w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=400,210 400w, https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?resize=800,419 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="571197" data-permalink="https://hackaday.com/2364481673163673079-1/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg" data-orig-size="862,452" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2364481673163673079 (1)" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg?w=800" /></div><figure id="attachment_571202" aria-describedby="caption-attachment-571202" style="width: 179px" class="wp-caption alignright"><img data-attachment-id="571202" data-permalink="https://hackaday.com/6581381673163706689-1/" data-orig-file="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg" data-orig-size="1080,2116" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="6581381673163706689 (1)" data-image-description="" data-image-caption="" data-medium-file="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?w=204" data-large-file="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?w=319" decoding="async" loading="lazy" class="wp-image-571202" src="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?w=204" alt="Mobile interface for LED smart curtain display" width="179" height="350" srcset="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg 1080w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=128,250 128w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=204,400 204w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=319,625 319w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=784,1536 784w, https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?resize=1045,2048 1045w" sizes="(max-width: 179px) 100vw, 179px" /><figcaption id="caption-attachment-571202" class="wp-caption-text">A mobile interface is a nice touch</figcaption></figure>
+<p>Anybody who has ever seen a video wall (and who hasn&#8217;t?) will be familiar with the idea of making large-scale illuminated images from individual coloured lights. But how many of us have gone the extra mile and fitted such a display in our own homes? [vcch] <a href="https://hackaday.io/project/189076-deluxe-smart-curtain" target="_blank">has done just that with his Deluxe Smart Curtain</a> that can be controlled with a phone or laptop.</p>
+<p>The display itself is made up of a series of Neopixel strips, hung in vertical lines in front of the window.  There is a wide gap between each strip, lending a ghostly translucent look to the images and allowing the primary purpose of the window to remain intact.</p>
+<p>The brains of the system are hosted on a low-cost M5stack atom ESP32 device. The data lines for the LEDs are wired in a zig-zag up and down pattern from left to right, which the driver software maps to the rectangular images. However, the 5V power is applied to the strips in parallel to avoid voltage drops along the chain.</p>
+<p>If you&#8217;d like to build your own smart curtain, Arduino sketch files and PHP for the mobile interface are included on the project page. Be sure to check out the brief video of what the neighbors will enjoy at night after the break.</p>
+<p>If video walls are your kind of thing, then how about <a href="https://hackaday.com/2019/05/17/a-ping-pong-ball-led-video-wall/">this one that uses Ping Pong Balls</a> as diffusers?<span id="more-571190"></span></p>
+<p>&nbsp;</p>
+<div style="width: 640px;" class="wp-video"><video class="wp-video-shortcode" id="video-571190-2" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://cdn.hackaday.io/files/1890768089427584/20230107_231109.mp4?_=2" /><a href="https://cdn.hackaday.io/files/1890768089427584/20230107_231109.mp4" target="_blank">https://cdn.hackaday.io/files/1890768089427584/20230107_231109.mp4</a></video></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2023/01/14/smart-led-curtain-brings-sprites-to-your-windows/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">571190</post-id>
+		<media:thumbnail url="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg" />
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/2364481673163673079-1.jpg" medium="image">
+			<media:title type="html">2364481673163673079 (1)</media:title>
+		</media:content>
+
+		<media:content url="https://hackaday.com/wp-content/uploads/2023/01/6581381673163706689-1.jpg?w=204" medium="image">
+			<media:title type="html">Mobile interface for LED smart curtain display</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

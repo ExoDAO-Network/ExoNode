@@ -1,0 +1,3284 @@
+
+
+
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Computerworld</title>
+		<link>https://www.computerworld.com</link>
+		<description></description>
+		<language>en-us</language>
+		<pubDate>Sun, 15 Jan 2023 11:16:02 -0800</pubDate>
+		<lastBuildDate>Sun, 15 Jan 2023 11:16:02 -0800</lastBuildDate>
+		
+			<image>
+				<url>https://idge.staticworld.net/ctw/computerworld-logo_510x510.png</url>
+				<title>Computerworld</title>
+				<link>https://www.computerworld.com</link>
+				<width>143</width>
+				<height>143</height>
+			</image>
+		
+		
+
+	
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Google warns court against changing liability shield for internet companies</title>
+
+		<pubDate>Fri, 13 Jan 2023 13:16:00 -0800</pubDate>
+
+		
+		
+		
+		<author>avenkat@idg.com</author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>In a defense brief filed to the US Supreme Court Thursday, Google warned that altering Section 230 of the Communications Decency Act — which protects internet-based companies from being sued for content created by their users — would "upend the internet."</p><p>The brief is part of Google's defense in a lawsuit brought by the family of Nohemi Gonzalez, a 23-year-old US citizen who was killed by ISIS in Paris in November 2015. Oral arguments for the case are set to be heard on February 21.</p><p>The family argues that Google-owned YouTube violated the Anti-Terrorism Act (ATA) when its algorithms recommended ISIS-related content to users. They argue that even if the company is not liable for the ISIS content, the algorithmic recommendations should not be protected by Section 230.</p><p class="jumpTag"><a href="/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.techhive.com/images/article/2017/02/p1200740-100709411-large.3x2.jpg">
+						<media:title type="html">Google warns court against changing liability shield for internet companies</media:title>
+						<media:thumbnail url="https://images.techhive.com/images/article/2017/02/p1200740-100709411-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Legal</category>
+					
+				
+				
+					
+						<category>Internet</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>Patch now to address critical Windows zero-day flaw</title>
+
+		<pubDate>Fri, 13 Jan 2023 12:59:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>The first Patch Tuesday of the year from Microsoft addresses 98 security vulnerabilities, with 10 classified as critical for Windows. One vulnerability (<a href="http://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21674" rel="nofollow noopener" target="_blank">CVE-2023-21674</a>) in a core section of Windows code is a zero-day that requires immediate attention. And Adobe has returned with a critical update, paired with a few low-profile patches for the Microsoft Edge browser.</p><p>We have added the Windows and Adobe updates to our “Patch Now” list, recognizing that this month’s patch deployments will require significant testing and engineering effort. The team at <a href="https://applicationreadiness.com/" rel="nofollow noopener" target="_blank">Application Readiness</a> has provided a <a href="https://applicationreadiness.com/assurance-security-dashboard-january-2023/" rel="nofollow noopener" target="_blank">helpful infographic</a> that outlines the risks associated with each of the updates for this January update cycle.</p><p class="jumpTag"><a href="/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2018/08/3_patch-training_update-software_band-aid_laptop-with-virus_binary-100768644-large.3x2.jpg">
+						<media:title type="html">Patch now to address critical Windows zero-day flaw</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2018/08/3_patch-training_update-software_band-aid_laptop-with-virus_binary-100768644-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Microsoft</category>
+					
+				
+				
+					
+						<category>Security</category>
+					
+				
+				
+					
+						<category>Windows</category>
+					
+				
+				
+					
+						<category>Microsoft Office</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Windows 11 Insider Previews: What’s in the latest build?</title>
+
+		<pubDate>Fri, 13 Jan 2023 09:40:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>The <a href="https://www.computerworld.com/article/3673373/windows-11-22h2-small-but-welcome-changes.html">Windows 11 2022 Update has been released</a>, but behind the scenes, Microsoft is constantly working to improve the newest version of Windows. The company frequently rolls out public preview builds to members of its Windows Insider Program, allowing them to test out — and even help shape — upcoming features.</p><p>The Windows Insider program is divided into three channels:</p><ul>
+<li>The <strong>Dev Channel</strong> is where new features are introduced for initial testing, regardless of which Windows release they’ll eventually end up in. This channel is best for technical users and developers and builds in it may be unstable and buggy.</li>
+<li>In the <strong>Beta Channel</strong>, you’ll get more polished features that will be deployed in the next major Windows release. This channel is best for early adopters, and Microsoft says your feedback in this channel will have the most impact.</li>
+<li>The <strong>Release Preview Channel</strong> typically doesn’t see action until shortly before a new feature update is rolled out. It’s meant for final testing of an upcoming release and is best for those who want the most stable builds.</li>
+</ul>
+<p>The Beta and Release Preview Channels also receive bug-fix builds for the currently shipping version of Windows 11.</p><p class="jumpTag"><a href="/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3623370/windows-11-insider-previews-whats-in-latest-build.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2021/06/windows-11-logo-bloom-100894262-large.3x2.jpg">
+						<media:title type="html">Windows 11 Insider Previews: What’s in the latest build?</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2021/06/windows-11-logo-bloom-100894262-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Windows 11</category>
+					
+				
+				
+					
+						<category>Windows</category>
+					
+				
+				
+					
+						<category>Microsoft</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Microsoft aims to improve OKR adoption with Viva Goals integrations</title>
+
+		<pubDate>Fri, 13 Jan 2023 09:01:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Microsoft Friday <a href="https://www.microsoft.com/en-us/microsoft-365/blog/?p=268948&amp;preview=1&amp;_ppp=41bcb0b0ac" rel="nofollow">announced new features</a> for Viva Goals designed to make it easier to accelerate the adoption of Objectives and Key Results (OKRs) through enhanced integration with Microsoft applications such as Teams and Planner, as well as new analytics capabilities that aim to help business leaders better understand how employees are engaging with goals.</p><p>Research commissioned by Microsoft and undertaken by Forrester found that 47% of leaders said poorly structured goal setting reduces employee motivation. Additionally, 50% of employee respondents said that having more clarity around their goals gives them a greater sense of purpose and motivates them to work harder, a sentiment echoed by 60% of leaders that were surveyed. New research from Forrester and Microsoft shows employees who have clarity around goal setting are make for more motivated employees</p><p class="jumpTag"><a href="/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-large.3x2.jpg">
+						<media:title type="html">Microsoft aims to improve OKR adoption with Viva Goals integrations</media:title>
+						<media:thumbnail url="https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Productivity Software</category>
+					
+				
+				
+					
+						<category>Collaboration Software</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>How Apple and ‘composable business’ go hand in glove</title>
+
+		<pubDate>Fri, 13 Jan 2023 07:12:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Break it down to build it up. At its root, that’s the nature of composable business. I’d argue that the <a href="https://www.computerworld.com/article/3685228/15-years-of-iphone-put-apple-into-business.html">Apple platform</a> has a powerful place to play in this new approach to business transformation, agility, and competitiveness.</p><h2>What is composable business?</h2>
+<p><a href="https://www.gartner.com/smarterwithgartner/gartner-keynote-the-future-of-business-is-composable/" rel="nofollow noopener" target="_blank">Gartner says</a> that by adopting a <a href="https://www.cio.com/article/404619/3-reasons-why-the-future-of-business-will-be-composable.html" rel="noopener" target="_blank">composable approach to business</a>, enterprises can become more resilient to future shocks. The idea behind this approach is that rather than being committed to monolithic business applications, a business breaks down its needs to find modular solutions that integrate.</p><p class="jumpTag"><a href="/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2020/07/apple_silicon_xcode-alert_2020_06_22_2400x1600-100851827-large.3x2.jpg">
+						<media:title type="html">How Apple and ‘composable business’ go hand in glove</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2020/07/apple_silicon_xcode-alert_2020_06_22_2400x1600-100851827-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Mobile</category>
+					
+				
+				
+					
+						<category>Apple</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Hybrid-work hardware debuts at CES. Wait…, what? </title>
+
+		<pubDate>Fri, 13 Jan 2023 04:30:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Hybrid hardware makes perfect sense from a marketing perspective.</p><p>The most significant trend in how people work is remote and hybrid work. Some are working from home full-time, others part-time. And still, others work often neither at home nor in the office but from wherever they happen to be at the moment. </p><p>Marketing-speak is nice, but have hardware needs actually changed to reflect what remote and hybrid workers need in the real world?</p><p>Two of the leading makers of business hardware emerged at last week’s <a href="https://www.ces.tech/" rel="nofollow">CES 2023</a> with some straightforward answers. Let’s have a look.</p><p><strong>Lenovo</strong></p><p class="jumpTag"><a href="/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Remote Work</category>
+					
+				
+				
+					
+						<category>Computers and Peripherals</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>The productivity promise (and perils) of generative AI</title>
+
+		<pubDate>Fri, 13 Jan 2023 03:00:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>There’s a lot of tech industry excitement these days about tools like <a href="https://openai.com/blog/chatgpt/" rel="noopener nofollow" target="_blank">ChatGPT</a> and <a href="https://openai.com/dall-e-2/" rel="noopener nofollow" target="_blank">DALL-E</a> that fall into a class called generative AI. Generative AI looks at existing work and generates a result that seems unique,  but is actually derived from what it’s viewed. (I’d argue this is how most people produce work — by taking what they’ve learned from others to create a skill set that can be used independently of those earlier references.)</p><p>Like many others, I really enjoy working out the concept of something I want to create, but I get bored quickly when executing that concept. This reminds me of an old friend who bought a knock-off Ferrari kit car. Coming up with the dream of driving it was easy and fun, but actually putting in the thousands of hours to build it was too much. It sat in his garage, unbuilt. With these tools, you can focus on the fun part of creation (coming up with an idea), and then let the tools step in to do the tedious part of bringing everything to fruition. </p><p class="jumpTag"><a href="/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.3x2.jpg">
+						<media:title type="html">The productivity promise (and perils) of generative AI</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Artificial Intelligence</category>
+					
+				
+				
+					
+						<category>Emerging Technology</category>
+					
+				
+				
+					
+						<category>Technology Industry</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>9 Android accessibility treasures that&#039;ll make anyone more productive</title>
+
+		<pubDate>Fri, 13 Jan 2023 02:45:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Accessibility in our age of mobile technology is a pretty inspiring thing.</p><p>I mean, think about it: These powerful little computers we carry around in our purses and pantaloon pockets have the potential to open up all sorts of futuristic possibilities. Their effects can be downright <em>life-changing </em>for folks with issues like impaired hearing or limited vision — and in the grand scheme of things, those sorts of advancements are far more meaningful than any random phone feature we use to organize our lives or save ourselves a few seconds here and there.</p><p>Here's the cool part, though: Those two areas don't <em>have</em> to be mutually exclusive. Some of Android's most interesting accessibility options are poised to both help those who truly need 'em <em>and</em> be handy in a way that can benefit anyone. They work for accessibility, sure, but they're also valuable for far more mundane productivity gains.</p><p class="jumpTag"><a href="/article/3346010/android-accessibility.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3346010/android-accessibility.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3346010/android-accessibility.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2021/08/android-12-eye-gestures-100899451-large.3x2.jpg">
+						<media:title type="html">9 Android accessibility treasures that&#039;ll make anyone more productive</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2021/08/android-12-eye-gestures-100899451-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Android</category>
+					
+				
+				
+					
+						<category>Enterprise Applications</category>
+					
+				
+				
+					
+						<category>Operating Systems</category>
+					
+				
+				
+					
+						<category>Mobile Apps</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Alphabet robotics subsidiary Intrinsic lays off 20% staff</title>
+
+		<pubDate>Fri, 13 Jan 2023 00:13:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Layoffs at Alphabet’s “Other Bets” division has widened to include its robotics subsidiary Intrinsic AI, which is eliminating about 20% of its workforce or roughly 40 employees, according to reports.</p><p>Intrinsic AI came out of Alphabet's X research unit, after incubating there for close to five years. It is a robotics firm that is working on developing artificial intelligence-based software to bolster the use of robots in industries and commercial environments.</p><p>The news about the company’s layoffs was first report by <a href="https://www.theinformation.com/articles/alphabet-job-cuts-widen-to-robotics-subsidiary" rel="nofollow">The Information</a>. An email sent to Intrinsic AI didn’t immediately receive a response.</p><p class="jumpTag"><a href="/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2022/06/laid-off-worker-layoff-resignation-by-lee-charlie-via-shutterstock-100928642-large.3x2.jpg">
+						<media:title type="html">Alphabet robotics subsidiary Intrinsic lays off 20% staff</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2022/06/laid-off-worker-layoff-resignation-by-lee-charlie-via-shutterstock-100928642-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>IT Jobs</category>
+					
+				
+				
+					
+						<category>Google</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Microsoft finally ends Windows 7 and 8.x support </title>
+
+		<pubDate>Thu, 12 Jan 2023 13:34:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>This week signals the end of the line for Windows 7 and Windows 8/8.1 support. After years of extended security updates, no more bugs or security holes will be patched in the venerable operating systems.</p><p>Windows 7 had a good run. When it launched in 2009, it helped Microsoft bounce back from the disastrous Windows Vista era. Windows 8, by contrast, was almost as big of a disaster as Vista but for a different reason. Whereas Vista was bloated and slow, <a href="https://www.computerworld.com/article/3575332/the-worst-version-of-windows-ever-released.html">Windows 8 was simply marred by a very bad interface</a> that was universally panned.</p><p>This transition is no different than what we went through last decade with end-of-life support for Windows XP, said Mike Cherry, senior analyst at Directions on Microsoft. “We all understand that even though we have a perpetual license in theory, we’re at the mercy of how long Microsoft focuses on [the version].”</p><p class="jumpTag"><a href="/article/3685369/microsoft-finally-ends-windows-7-windows-8-support.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685369/microsoft-finally-ends-windows-7-windows-8-support.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685369/microsoft-finally-ends-windows-7-windows-8-support.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2018/07/windows-7-logo-in-the-rear-view-mirror-100764710-large.3x2.jpg">
+						<media:title type="html">Microsoft finally ends Windows 7 and 8.x support </media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2018/07/windows-7-logo-in-the-rear-view-mirror-100764710-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Windows</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Database error, not cyberattack, led to air travel stoppage, FAA says</title>
+
+		<pubDate>Thu, 12 Jan 2023 11:32:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>The FAA said Wednesday evening that a “damaged database file” was the root cause of a systemwide failure in its NOTAM safety information database, which grounded flights across the US for several hours that morning. There was “no evidence of a cyberattack,” according to the agency.</p><p>The ground stop was issued early Wednesday morning, shortly after the NOTAM — or Notice to Air Missions — system crashed, halting departures nationwide even as the airways recover from mass cancellations at Southwest Airlines over the holidays. <a href="https://www.computerworld.com/article/3685211/us-flights-resume-after-system-failure-causes-faa-to-halt-air-travel.html">Flights resumed later in the morning.</a></p><p class="jumpTag"><a href="/article/3685533/database-error-not-cyberattack-led-to-air-travel-stoppage-faa-says.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685533/database-error-not-cyberattack-led-to-air-travel-stoppage-faa-says.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685533/database-error-not-cyberattack-led-to-air-travel-stoppage-faa-says.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2018/08/business_travel_traveller_transportation_journey_suitcase_airport_destinations_arrivals_departures_data_by_encrier_gettyimages-512627676_1200x800-100766538-large.3x2.jpg">
+						<media:title type="html">Database error, not cyberattack, led to air travel stoppage, FAA says</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2018/08/business_travel_traveller_transportation_journey_suitcase_airport_destinations_arrivals_departures_data_by_encrier_gettyimages-512627676_1200x800-100766538-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Aerospace and Defense Industry</category>
+					
+				
+				
+					
+						<category>Database</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Amazon to face off with workers, government on staff reduction in India</title>
+
+		<pubDate>Thu, 12 Jan 2023 11:16:00 -0800</pubDate>
+
+		
+		
+		
+		<author>avenkat@idg.com</author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>As Amazon looks to shed staff around the world, it is heading for a showdown with worker and government representatives over its hotly contested Voluntary Separation Program (VSP) in India.</p><p>Workers say that the program has not been truly voluntary, but rather a way of enacting layoffs without going through legally sanctioned procedures. On its part, Amazon has said that none of the workers who have left the company in the last few months have been laid off, but rather have participated voluntarily in the VSP.</p><p>The company has not revealed the number of workers it says have recently left the company via the VSP.</p><p>Meanwhile, the Pune Labor Commission has summoned representatives from Amazon India and the Pune-based Nascent Information Technology Employees Senate (NITES), a workers rights association, to a joint meeting on January 17. Pune is the largest municipal district in the state of Maharashtra, and a major IT hub for the country.</p><p class="jumpTag"><a href="/article/3685411/amazon-to-face-off-with-workers-government-on-staff-reduction-in-india.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685411/amazon-to-face-off-with-workers-government-on-staff-reduction-in-india.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685411/amazon-to-face-off-with-workers-government-on-staff-reduction-in-india.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/idge/imported/imageapi/2022/11/18/03/800-32-100934674-large.3x2.jpg">
+						<media:title type="html">Amazon to face off with workers, government on staff reduction in India</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/idge/imported/imageapi/2022/11/18/03/800-32-100934674-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Technology Industry</category>
+					
+				
+				
+					
+						<category>Government</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>Is that an iPad in your fire truck or am I seeing things?</title>
+
+		<pubDate>Thu, 12 Jan 2023 10:48:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>In one frequently mocked <a href="https://www.applemust.com/whats-a-computer-apples-post-pc-promise-is-coming-true/" rel="nofollow noopener" target="_blank">Apple iPad ad</a>, a small child asked, “What’s a computer?” Critics continue to claim the tablet isn’t a real computer, and while that may be true sometimes, that's not always the case.</p><p>Just ask the fire service.</p><h2><strong>Your iPad does emergency calls</strong></h2>
+<p>An article from <a href="https://www.fireapparatusmagazine.com/magazine/fire-departments-use-more-electronic-devices-in-rigs-and-on-scene/" rel="nofollow noopener" target="_blank">Fire Apparatus Magazine</a> offers insights into how iPads are evolving to fill the spaces mobile teams rely on.</p><p class="jumpTag"><a href="/article/3685530/is-that-an-ipad-in-your-fire-truck-or-am-i-seeing-things.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685530/is-that-an-ipad-in-your-fire-truck-or-am-i-seeing-things.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685530/is-that-an-ipad-in-your-fire-truck-or-am-i-seeing-things.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2018/07/bad_news_man_reading_a_newspaper_on_fire_by_elijah_odonell_cc0_via_unsplash_1200x800-100764595-large.3x2.jpg">
+						<media:title type="html">Is that an iPad in your fire truck or am I seeing things?</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2018/07/bad_news_man_reading_a_newspaper_on_fire_by_elijah_odonell_cc0_via_unsplash_1200x800-100764595-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Mobile</category>
+					
+				
+				
+					
+						<category>Apple</category>
+					
+				
+				
+					
+						<category>iPad</category>
+					
+				
+				
+					
+						<category>iOS</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>PC sales fell hard in 2022</title>
+
+		<pubDate>Thu, 12 Jan 2023 08:45:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>PC sales dropped by more than 25% year-over-year in the last quarter of 2022, as did the prices for the hardware that did sell, according to several reports from industry research groups.</p><p>Every major PC vendor saw the heavy declines in PC sales, with Dell Technologies hardest hit in the fourth quarter; it experienced as much as a 37% drop in sales. Apple was the least affected, with as little as a 2.1% decline. (The figures vary somewhat depending on reports from IDC, Gartner and Canalys.)</p><p>The sales declines didn’t reshuffle the top three worldwide PC vendors with Lenovo maintaining its top spot, followed by HP and Dell.</p><p>While Lenovo retained 24% of the market share, it also endured its steepest decline since research firm Gartner started tracking the PC market. Lenovo’s shipments fell in all regions except Japan, declining by more than 30% in Europe, Middle East and Africa (EMEA) and Latin America.</p><p class="jumpTag"><a href="/article/3685433/pc-sales-fell-hard-in-2022.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685433/pc-sales-fell-hard-in-2022.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685433/pc-sales-fell-hard-in-2022.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2019/01/arrows_yin-yang_opposites_black-and-white_changing-directions_up-down_robinolimb_getty-100786533-large.3x2.jpg">
+						<media:title type="html">PC sales fell hard in 2022</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2019/01/arrows_yin-yang_opposites_black-and-white_changing-directions_up-down_robinolimb_getty-100786533-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Computers and Peripherals</category>
+					
+				
+				
+					
+						<category>Windows</category>
+					
+				
+				
+					
+						<category>MacOS</category>
+					
+				
+				
+					
+						<category>Chrome OS</category>
+					
+				
+				
+					
+						<category>Technology Industry</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Microsoft launches new 365 Basic tier, overhauls its Office app</title>
+
+		<pubDate>Thu, 12 Jan 2023 06:36:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Microsoft has announced it will be introducing a new, low-cost subscription tier to its Microsoft 365 product bundle.</p><p>Called <a href="https://www.microsoft.com/en-gb/microsoft-365/microsoft-365-basic-faqs?rtc=1" rel="nofollow">Microsoft 365 Basic</a>, the new tier will be priced at $1.99 per month, or $19.99 per year, and will be globally available on January 30. Initially, users will have access to 100GB of cloud storage, an ad-free Outlook web and mobile experience, with enhanced security features like <a href="https://www.csoonline.com/article/3236183/what-is-ransomware-how-it-works-and-how-to-remove-it.html">ransomware</a> recovery and password-protected sharing links in OneDrive being rolled out in the coming months.</p><p class="jumpTag"><a href="/article/3685432/microsoft-launches-new-365-basic-tier-overhauls-its-office-app.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685432/microsoft-launches-new-365-basic-tier-overhauls-its-office-app.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685432/microsoft-launches-new-365-basic-tier-overhauls-its-office-app.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-large.3x2.jpg">
+						<media:title type="html">Microsoft launches new 365 Basic tier, overhauls its Office app</media:title>
+						<media:thumbnail url="https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Productivity Software</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Alphabet-owned Verily cuts 15% workforce to simplify operating model</title>
+
+		<pubDate>Thu, 12 Jan 2023 04:50:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Alphabet-owned life sciences firm <a href="https://www.computerworld.com/article/3012557/googles-life-sciences-division-is-now-called-verily.html">Verily</a> is downsizing 15% of its workforce to simplify its operating model, according to a <a href="https://verily.com/blog/one-verily-forward/" rel="nofollow">company blog post</a>. The move comes just months after the company raised <a href="https://verily.com/press/verily-announces-1-billion-investment-round-to-fund-continued-growth-and-shares-changes-to-leadership-team/" rel="nofollow">$1 billion</a>.</p><p>The blog post, which contains the email sent by Chief Executive Stephen Gillett to all its employees, notes that the downsizing is part of the company’s One Verily program, which aims to reduce redundancy and simplify operational aspects within the company.</p><p class="jumpTag"><a href="/article/3685410/alphabet-owned-verily-cuts-15-workforce-to-simplify-operating-model.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685410/alphabet-owned-verily-cuts-15-workforce-to-simplify-operating-model.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685410/alphabet-owned-verily-cuts-15-workforce-to-simplify-operating-model.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2018/01/fired_terminated_layoffs_job-search-100746105-large.3x2.jpg">
+						<media:title type="html">Alphabet-owned Verily cuts 15% workforce to simplify operating model</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2018/01/fired_terminated_layoffs_job-search-100746105-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>IT Jobs</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Your next job recruiter might be an AI bot</title>
+
+		<pubDate>Thu, 12 Jan 2023 03:00:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Amid a recent spate of high-profile layoffs and a recognition many companies rushed to hire to fill pandemic-driven business needs, organizations are now refocusing on quality of hiring — and the use of artificial intelligence (AI) to aid in those efforts.</p><p>From 35% to 45% of companies are expected to use AI-based talent acquisition software and services to help select and interview job prospects in the coming year, according to two recent studies.</p><p>Nearly three in four organizations boosted their purchases of talent acquisition technology in 2022 and 70% plan to continue investing this year — even if a recession arrives — according to <a href="https://modernhire.com/evolution-of-ta/" rel="nofollow noopener" target="_blank">a survey by online job recruitment service Modern Hire</a>.</p><p class="jumpTag"><a href="/article/3685409/your-next-job-recruiter-might-be-an-ai-bot.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685409/your-next-job-recruiter-might-be-an-ai-bot.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685409/your-next-job-recruiter-might-be-an-ai-bot.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large.3x2-100928072-large.3x2.jpg">
+						<media:title type="html">Your next job recruiter might be an AI bot</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-small-100928072-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>IT Jobs</category>
+					
+				
+				
+					
+						<category>Careers</category>
+					
+				
+				
+					
+						<category>IT Training </category>
+					
+				
+				
+					
+						<category>Artificial Intelligence</category>
+					
+				
+				
+					
+						<category>HRIS</category>
+					
+				
+				
+					
+						<category>Augmented Reality</category>
+					
+				
+				
+					
+						<category>Chatbots</category>
+					
+				
+				
+					
+						<category>Diversity and Inclusion</category>
+					
+				
+				
+					
+						<category>IT Management</category>
+					
+				
+				
+					
+						<category>Virtual Reality</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>Apple puts local businesses on the Maps</title>
+
+		<pubDate>Wed, 11 Jan 2023 09:06:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>To some extent, businesses have been able to publicize their location <a href="https://www.applemust.com/how-to-add-a-business-to-apple-maps/" rel="nofollow noopener" target="_blank">within Apple Maps</a> for years. But the iPhone maker has now introduced significant improvements in a new service it calls Apple Business Connect.</p><h2><strong>Introducing Apple Business Connect</strong></h2>
+<p>The new tool gives business owners greater control over their public appearance across the Apple ecosystem. They can use it, for instance, to claim location place cards or customize how their information appears in Maps and other apps that use that data, such as Maps tiles in Messages or <a href="https://www.computerworld.com/article/3625881/voice-is-becoming-a-primary-search-technology.html">within Siri search</a>.</p><p class="jumpTag"><a href="/article/3685291/apple-puts-local-businesses-on-the-maps.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685291/apple-puts-local-businesses-on-the-maps.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685291/apple-puts-local-businesses-on-the-maps.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/idge/imported/imageapi/2021/08/26/09/apple-maps-mac-icon-big-sur-100900509-large.3x2.jpg">
+						<media:title type="html">Apple puts local businesses on the Maps</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/idge/imported/imageapi/2021/08/26/09/apple-maps-mac-icon-big-sur-100900509-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Mobile</category>
+					
+				
+				
+					
+						<category>Apple</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+					
+						<category>iOS</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>US flights resume after system failure causes FAA to halt air travel</title>
+
+		<pubDate>Wed, 11 Jan 2023 07:24:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>The Notice to Air Missions (NOTAM) system, a centralized database operated by the US Federal Aviation Administration (FAA) that provides key safety information for all air travel nationwide, was back online Wednesday morning after an outage that grounded flights across the country.</p><p>NOTAM provides an automated, central source of critical flight data for aviators, noting information like closed runways at particular airports, equipment outages, and hazards along travel routes. The FAA’s first public notice of the outage was in a tweet sent at approximately 6:30 a.m. Eastern Standard Time, but it’s unclear at what point, overnight, that the system actually went down. As of 9 a.m. EST, the FAA said in a follow-up tweet, the system was fully restored.</p><p class="jumpTag"><a href="/article/3685211/us-flights-resume-after-system-failure-causes-faa-to-halt-air-travel.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685211/us-flights-resume-after-system-failure-causes-faa-to-halt-air-travel.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685211/us-flights-resume-after-system-failure-causes-faa-to-halt-air-travel.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.techhive.com/images/article/2017/01/sfo-airport-departures-screen-4-100703320-large.3x2.jpg">
+						<media:title type="html">US flights resume after system failure causes FAA to halt air travel</media:title>
+						<media:thumbnail url="https://images.techhive.com/images/article/2017/01/sfo-airport-departures-screen-4-100703320-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Aerospace and Defense Industry</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Microsoft announces release date for Teams Premium offering</title>
+
+		<pubDate>Wed, 11 Jan 2023 07:00:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Teams Premium, a new tier of Microsoft Teams first announced at the company’s Ignite event in October, is set to be <a href="https://learn.microsoft.com/en-gb/partner-center/announcements/2023-january#9" rel="nofollow">generally available</a> from February this year.</p><p>Operating in public preview since December, the <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2022/10/12/introducing-microsoft-teams-premium-the-better-way-to-meet/" rel="nofollow">Premium version of the collaboration application</a> offers users advanced security features, such as the ability to watermark meetings, turn on end-to-end encryption for meetings with more than 50 participants, and add sensitivity labels for virtual meetings that will prevent participants from copying and pasting meeting chats.</p><p class="jumpTag"><a href="/article/3685210/microsoft-announces-release-date-for-teams-premium-offering.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685210/microsoft-announces-release-date-for-teams-premium-offering.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685210/microsoft-announces-release-date-for-teams-premium-offering.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/idge/imported/imageapi/2022/05/06/17/microsoft_teams_security_considerations_mobile_messaging_collaboration_tools_thinkstock_511734232_virtual_technology_focus_security_radar_circular_brackets_by_xresch_cc0_via_pixabay-100810567-large.3x2-100927383-large.3x2.jpg">
+						<media:title type="html">Microsoft announces release date for Teams Premium offering</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/idge/imported/imageapi/2022/05/06/17/microsoft_teams_security_considerations_mobile_messaging_collaboration_tools_thinkstock_511734232_virtual_technology_focus_security_radar_circular_brackets_by_xresch_cc0_via_pixabay-100810567-small-100927383-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Collaboration Software</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>The most promising Google Pixel product of 2023</title>
+
+		<pubDate>Wed, 11 Jan 2023 03:00:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>We may be only mere days into this shiny new year of ours, but man alive, lemme tell ya: I'm feeling pretty darn excited about what 2023's got cookin'.</p><p>Here in the land o' Googley matters, y'see, this odd-numbered eon is rapidly shaping up to be a significant one when it comes to Pixel-flavored produce. Google's riding the long-building momentum of its homemade Android products and gearin' up for a monumental year of potentially shapeshifting launches.</p><p>The Pixel prize we're hearing the most buzz about right now, without a doubt, is the on-again off-again (and still completely unofficial) folding Pixel phone — believed to be known as either the Pixel Fold or the Pixel Notepad, depending on <a href="https://9to5google.com/2022/11/16/google-pixel-fold-everything-we-know/" rel="noopener nofollow" target="_blank">which rumor du jour</a> you've read most recently.</p><p class="jumpTag"><a href="/article/3684855/google-pixel-2023.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3684855/google-pixel-2023.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3684855/google-pixel-2023.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2020/10/pixel-5-pixel-4a-pixel-4a-5g-100862255-large.3x2.jpg">
+						<media:title type="html">The most promising Google Pixel product of 2023</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2020/10/pixel-5-pixel-4a-pixel-4a-5g-100862255-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Android</category>
+					
+				
+				
+					
+						<category>Tablets</category>
+					
+				
+				
+					
+						<category>Google</category>
+					
+				
+				
+					
+						<category>Computers and Peripherals</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>How to switch from Android to iPhone</title>
+
+		<pubDate>Wed, 11 Jan 2023 03:00:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>The days when migrating from an Android device to an Apple iPhone was characterized by frustration, complexity, and lost data are for the most part behind us. Which means when you’re ready to make the leap to the Apple ecosystem, <a href="https://www.applemust.com/almost-half-of-android-users-are-willing-to-switch-survey/" rel="nofollow noopener" target="_blank">as many are</a>, the process should be straightforward — and even easier if you follow this guide.</p><h2><strong>There’s an app for that: Move to iOS</strong></h2>
+<p>Apple has created <a href="https://play.google.com/store/apps/details?id=com.apple.movetoios&amp;hl=en_GB&amp;gl=US" rel="nofollow noopener" target="_blank">Move to iOS</a>, an app to soothe the pain when moving to an iPhone. The app is available in the Google Play Store and automates much of the migration process for you.</p><p class="jumpTag"><a href="/article/3217024/how-to-switch-from-android-to-iphone.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3217024/how-to-switch-from-android-to-iphone.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3217024/how-to-switch-from-android-to-iphone.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2023/01/cw-android-to-iphone-100936164-large.3x2.jpg">
+						<media:title type="html">How to switch from Android to iPhone</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2023/01/cw-android-to-iphone-100936164-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>iOS</category>
+					
+				
+				
+					
+						<category>Android</category>
+					
+				
+				
+					
+						<category>iPhone</category>
+					
+				
+				
+					
+						<category>Smartphones</category>
+					
+				
+				
+					
+						<category>Apple</category>
+					
+				
+				
+					
+						<category>Google</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>IT leads industries in remote jobs</title>
+
+		<pubDate>Tue, 10 Jan 2023 14:11:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>The number of remote and hybrid jobs increased 20% last year, continuing a pandemic-led trend that saw remote jobs jump 12% in 2021, according to <a href="https://www.flexjobs.com/blog/post/100-top-companies-with-remote-jobs-2023" rel="nofollow noopener" target="_blank">a new report by online job site FlexJobs</a>.</p><p>While the rise in<a href="https://www.cnbc.com/2021/08/26/covid-pandemic-pushes-hunt-for-remote-jobs-up-460percent.html" rel="nofollow noopener" target="_blank"> remote and hybrid jobs</a> over the past two years isn’t surprising — the arrival of COVID-19 forced many companies to embrace workplace flexibility — the percent of remote or hybrid roles for manager- and senior-level positions is noteworthy.</p><p class="jumpTag"><a href="/article/3685232/it-leads-industries-in-remote-jobs.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685232/it-leads-industries-in-remote-jobs.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685232/it-leads-industries-in-remote-jobs.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2020/09/remote_worker_working_from_home_with_tablet_documents_notebook_by_morsa_images_gettyimages-1211318674_2400x1600-100857861-large.3x2.jpg">
+						<media:title type="html">IT leads industries in remote jobs</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2020/09/remote_worker_working_from_home_with_tablet_documents_notebook_by_morsa_images_gettyimages-1211318674_2400x1600-100857861-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Technology Industry</category>
+					
+				
+				
+					
+						<category>IT Jobs</category>
+					
+				
+				
+					
+						<category>Careers</category>
+					
+				
+				
+					
+						<category>Remote Work</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Office 365: A guide to the updates</title>
+
+		<pubDate>Tue, 10 Jan 2023 13:20:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Office 365 and Microsoft 365 subscribers get more frequent software updates than those who have purchased Office without a subscription, which means subscribers have access to the latest features, security patches, and bug fixes. But it can be hard to keep track of the changes in each update and know when they’re available. We’re doing this for you, so you don’t have to.</p><p>Following are summaries of the updates to Office 365/Microsoft 365 for Windows, with the latest releases shown first. We’ll add info about new updates as they’re rolled out.</p><p><em>Note: This story covers updates released to regular Office 365/Microsoft 365 for Windows subscribers. If you’re a member of Microsoft’s Office Insider preview program or want to get a sneak peek at upcoming features, see the company’s “<a href="https://insider.office.com/en-us/releasenotes/pc/fast" rel="nofollow noopener" target="_blank">Release notes for Office for Windows Desktop (Beta builds)</a>” page.</em></p><p class="jumpTag"><a href="/article/3205187/office-365-a-guide-to-the-updates.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3205187/office-365-a-guide-to-the-updates.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2017/06/microsoft-office-365-logo-2016-100727915-medium.jpg">
+						<media:title type="html">Office 365: A guide to the updates</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2017/06/microsoft-office-365-logo-2016-100727915-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Microsoft 365</category>
+					
+				
+				
+					
+						<category>Office Suites</category>
+					
+				
+				
+					
+						<category>Microsoft Office</category>
+					
+				
+				
+					
+						<category>Enterprise Applications</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Windows 10: A guide to the updates</title>
+
+		<pubDate>Tue, 10 Jan 2023 13:14:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>The launch of a major Windows 10 update isn’t the end of a process — it’s really just the beginning. As soon as one of Microsoft’s feature updates (such as Windows 10 version 22H2) is released, the company quickly gets to work on improving it by fixing bugs, releasing security patches, and occasionally adding new features.</p><p>In this story we summarize what you need to know about each update released to the public for the most recent versions of Windows 10 — versions 22H2, 21H2, 21H1, and 20H2. (Microsoft releases updates for those four versions together.) For each build, we’ve included the date of its initial release and a link to Microsoft’s announcement about it. The most recent updates appear first.</p><p class="jumpTag"><a href="/article/3199077/windows-10-a-guide-to-the-updates.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.techhive.com/images/article/2017/04/windows-10-logo-100717399-large.3x2.jpg">
+						<media:title type="html">Windows 10: A guide to the updates</media:title>
+						<media:thumbnail url="https://images.techhive.com/images/article/2017/04/windows-10-logo-100717399-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Windows 10</category>
+					
+				
+				
+					
+						<category>Windows</category>
+					
+				
+				
+					
+						<category>Microsoft</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Windows 11: A guide to the updates</title>
+
+		<pubDate>Tue, 10 Jan 2023 13:08:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>A Windows launch isn’t the end a process — it’s really just the beginning. As with Windows 10, Microsoft continually works on improving Windows 11 by fixing bugs, releasing security patches, and occasionally adding new features.</p><p>In this story we summarize what you need to know about each update released to the public for the most recent version of Windows 11. For each build, we’ve included the date of its release and a link to Microsoft’s announcement about it. The most recent updates appear first.</p><p>The easiest way to install updates is via Windows Update. Not sure how? See “<a href="https://www.computerworld.com/article/3014600/how-to-handle-windows-10-and-11-updates.html">How to handle Windows 10 and 11 updates</a>” for full instructions. Note that Windows 11 version 22H2 is being released as a phased rollout and may not be available to you in Windows Update yet.</p><p class="jumpTag"><a href="/article/3636790/windows-11-a-guide-to-the-updates.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3636790/windows-11-a-guide-to-the-updates.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/article/2020/07/software_update_by_gocmen_gettyimages-1146311500_2400x1600-100852481-large.3x2.jpg">
+						<media:title type="html">Windows 11: A guide to the updates</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/article/2020/07/software_update_by_gocmen_gettyimages-1146311500_2400x1600-100852481-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Windows 11</category>
+					
+				
+				
+					
+						<category>Windows</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>15 years of iPhone put Apple into business</title>
+
+		<pubDate>Tue, 10 Jan 2023 09:07:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>When he <a href="https://youtu.be/eywi0h_Y5_U" rel="noopener nofollow" target="_blank">laughed at the arrival of the first iPhone</a>, then-Microsoft CEO Steve Ballmer made it clear he thought Apple had no chance of success.</p><p>Things have changed a lot since <a href="https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html">Apple introduced iPhone in January 2007</a>.</p><h2><strong>The product that changed everything</strong></h2>
+<p>At the time, Apple was an iPod company that made also-ran, underpowered PowerPC Macs, too. Today, it’s the iPhone manufacturer whose iPad <a href="https://www.computerworld.com/article/2469296/ipad-xmas--apple-s-ipad-seizes-netbook-hearts.html">devoured the netbook ‘industry’</a> and whose entry-level Macs with their <a href="https://www.computerworld.com/article/3655131/apple-silicon-pandemic-drive-mac-enterprise-growth-admins-say.html">custom silicon</a> deliver low-energy computational performance that <a href="https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html">competes with the best PCs</a>.</p><p class="jumpTag"><a href="/article/3685228/15-years-of-iphone-put-apple-into-business.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685228/15-years-of-iphone-put-apple-into-business.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685228/15-years-of-iphone-put-apple-into-business.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/idge/imported/imageapi/2022/06/29/14/original-iphone-2007-100929610-large.3x2.jpg">
+						<media:title type="html">15 years of iPhone put Apple into business</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/idge/imported/imageapi/2022/06/29/14/original-iphone-2007-100929610-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Mobile</category>
+					
+				
+				
+					
+						<category>iPhone</category>
+					
+				
+				
+					
+						<category>iOS</category>
+					
+				
+				
+					
+						<category>Apple</category>
+					
+				
+				
+					
+						<category>Small and Medium Business</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Meta launches AI-based VRS system to reduce bias in advertising</title>
+
+		<pubDate>Tue, 10 Jan 2023 08:00:00 -0800</pubDate>
+
+		
+		
+		
+		<author>avenkat@idg.com</author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Meta has launched the AI-based Variance Reduction System (VRS) in the US, to reduce bias in the distribution of advertisements, after working in partnership with the Department of Justice for a year. </p><p>The company had <a href="https://about.fb.com/news/2022/06/expanding-our-work-on-ads-fairness/" rel="nofollow">announced</a> its plan to create VRS for equitable distribution of ads as a part of a settlement with the DOJ, which was representing the US Department of Housing and Urban Development (HUD), in June last year. </p><p>The development of VRS was part of the settlement for a <a href="https://about.fb.com/wp-content/uploads/2022/06/June_2022_HUD_Settlement_Agreement.pdf" rel="nofollow">complaint</a> raised in August 2018, in which Meta social network platforms were accused of violating the Fair Housing Act, based on their targeting options and delivery processes for housing advertisements. The company’s ads were said to facilitate certain demographic groups over others, through indirect profiling. </p><p class="jumpTag"><a href="/article/3685229/meta-launches-ai-based-vrs-system-to-reduce-bias-in-advertising.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685229/meta-launches-ai-based-vrs-system-to-reduce-bias-in-advertising.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685229/meta-launches-ai-based-vrs-system-to-reduce-bias-in-advertising.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.techhive.com/images/article/2017/05/facebook-billions-users_primary-100721420-large.3x2.jpg">
+						<media:title type="html">Meta launches AI-based VRS system to reduce bias in advertising</media:title>
+						<media:thumbnail url="https://images.techhive.com/images/article/2017/05/facebook-billions-users_primary-100721420-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Artificial Intelligence</category>
+					
+				
+				
+					
+						<category>Diversity and Inclusion</category>
+					
+				
+				
+					
+						<category>Regulation</category>
+					
+				
+				
+					
+						<category>Technology Industry</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+		
+			
+			
+		
+		
+	<item>
+
+		<title>The office is dead</title>
+
+		<pubDate>Tue, 10 Jan 2023 04:30:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Elon Musk didn't make many friends when he took over Twitter, but some <a href="https://www.entrepreneur.com/leadership/elon-musk-was-right-to-ban-remote-work-heres-why/437963" rel="nofollow">bosses liked that he banned remote work</a>.</p><p>Too bad he's already backed off that idea. When <a href="https://www.seattletimes.com/business/facing-eviction-twitter-closes-seattle-office-reports-say/" rel="nofollow">Twitter was evicted from its Seattle offices</a> because Musk was no longer paying rent, he told <a href="https://twitter.com/ZoeSchiffer/status/1608605237115510787" rel="nofollow">Twitter's Washington state workers they now had to work from home. </a></p><p class="jumpTag"><a href="/article/3684773/the-office-is-dead.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3684773/the-office-is-dead.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3684773/the-office-is-dead.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Remote Work</category>
+					
+				
+				
+					
+						<category>IT Leadership</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+			
+				
+				
+					
+						
+							
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	<item>
+
+		<title>Microsoft in talks to invest $10 billion in OpenAI: Report</title>
+
+		<pubDate>Tue, 10 Jan 2023 03:09:00 -0800</pubDate>
+
+		
+		
+		
+		<author></author>
+		
+
+		
+		
+		<description><![CDATA[<article>
+	<section class="page">
+<p>Microsoft is in talks to invest an additional $10 billion into <a href="https://www.computerworld.com/article/3683209/gpt-high-tech-parlor-trick-or-first-real-ai-for-everyday-use.html">ChatGPT</a> owner OpenAI as it looks to integrate the GPT3-based chatbot into its search engine Bing, <a href="https://www.semafor.com/article/01/09/2023/microsoft-eyes-10-billion-bet-on-chatgpt" rel="nofollow">Semafor</a> reported.</p><p>In 2019, <a href="https://openai.com/blog/microsoft/" rel="nofollow">Microsoft had invested $1 billion in OpenAI</a> to expedite efforts to further <a href="https://www.infoworld.com/article/3257149/artificial-general-intelligence-agi-the-steps-to-true-ai.html">artificial general intelligence</a> for “widely distributed economic benefits.”</p><p class="jumpTag"><a href="/article/3685208/microsoft-in-talks-to-invest-10-billion-in-openai-report.html#jump">To read this article in full, please click here</a></p></section></article>]]></description>
+
+		<link>https://www.computerworld.com/article/3685208/microsoft-in-talks-to-invest-10-billion-in-openai-report.html#tk.rss_all</link>
+		<guid isPermaLink="false">https://www.computerworld.com/article/3685208/microsoft-in-talks-to-invest-10-billion-in-openai-report.html#tk.rss_all</guid>
+		
+		
+		
+		
+		
+			
+				
+				
+					<media:content url="https://images.idgesg.net/images/idge/imported/imageapi/2022/01/25/07/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large.3x2-100917127-large.3x2.jpg">
+						<media:title type="html">Microsoft in talks to invest $10 billion in OpenAI: Report</media:title>
+						<media:thumbnail url="https://images.idgesg.net/images/idge/imported/imageapi/2022/01/25/07/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-small-100917127-small.jpg" />
+					</media:content>
+				
+			
+		
+		
+		
+
+		
+		
+			<categories>
+				
+				
+					
+						<category>Chatbots</category>
+					
+				
+				
+					
+						<category>Microsoft</category>
+					
+				
+				
+					
+						<category>Artificial Intelligence</category>
+					
+				
+				
+			</categories>
+ 		
+		
+	</item>
+ 
+					
+				
+			
+		
+	
+	
+
+
+
+
+		<atom:link href="https://www.computerworld.com/index.rss" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

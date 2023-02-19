@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 15 Jan 2023 19:10:31 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Jan 2023 17:59:14 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>Microsoft Bets Big on the Creator of ChatGPT in Race to Dominate A.I.</title>
+      <link>https://www.nytimes.com/2023/01/12/technology/microsoft-openai-chatgpt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/12/technology/microsoft-openai-chatgpt.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/12/technology/microsoft-openai-chatgpt.html" rel="standout"></atom:link>
+      <description>As a new chatbot wows the world with its conversational talents, a resurgent tech giant is poised to reap the benefits while doubling down on a relationship with the start-up OpenAI.</description>
+      <dc:creator>Cade Metz and Karen Weise</dc:creator>
+      <pubDate>Fri, 13 Jan 2023 21:25:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadella, Satya</category>
+      <category domain="">Future</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/12/multimedia/00microsoft-openai-02-vtjq/00microsoft-openai-02-vtjq-moth.jpg" width="151"></media:content>
+      <media:credit>Ian C. Bates for The New York Times</media:credit>
+      <media:description>Sam Altman, left, one of the founders of OpenAI, and Satya Nadella, Microsoft’s chief executive, agreed to a $1 billion investment by Microsoft in 2019.</media:description>
+    </item>
+    <item>
+      <title>Don’t Ban ChatGPT in Schools. Teach With It.</title>
+      <link>https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html" rel="standout"></atom:link>
+      <description>OpenAI’s new chatbot is raising fears of cheating on homework, but its potential as an educational tool outweighs its risks.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Fri, 13 Jan 2023 02:28:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tutors and Tutoring</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/13/business/12roose/12roose-moth.jpg" width="151"></media:content>
+      <media:credit>Nata Metlukh</media:credit>
+    </item>
+    <item>
+      <title>SEC Charges Crypto Companies With Offering Unregistered Securities</title>
+      <link>https://www.nytimes.com/2023/01/12/technology/sec-crypto-gemini-genesis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/12/technology/sec-crypto-gemini-genesis.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/12/technology/sec-crypto-gemini-genesis.html" rel="standout"></atom:link>
+      <description>The S.E.C. charged Genesis Global Capital and Gemini Trust, which is run by Cameron and Tyler Winklevoss, as crypto companies face heightened regulatory scrutiny.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Thu, 12 Jan 2023 23:45:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Securities and Commodities Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Genesis Global Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gemini Trust Co LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Digital Currency Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Winklevoss, Cameron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Winklevoss, Tyler</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/12/business/12GEMINI/12GEMINI-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <media:description>Tyler Winklevoss, left, and Cameron Winklevoss, created the crypto exchange Gemini Trust, which has been charged with offering unregistered securities.</media:description>
+    </item>
+    <item>
+      <title>A Teacher Who Loves ChatGPT and Is ‘M3GAN’ Real?</title>
+      <link>https://www.nytimes.com/2023/01/13/podcasts/hard-fork-chatgpt-teachers-gen-z-cameras-m3gan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/13/podcasts/hard-fork-chatgpt-teachers-gen-z-cameras-m3gan.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/13/podcasts/hard-fork-chatgpt-teachers-gen-z-cameras-m3gan.html" rel="standout"></atom:link>
+      <description>Also, why teenagers are buying old digital cameras.</description>
+      <dc:creator>Kevin Roose, Casey Newton, Davis Land, Paula Szuchman, Alyssa Moxley, Dan Powell, Elisheba Ittoop and Marion Lozano</dc:creator>
+      <pubDate>Fri, 13 Jan 2023 10:05:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">M3GAN (Movie)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/15/podcasts/13hardfork-chatgpt-teachers/13hardfork-chatgpt-teachers-moth.jpg" width="151"></media:content>
+      <media:credit>Photo Illustration: The New York Times; Image: Bet_Noire, via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Bob Jordan, Southwest Airlines’ CEO, on What Went Wrong</title>
+      <link>https://www.nytimes.com/2023/01/13/business/southwest-airlines-bob-jordan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/13/business/southwest-airlines-bob-jordan.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/13/business/southwest-airlines-bob-jordan.html" rel="standout"></atom:link>
+      <description>Southwest Airlines’ chief executive, Bob Jordan, said frigid temperatures and mistakes by the company caused its meltdown around Christmas.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Fri, 13 Jan 2023 19:57:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Southwest Airlines Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jordan, Robert E (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oliver Wyman Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consultants</category>
+    </item>
+    <item>
+      <title>Sam Bankman-Fried, Founder of FTX, Responds to Fraud Charges</title>
+      <link>https://www.nytimes.com/2023/01/12/technology/sam-bankman-fried-fraud-charges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/12/technology/sam-bankman-fried-fraud-charges.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/12/technology/sam-bankman-fried-fraud-charges.html" rel="standout"></atom:link>
+      <description>The disgraced founder of the crypto exchange FTX denied that he stole anyone’s money and said customers could still get their deposits back.</description>
+      <dc:creator>David Yaffe-Bellany and Matthew Goldstein</dc:creator>
+      <pubDate>Thu, 12 Jan 2023 15:34:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alameda Research LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Caroline (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Zixiao (Gary)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/12/multimedia/12sbf-response-03-kbvq/12sbf-response-03-kbvq-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Sam Bankman-Fried, the founder of FTX, has been charged with fraud, money laundering and campaign finance violations.</media:description>
+    </item>
+    <item>
+      <title>Amazon Loses Bid to Overturn Union Victory at Staten Island Warehouse</title>
+      <link>https://www.nytimes.com/2023/01/11/business/amazon-staten-island-union.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/11/business/amazon-staten-island-union.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/11/business/amazon-staten-island-union.html" rel="standout"></atom:link>
+      <description>A National Labor Relations Board official found a lack of evidence to support claims of election improprieties. Amazon could appeal the decision.</description>
+      <dc:creator>Noam Scheiber and Karen Weise</dc:creator>
+      <pubDate>Thu, 12 Jan 2023 14:28:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon Labor Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Labor Relations Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Staten Island (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/11/multimedia/11amazon-union-01-jtkg/11amazon-union-01-jtkg-moth.jpg" width="151"></media:content>
+      <media:credit>DeSean McClinton-Holland for The New York Times</media:credit>
+      <media:description>Amazon employees in line to vote in the parking lot of the JFK8 fulfillment center on Staten Island last March.</media:description>
+    </item>
+    <item>
+      <title>Twitter Said to Consider Selling User Names to Boost Revenue</title>
+      <link>https://www.nytimes.com/2023/01/11/technology/twitter-user-names-elon-musk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/11/technology/twitter-user-names-elon-musk.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/11/technology/twitter-user-names-elon-musk.html" rel="standout"></atom:link>
+      <description>The company has discussed selling some user names through online auctions, people with knowledge of the plans said.</description>
+      <dc:creator>Ryan Mac and Kate Conger</dc:creator>
+      <pubDate>Wed, 11 Jan 2023 18:04:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/12/multimedia/11twitter-01-fgzk/11twitter-01-fgzk-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>Elon Musk has said that he wanted to start eliminating inactive accounts on Twitter and free up 1.5 billion user names.</media:description>
+    </item>
+    <item>
+      <title>How to Make Your Smartphone Photos So Much Better</title>
+      <link>https://www.nytimes.com/2023/01/11/technology/personaltech/smartphone-cameras-tips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/11/technology/personaltech/smartphone-cameras-tips.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/11/technology/personaltech/smartphone-cameras-tips.html" rel="standout"></atom:link>
+      <description>Professional photographers have long used the RAW format and editing software to turn image files into gorgeous pictures — and you can, too.</description>
+      <dc:creator>J. D. Biersdorfer</dc:creator>
+      <pubDate>Thu, 12 Jan 2023 04:25:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/12/technology/personaltech/11TECHTIP-TOP/11TECHTIP-TOP-moth.jpg" width="151"></media:content>
+      <media:credit>Photograph by J.D. Biersdorfer, software by Adobe Lightroom</media:credit>
+      <media:description>RAW files provide more data for a photo-editing program to use. Here, an enhanced image of Lower Manhattan captured in Apple’s ProRAW format on an iPhone 14 Pro Max and edited in Adobe Lightroom, right on the phone.</media:description>
+    </item>
+    <item>
+      <title>AI’s Best Trick Yet Is Showering Us With Attention</title>
+      <link>https://www.nytimes.com/2023/01/11/magazine/ai-photo-filters-selfies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/11/magazine/ai-photo-filters-selfies.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/11/magazine/ai-photo-filters-selfies.html" rel="standout"></atom:link>
+      <description>Face filters and selfie apps are so compelling because they simulate limitless interest in what we look like.</description>
+      <dc:creator>Sophie Haigney</dc:creator>
+      <pubDate>Thu, 12 Jan 2023 14:33:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+    </item>
+    <item>
+      <title>Korean Solar Company Plans to Build $2.5 Billion Plant in Georgia</title>
+      <link>https://www.nytimes.com/2023/01/11/business/energy-environment/qcells-solar-panel-factory-georgia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/11/business/energy-environment/qcells-solar-panel-factory-georgia.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/11/business/energy-environment/qcells-solar-panel-factory-georgia.html" rel="standout"></atom:link>
+      <description>Hanwha Qcells expects to make solar panels and their components in the United States to take advantage of President Biden’s climate policies.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Wed, 11 Jan 2023 19:50:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kemp, Brian P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ossoff, Jon</category>
+      <category domain="">emergingtech</category>
+    </item>
+    <item>
+      <title>Inside Intel’s Delays in Delivering a Crucial New Microprocessor</title>
+      <link>https://www.nytimes.com/2023/01/10/technology/intel-sapphire-rapids-microprocessor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/10/technology/intel-sapphire-rapids-microprocessor.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/10/technology/intel-sapphire-rapids-microprocessor.html" rel="standout"></atom:link>
+      <description>The company grappled with missteps for years while developing a microprocessor code-named Sapphire Rapids. It comes out on Tuesday.</description>
+      <dc:creator>Don Clark</dc:creator>
+      <pubDate>Wed, 11 Jan 2023 04:30:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gelsinger, Patrick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/11/multimedia/intel-04-ptwj/intel-04-ptwj-moth.jpg" width="151"></media:content>
+      <media:credit>Anastasiia Sapon for The New York Times</media:credit>
+      <media:description>Sapphire Rapids is the code name for a new Intel microprocessor, shown here, which faced bumps during its development.</media:description>
+    </item>
+    <item>
+      <title>Three-Quarters of Teenagers Have Seen Online Pornography by Age 17</title>
+      <link>https://www.nytimes.com/2023/01/10/technology/porn-teens-online-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/10/technology/porn-teens-online-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/10/technology/porn-teens-online-report.html" rel="standout"></atom:link>
+      <description>Sexually explicit content has become so prevalent online that teenagers are deluged, according to a new report by a nonprofit child advocacy group.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Tue, 10 Jan 2023 13:18:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Common Sense Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/10/business/10teen-porn-print-01/10teen-porn-01-moth.jpg" width="151"></media:content>
+      <media:credit>Maskot/Getty Images</media:credit>
+      <media:description>Of the teenagers surveyed by Common Sense Media, 41 percent said they had seen images of nudity or sexual acts online during the school day.</media:description>
+    </item>
+    <item>
+      <title>AI Is Becoming More Conversant. But Will It Get More Honest? </title>
+      <link>https://www.nytimes.com/2023/01/10/science/character-ai-chatbot-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/10/science/character-ai-chatbot-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/10/science/character-ai-chatbot-intelligence.html" rel="standout"></atom:link>
+      <description>At a new website called Character.AI, you can chat with a reasonable facsimile of almost anyone, live or dead, real or (especially) imagined.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Tue, 10 Jan 2023 16:02:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conversation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Character.AI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De Freitas, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shazeer, Noam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="">emergingtech</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/10/multimedia/10SCI-CHARACTERAI-1-e68d/10SCI-CHARACTERAI-1-e68d-moth.jpg" width="151"></media:content>
+      <media:credit>Ian C. Bates for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Brazil Riot and Jan. 6 Attack Followed a Similar Digital Playbook, Experts Say</title>
+      <link>https://www.nytimes.com/2023/01/09/technology/brazil-riots-jan-6-misinformation-social-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/09/technology/brazil-riots-jan-6-misinformation-social-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/09/technology/brazil-riots-jan-6-misinformation-social-media.html" rel="standout"></atom:link>
+      <description>Researchers are studying how the internet was used to stoke anger and to organize far-right groups ahead of the Brazilian riots.</description>
+      <dc:creator>Sheera Frenkel</dc:creator>
+      <pubDate>Tue, 10 Jan 2023 00:07:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/09/multimedia/09brazil-blog-misinfo-replace03-fmqw/09brazil-blog-misinfo-replace03-fmqw-moth.jpg" width="151"></media:content>
+      <media:credit>Eraldo Peres/Associated Press</media:credit>
+      <media:description>Supporters of Brazil’s former President Jair Bolsonaro stood on the roof of the National Congress building in Brasília on Sunday.</media:description>
+    </item>
+    <item>
+      <title>A.I. Turns Its Artistry to Creating New Human Proteins</title>
+      <link>https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html" rel="standout"></atom:link>
+      <description>Inspired by digital art generators like DALL-E, biologists are building artificial intelligences that can fight cancer, flu and Covid.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Mon, 09 Jan 2023 13:14:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Proteins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="">emergingtech</category>
+    </item>
+    <item>
+      <title>The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera</title>
+      <link>https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html" rel="standout"></atom:link>
+      <description>Young people are opting for point-and-shoots and blurry photos.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Sat, 07 Jan 2023 10:00:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/08/business/07digital-cameras-02/07digital-cameras-02-moth.jpg" width="151"></media:content>
+      <media:credit>Sadie Grey Strosser</media:credit>
+      <media:description>Sadie Grey Strosser started photographing with a point-and-shoot digital camera when she took a semester off from school.</media:description>
+    </item>
+    <item>
+      <title>A New Area of A.I. Booms, Even Amid the Tech Gloom</title>
+      <link>https://www.nytimes.com/2023/01/07/technology/generative-ai-chatgpt-investments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/07/technology/generative-ai-chatgpt-investments.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/07/technology/generative-ai-chatgpt-investments.html" rel="standout"></atom:link>
+      <description>An investment frenzy over “generative artificial intelligence” has gripped Silicon Valley, as tools that generate text, images and sounds in response to short prompts seize the imagination.</description>
+      <dc:creator>Erin Griffith and Cade Metz</dc:creator>
+      <pubDate>Sat, 07 Jan 2023 18:00:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Founders Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stability AI Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Capital</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/07/multimedia/06JPai-frenzy-print-01-1-fa6f/06ai-frenzy-01-1-fa6f-moth.jpg" width="151"></media:content>
+      <media:credit>Mike Cohen for The New York Times</media:credit>
+      <media:description>Sam Altman, a founder and chairman of OpenAI, a lab that is popularizing generative artificial intelligence. The company is now in talks on a tender offer.</media:description>
+    </item>
+    <item>
+      <title>‘Alexa, Why Do We Keep Buying You?’</title>
+      <link>https://www.nytimes.com/2023/01/07/technology/personaltech/alexa-amazon-uses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/07/technology/personaltech/alexa-amazon-uses.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/07/technology/personaltech/alexa-amazon-uses.html" rel="standout"></atom:link>
+      <description>With questions swirling about the utility of voice assistants, we asked readers how they use one of the most popular, Amazon’s Alexa. Here’s what they answered.</description>
+      <dc:creator>Hanna Ingber</dc:creator>
+      <pubDate>Sat, 07 Jan 2023 08:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speakers (Audio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Automation and Smart Homes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Appliances</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/01/07/business/00alexa-feelings/00alexa-feelings-moth.jpg" width="151"></media:content>
+      <media:credit>Jackie Ferrentino</media:credit>
+    </item>
+    <item>
+      <title>What Are Your Tech Resolutions for 2023?</title>
+      <link>https://www.nytimes.com/2023/01/06/business/tech-resolutions-2023.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/01/06/business/tech-resolutions-2023.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/01/06/business/tech-resolutions-2023.html" rel="standout"></atom:link>
+      <description>The Times wants to know how you plan to use technology differently this year.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 07 Jan 2023 00:50:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/24/business/15Techfix-illo/15Techfix-illo-moth.jpg" width="151"></media:content>
+      <media:credit>Glenn Harvey</media:credit>
+    </item>
+  </channel>
+</rss>

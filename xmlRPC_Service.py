@@ -85,7 +85,7 @@ def getsorting(arg):
 #arg1 is normalization, arg2 is ranking
 def execute_query(query, arg1 = "", arg2 = ""):
 # this method returns the results of this service
-        junk="/tmp/JUNK7"
+        junk="/tmp/JUNK"
         print(query)
         pdb = IDB(junk)
         squery = SQUERY(query)

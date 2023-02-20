@@ -49,7 +49,7 @@ for url in feed_urls:
 with open("articles.xml", "wb") as f:
     for feed_element in all_feed_elements:
         # write the XML for the feed_element to the file
-        f.write(ET.tostring(feed_element, encoding="iso-8859-1", xml_declaration=False, with_tail=False))
+        f.write(ET.tostring(feed_element, encoding="iso-8859-1", xml_declaration=False))
 
 
 
